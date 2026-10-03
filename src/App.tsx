@@ -3,9 +3,11 @@ import { ArrowsClockwise, Funnel, Stethoscope } from '@phosphor-icons/react'
 import { FilterPanel, DEFAULT_FILTERS } from './components/FilterPanel'
 import { Row } from './components/Row'
 import { ClosingSoon } from './components/ClosingSoon'
+import { CategoryTabs } from './components/CategoryTabs'
+import { PortfolioPath } from './components/PortfolioPath'
 import { applyFilters, dataset, daysLeft, destinations, fit, statusOf, timeAgo } from './lib/data'
 import { useShortlist } from './lib/useShortlist'
-import type { Filters } from './types'
+import type { Category, Filters } from './types'
 
 const PAGE = 20
 
@@ -19,10 +21,14 @@ export default function App() {
 
   const stats = useMemo(() => {
     const live = dataset.items.filter((i) => statusOf(i) !== 'closed')
+    const counts: Record<Category | 'all', number> = { all: live.length, funding: 0, research: 0, volunteer: 0, training: 0 }
+    for (const i of live) counts[i.category] += 1
     return {
       live: live.length,
       closing: live.filter((i) => statusOf(i) === 'closing').length,
-      full: live.filter((i) => i.funding === 'full').length,
+      full: live.filter((i) => i.funding === 'full' && i.category === 'funding').length,
+      experience: counts.research + counts.volunteer + counts.training,
+      counts,
     }
   }, [])
 
@@ -31,7 +37,7 @@ export default function App() {
       dataset.items
         .filter((i) => {
           const d = daysLeft(i)
-          return d !== null && d >= 0 && d <= 30 && (i.kind === 'curated' || fit(i) >= 8)
+          return d !== null && d >= 0 && d <= 30 && (i.kind === 'curated' || fit(i) >= 10)
         })
         .sort((a, b) => daysLeft(a)! - daysLeft(b)!)
         .slice(0, 3),
@@ -61,19 +67,20 @@ export default function App() {
       </header>
 
       <section className="grid gap-8 pb-10 pt-6 md:pt-10 lg:grid-cols-[1fr_auto] lg:items-end">
-        <div className="max-w-[44rem]">
+        <div className="max-w-[52rem]">
           <h1 className="text-4xl font-semibold leading-[1.05] tracking-tighter text-balance md:text-6xl">
-            Funding for medical graduates
+            Funding and research experience for new doctors
           </h1>
-          <p className="mt-5 max-w-[52ch] text-lg leading-relaxed text-muted">
-            Checked every six hours across scholarship boards and official programme pages. Opportunities open to Nigerian doctors rank first.
+          <p className="mt-5 max-w-[56ch] text-lg leading-relaxed text-muted">
+            Checked every six hours across scholarship boards and official pages. Scholarships, research roles, volunteering and free training, ranked for Nigerian doctors.
           </p>
         </div>
-        <dl className="num grid grid-cols-3 gap-8 lg:gap-10">
+        <dl className="num grid grid-cols-2 gap-x-8 gap-y-6 sm:grid-cols-4 lg:gap-x-10">
           {[
-            ['Open or recurring', stats.live],
+            ['Open or ongoing', stats.live],
             ['Closing in 30 days', stats.closing],
-            ['Fully funded', stats.full],
+            ['Fully funded degrees', stats.full],
+            ['Research and volunteer', stats.experience],
           ].map(([label, n]) => (
             <div key={label as string}>
               <dd className="text-3xl font-semibold tracking-tight md:text-4xl">{n}</dd>
@@ -102,7 +109,15 @@ export default function App() {
         </aside>
 
         <main id="results" className="min-w-0">
-          <h2 className="border-b border-line pb-3 text-sm font-semibold text-muted" aria-live="polite">
+          <CategoryTabs value={filters.category} counts={stats.counts} onChange={(c) => change({ ...filters, category: c })} />
+
+          {(filters.category === 'research' || filters.category === 'volunteer' || filters.category === 'training') && (
+            <div className="mt-5">
+              <PortfolioPath />
+            </div>
+          )}
+
+          <h2 className="mt-6 border-b border-line pb-3 text-sm font-semibold text-muted" aria-live="polite">
             {results.length} {results.length === 1 ? 'opportunity' : 'opportunities'}
           </h2>
 
@@ -139,7 +154,7 @@ export default function App() {
           <div className="max-w-[56ch]">
             <p className="font-semibold text-ink">How this list stays current</p>
             <p className="mt-2 leading-relaxed">
-              A scheduled job reads {dataset.meta.sources.filter((s) => s.ok).length} scholarship boards, filters for postgraduate and health-relevant calls, reads deadlines from each listing, and removes expired ones. Official programme links are re-checked on every run.
+              A scheduled job reads {dataset.meta.sources.filter((s) => s.ok).length} opportunity boards, keeps health-relevant scholarships, research roles, volunteering and training, reads deadlines from each listing, and removes expired ones. Official programme links are re-checked on every run.
             </p>
           </div>
           <div className="max-w-[56ch]">

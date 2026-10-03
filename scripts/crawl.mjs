@@ -17,13 +17,29 @@ const LINKS_ONLY = process.argv.includes('--links-only')
 const SEARCH_SITES = [
   { name: 'Opportunities for Africans', base: 'https://www.opportunitiesforafricans.com/' },
   { name: 'Opportunity Desk', base: 'https://opportunitydesk.org/' },
+  { name: 'Opportunities for Youth', base: 'https://opportunitiesforyouth.org/' },
 ]
-const QUERIES = ['medical', 'medicine', 'public health', 'health fellowship', 'doctors', 'mastercard foundation', 'masters nigeria', 'postgraduate africa', 'global health', 'clinical research']
+const QUERIES = [
+  'medical', 'medicine', 'public health', 'health fellowship', 'doctors', 'mastercard foundation', 'masters nigeria',
+  'postgraduate africa', 'global health', 'clinical research',
+  // research experience, volunteering and portfolio building
+  'volunteer health', 'research internship', 'medical internship', 'epidemiology', 'research assistant health',
+  'health research fellowship', 'free course health', 'conference travel grant', 'summer school health',
+]
+const CATEGORY_FEEDS = [
+  ['Opportunities for Africans', 'https://www.opportunitiesforafricans.com/category/internships/feed/'],
+  ['Opportunities for Africans', 'https://www.opportunitiesforafricans.com/category/fellowships/feed/'],
+  ['Opportunities for Africans', 'https://www.opportunitiesforafricans.com/category/call-for-applications/feed/'],
+  ['Opportunity Desk', 'https://opportunitydesk.org/category/internships/feed/'],
+  ['Opportunity Desk', 'https://opportunitydesk.org/category/fellowships/feed/'],
+  ['Opportunity Desk', 'https://opportunitydesk.org/category/training/feed/'],
+].flatMap(([name, url]) => [1, 2, 3].map((page) => ({ name, label: `${name} ${url} p${page}`, url: page > 1 ? `${url}?paged=${page}` : url })))
 const FEEDS = [
   { name: 'Opportunities for Africans', url: 'https://www.opportunitiesforafricans.com/feed/' },
   { name: 'Opportunity Desk', url: 'https://opportunitydesk.org/feed/' },
-  { name: 'Scholarship Region', url: 'https://www.scholarshipregion.com/feed/' },
+  { name: 'Opportunities for Youth', url: 'https://opportunitiesforyouth.org/feed/' },
   { name: 'Funds for NGOs', url: 'https://www.fundsforngos.org/feed/' },
+  ...CATEGORY_FEEDS,
   ...SEARCH_SITES.flatMap((s) =>
     QUERIES.flatMap((q) =>
       [1, 2].map((page) => ({
@@ -99,7 +115,82 @@ function extractDeadline(text) {
 const hash = (s) => createHash('sha1').update(s).digest('hex').slice(0, 12)
 const clip = (s, n) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(' ', n)).replace(/[,.;:\s]+$/, '') + '...')
 
+// Categories: funding (degrees), research (fellowships, research roles), volunteer (volunteering, internships),
+// training (courses, conferences). Everything except funding must be health-relevant to be kept.
+const CAT = {
+  volunteer: /volunteer|\bintern(ship)?s?\b|externship|work placement/i,
+  degree: /scholarship|bursary|studentship|\bmaster(?!card)|\bmsc\b|\bmph\b|\bphd\b|doctoral|degree|tuition/i,
+  training: /conference|symposium|congress|summer school|winter school|course|workshop|training|webinar|bootcamp|certificate|masterclass|short programme|travel (grant|award)/i,
+  research: /fellowship|research (assistant|associate|fellow|grant|programme|program)|attachment|traineeship|capacity building|early.?career/i,
+}
+const NOT_JOB = /\bjobs?\b|vacanc|recruit|we are hiring|now hiring|job opening|apply for (the )?position|full-time (role|position)/i
+const STUDENTS_ONLY = /(for|open to|only)\s+(current\s+)?(undergraduate|medical|nursing|pharmacy|dental)\s+students?\b/i
+const REMOTE = /\bremote(ly)?\b|\bonline\b|\bvirtual(ly)?\b|work from home|distance learning/i
+const OPEN_TO_NG = /nigeria|africa|worldwide|global|international|online|virtual|remote|all nationalit|developing|low.?(and|&)?.?middle|open to all/i
+
+// Never relevant to a doctor, even when a word like "tropical" trips the health check.
+const HARD_OFF = /agricultur|\bcrops?\b|livestock|forestry|\bfood security\b|mining|petroleum|software|\bbanking\b|accounting|startups?\b|cultural heritage|crisis leadership|management training scheme/i
+
+/** Normalised first words of a title, used to collapse the same call listed on several sites. */
+const titleKey = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim().split(' ').slice(0, 6).join(' ')
+
+function detectCategory(title) {
+  if (CAT.volunteer.test(title)) return 'volunteer'
+  if (CAT.degree.test(title)) return 'funding'
+  if (CAT.training.test(title)) return 'training'
+  if (CAT.research.test(title)) return 'research'
+  return 'funding'
+}
+
+function classifyOpportunity(category, title, body, source, link, pubDate) {
+  const text = `${title}. ${body}`
+  if (NOT_JOB.test(title) || RX.notFresh.test(title) || STUDENTS_ONLY.test(title)) return null
+  if (RX.otherNationOnly.test(title) && !RX.eligible.test(title)) return null
+  const medicalTitle = RX.medical.test(title)
+  // Long pages mention "health" in boilerplate, so a body-only match needs real density.
+  const medicalBody = (text.match(new RegExp(RX.medical.source, 'gi')) || []).length >= 10
+  if (!medicalTitle && !medicalBody) return null
+  if (!medicalTitle && RX.offField.test(title.replace(/internship/gi, ''))) return null
+  if (/media|journalis|reporting|film|animation/i.test(title)) return null
+  if (!OPEN_TO_NG.test(text)) return null
+
+  const remote = REMOTE.test(text)
+  const deadline = extractDeadline(text)
+  const destination = remote ? 'Remote' : (DESTINATIONS.find(([, rx]) => rx.test(title)) || DESTINATIONS.find(([, rx]) => rx.test(body.slice(0, 600))) || ['Varies'])[0]
+  const added = pubDate && !Number.isNaN(Date.parse(pubDate)) ? new Date(pubDate) : TODAY
+  const score = (medicalTitle ? 4 : 0) + (medicalBody ? 1 : 0) + (/nigeria/i.test(text) ? 3 : 0) + (/africa/i.test(text) ? 1 : 0) + (remote ? 1 : 0)
+  if (score < 3) return null
+
+  return {
+    id: 'f-' + hash(link),
+    title: clip(title.replace(/\s*[|\-]\s*(Opportunity Desk|Scholars4Dev).*$/i, ''), 120),
+    provider: `Listed on ${source}`,
+    url: link,
+    category,
+    level: category === 'research' && /fellowship/i.test(title) ? ['fellowship'] : [],
+    funding: /stipend|fully.?funded|paid/i.test(text) ? 'full' : 'unknown',
+    destination,
+    remote,
+    medical: 'specific',
+    deadline,
+    window: deadline ? `Deadline ${deadline}` : 'Deadline not stated in the listing. Open the link to confirm.',
+    summary: clip(body, 230),
+    tags: [/nigeria/i.test(text) ? 'Nigeria' : 'Open to Africans'],
+    kind: 'feed',
+    score,
+    source,
+    addedAt: added.toISOString().slice(0, 10),
+  }
+}
+
 function classify(title, body, source, link, pubDate) {
+  if (HARD_OFF.test(title)) return null
+  const category = detectCategory(title)
+  if (category !== 'funding') return classifyOpportunity(category, title, body, source, link, pubDate)
+  return classifyFunding(title, body, source, link, pubDate)
+}
+
+function classifyFunding(title, body, source, link, pubDate) {
   const text = `${title}. ${body}`
   if (!RX.award.test(title) && !RX.award.test(body.slice(0, 400))) return null
   if (RX.notAward.test(title) || RX.notFresh.test(title)) return null
@@ -134,9 +225,11 @@ function classify(title, body, source, link, pubDate) {
     title: clip(title.replace(/\s*[|\-]\s*(Opportunity Desk|Scholars4Dev).*$/i, ''), 120),
     provider: `Listed on ${source}`,
     url: link,
+    category: 'funding',
     level,
     funding: RX.full.test(text) ? 'full' : 'unknown',
     destination,
+    remote: false,
     medical: medicalTitle || medicalBody ? 'specific' : 'open',
     deadline,
     window: deadline ? `Deadline ${deadline}` : 'Deadline not stated in the listing. Open the link to confirm.',
@@ -220,6 +313,8 @@ async function main() {
     const batch = await Promise.all(
       curated.slice(i, i + 6).map(async (c) => ({
         ...c,
+        category: c.category ?? 'funding',
+        remote: c.remote ?? false,
         kind: 'curated',
         source: 'Official page',
         addedAt: prevById.get(c.id)?.addedAt ?? todayIso,
@@ -232,7 +327,7 @@ async function main() {
   const broken = curatedOut.filter((c) => c.linkStatus === 'broken')
   if (broken.length) console.warn('Broken curated links:', broken.map((b) => `${b.id} ${b.url}`).join(', '))
 
-  let feedItems = prev.items.filter((i) => i.kind === 'feed')
+  let feedItems = prev.items.filter((i) => i.kind === 'feed').map((i) => ({ category: 'funding', remote: false, ...i }))
   const sources = []
   if (!LINKS_ONLY) {
     const results = []
@@ -269,6 +364,18 @@ async function main() {
     if (i.deadline) return Date.parse(i.deadline) > TODAY.getTime() - 30 * DAY
     return Date.parse(i.addedAt) > TODAY.getTime() - 90 * DAY
   })
+
+  // Items kept from earlier runs are re-checked against today's rules, so tightening a filter also cleans old data.
+  feedItems = feedItems.filter((i) => !HARD_OFF.test(i.title) && (i.category === 'funding' || (i.score ?? 0) >= 3))
+
+  // The same call is often listed on several boards. Keep the best-scoring copy of each.
+  const best = new Map()
+  for (const i of feedItems) {
+    const key = titleKey(i.title)
+    const cur = best.get(key)
+    if (!cur || (i.score ?? 0) > (cur.score ?? 0)) best.set(key, i)
+  }
+  feedItems = [...best.values()]
 
   const items = [...curatedOut, ...feedItems]
   const okFeeds = sources.filter((s) => s.ok).length

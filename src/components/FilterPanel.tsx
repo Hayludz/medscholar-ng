@@ -10,12 +10,14 @@ const LEVELS: { id: Level; label: string }[] = [
 ]
 
 const SORTS: { id: SortKey; label: string }[] = [
-  { id: 'soonest', label: 'Closing soonest' },
   { id: 'match', label: 'Best match for you' },
+  { id: 'soonest', label: 'Closing soonest' },
   { id: 'newest', label: 'Recently added' },
 ]
 
 export const DEFAULT_FILTERS: Filters = {
+  category: 'all',
+  remoteOnly: false,
   q: '',
   levels: [],
   fullOnly: false,
@@ -23,7 +25,7 @@ export const DEFAULT_FILTERS: Filters = {
   showClosed: false,
   savedOnly: false,
   destination: '',
-  sort: 'soonest',
+  sort: 'match',
 }
 
 interface Props {
@@ -51,7 +53,7 @@ function Check({ label, checked, onChange }: { label: string; checked: boolean; 
 
 export function FilterPanel({ filters, onChange, destinations, savedCount }: Props) {
   const set = <K extends keyof Filters>(k: K, v: Filters[K]) => onChange({ ...filters, [k]: v })
-  const dirty = JSON.stringify({ ...filters, sort: 'soonest' }) !== JSON.stringify({ ...DEFAULT_FILTERS })
+  const dirty = JSON.stringify({ ...filters, sort: DEFAULT_FILTERS.sort }) !== JSON.stringify(DEFAULT_FILTERS)
   const qId = useId()
   const sortId = useId()
   const destId = useId()
@@ -68,7 +70,7 @@ export function FilterPanel({ filters, onChange, destinations, savedCount }: Pro
             id={qId}
             type="search"
             className="field pl-10"
-            placeholder="public health, Mastercard, Chevening"
+            placeholder="epidemiology, Cochrane, Chevening"
             value={filters.q}
             onChange={(e) => set('q', e.target.value)}
             autoComplete="off"
@@ -77,7 +79,7 @@ export function FilterPanel({ filters, onChange, destinations, savedCount }: Pro
       </div>
 
       <fieldset>
-        <legend className="mb-1 text-sm font-semibold">Level</legend>
+        <legend className="mb-1 text-sm font-semibold">Level (degrees and fellowships)</legend>
         {LEVELS.map((l) => (
           <Check
             key={l.id}
@@ -91,6 +93,7 @@ export function FilterPanel({ filters, onChange, destinations, savedCount }: Pro
       <fieldset>
         <legend className="mb-1 text-sm font-semibold">Show only</legend>
         <Check label="Fully funded" checked={filters.fullOnly} onChange={(v) => set('fullOnly', v)} />
+        <Check label="Can be done remotely" checked={filters.remoteOnly} onChange={(v) => set('remoteOnly', v)} />
         <Check label="Health-focused programmes" checked={filters.medicalOnly} onChange={(v) => set('medicalOnly', v)} />
         <Check label={`Saved (${savedCount})`} checked={filters.savedOnly} onChange={(v) => set('savedOnly', v)} />
         <Check label="Include closed" checked={filters.showClosed} onChange={(v) => set('showClosed', v)} />

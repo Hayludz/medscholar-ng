@@ -1,11 +1,15 @@
 export type Level = 'masters' | 'phd' | 'fellowship' | 'research' | 'training'
 export type Funding = 'full' | 'partial' | 'unknown'
 
+export type Category = 'funding' | 'research' | 'volunteer' | 'training'
+
 export interface Scholarship {
   id: string
   title: string
   provider: string
   url: string
+  category: Category
+  remote: boolean
   level: Level[]
   funding: Funding
   destination: string
@@ -39,6 +43,8 @@ export type Status = 'closing' | 'open' | 'recurring' | 'closed'
 export type SortKey = 'soonest' | 'match' | 'newest'
 
 export interface Filters {
+  category: Category | 'all'
+  remoteOnly: boolean
   q: string
   levels: Level[]
   fullOnly: boolean

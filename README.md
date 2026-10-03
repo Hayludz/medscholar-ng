@@ -1,6 +1,6 @@
 # MedScholar
 
-Scholarships, fellowships and funded programmes for Nigerian medical graduates (built for an OAU, Ile-Ife MBBS holder). Mastercard Foundation, Chevening, Commonwealth, DAAD and more, with deadlines, funding level and a one-click calendar reminder.
+Scholarships, fellowships, research roles, volunteering and free training for Nigerian medical graduates (built for an OAU, Ile-Ife MBBS holder). Mastercard Foundation, Chevening, Commonwealth, DAAD and more, with deadlines, funding level and a one-click calendar reminder.
 
 ## How it stays up to date
 

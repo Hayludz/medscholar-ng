@@ -1,5 +1,5 @@
 import { ArrowUpRight, BookmarkSimple, CalendarPlus, WarningCircle } from '@phosphor-icons/react'
-import type { Level, Scholarship } from '../types'
+import type { Category, Level, Scholarship } from '../types'
 import { clean, daysLeft, formatDate, statusOf } from '../lib/data'
 import { downloadIcs } from '../lib/ics'
 
@@ -13,15 +13,28 @@ const LEVEL_LABEL: Record<Level, string> = {
 
 const FUNDING_LABEL = { full: 'Fully funded', partial: 'Partial funding', unknown: 'Funding varies' } as const
 
+export const CATEGORY_LABEL: Record<Category, string> = {
+  funding: 'Scholarship',
+  research: 'Research',
+  volunteer: 'Volunteer or internship',
+  training: 'Training or event',
+}
+
 function Deadline({ item }: { item: Scholarship }) {
   const status = statusOf(item)
   const d = daysLeft(item)
 
   if (status === 'recurring') {
+    const [head, sub] =
+      item.kind === 'feed'
+        ? ['Date not listed', 'Open the link to confirm']
+        : item.category === 'funding'
+          ? ['Annual call', 'Check the official page']
+          : ['Rolling', 'Join any time']
     return (
       <div className="text-sm leading-snug">
-        <div className="font-semibold">Recurring</div>
-        <div className="text-muted">Check the official page</div>
+        <div className="font-semibold">{head}</div>
+        <div className="text-muted">{sub}</div>
       </div>
     )
   }
@@ -78,7 +91,9 @@ export function Row({ item, index, saved, onToggleSave }: Props) {
         {item.kind === 'curated' && <p className="mt-1 max-w-[68ch] text-sm text-muted">{item.window}</p>}
 
         <ul className="mt-3 flex flex-wrap gap-1.5 text-xs font-medium" aria-label="Details">
-          {item.funding === 'full' && (
+          <li className="rounded-[var(--radius)] bg-accent-soft px-2 py-1 text-accent">{CATEGORY_LABEL[item.category]}</li>
+          {item.remote && <li className="rounded-[var(--radius)] border border-line px-2 py-1">Remote</li>}
+          {item.funding === 'full' && item.category === 'funding' && (
             <li className="rounded-[var(--radius)] bg-accent-soft px-2 py-1 text-accent">{FUNDING_LABEL.full}</li>
           )}
           {item.funding !== 'full' && item.funding !== 'unknown' && (
@@ -89,7 +104,10 @@ export function Row({ item, index, saved, onToggleSave }: Props) {
               {LEVEL_LABEL[l]}
             </li>
           ))}
-          {item.destination !== 'Varies' && (
+          {item.funding === 'full' && item.category !== 'funding' && (
+            <li className="rounded-[var(--radius)] border border-line px-2 py-1">Paid or funded</li>
+          )}
+          {item.destination !== 'Varies' && item.destination !== 'Remote' && (
             <li className="rounded-[var(--radius)] border border-line px-2 py-1">{item.destination}</li>
           )}
           {item.medical === 'specific' && (

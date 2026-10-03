@@ -27,11 +27,12 @@ export function clean(s: string): string {
   return s.replace(/\s*[–—]\s*/g, ' - ').replace(/\s{2,}/g, ' ').trim()
 }
 
+/** Hand-picked programmes always outrank scraped listings; scraped ones rank by relevance score. */
 export function fit(item: Scholarship): number {
   return (
-    (item.kind === 'curated' ? 5 : 0) +
-    (item.medical === 'specific' ? 3 : 0) +
-    (item.score ?? 0) +
+    (item.kind === 'curated' ? 12 : 0) +
+    (item.medical === 'specific' ? 2 : 0) +
+    Math.min(item.score ?? 0, 8) +
     (item.funding === 'full' ? 1 : 0)
   )
 }
@@ -47,6 +48,8 @@ export function applyFilters(items: Scholarship[], f: Filters, saved: Set<string
   const out = items.filter((i) => {
     const st = statusOf(i, today)
     if (!f.showClosed && st === 'closed') return false
+    if (f.category !== 'all' && i.category !== f.category) return false
+    if (f.remoteOnly && !i.remote) return false
     if (f.savedOnly && !saved.has(i.id)) return false
     if (f.fullOnly && i.funding !== 'full') return false
     if (f.medicalOnly && i.medical !== 'specific') return false
