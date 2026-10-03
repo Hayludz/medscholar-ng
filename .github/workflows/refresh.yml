@@ -1,0 +1,40 @@
+name: Refresh scholarships
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every six hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Crawl feeds and check links
+        run: node scripts/crawl.mjs
+      - name: Type-check and build before publishing data
+        run: npm run build
+      - name: Commit refreshed data
+        run: |
+          git config user.name "Hayludz"
+          git config user.email "hayludz@users.noreply.github.com"
+          git add src/data/scholarships.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore(data): refresh scholarships"
+            git push
+          fi
