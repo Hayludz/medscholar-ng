@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-03T20:35:42.462Z",
+  "generatedAt": "2026-10-04T05:57:14.728Z",
   "total": 155,
   "curated": 40,
   "sources": [
@@ -21,9 +21,9 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 370,
-    "matched": 157,
-    "failed": 1
+    "scanned": 360,
+    "matched": 149,
+    "failed": 2
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-03T20:33:17.760Z"
+   "checkedAt": "2026-10-04T05:54:51.521Z"
   },
   {
    "category": "funding",
@@ -2325,6 +2325,31 @@
    "addedAt": "2026-09-25"
   },
   {
+   "id": "f-916c6d58608d",
+   "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/mosaic-3-0-phd-scholarship-programme-in-the-netherlands-e420000-funding-available-for-researchers-from-under-represented-backgrounds/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Netherlands",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-03",
+   "window": "Deadline 2026-11-03",
+   "summary": "The first application round of the Mosaic 3.0 PhD Scholarship Programme is now open, offering researchers from under-represented migrant and recent asylum backgrounds an opportunity to secure funding for a PhD in the Netherlands...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
    "id": "f-90ccb99f6ef8",
    "title": "Cardiff University PhD Studentships and Projects 2026 100 Doctoral Scholarship Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -2372,6 +2397,31 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-20"
+  },
+  {
+   "id": "f-bf67e211eebd",
+   "title": "Harvard Environmental Fellows Program 2027: $92,000 Annual Salary for Recent Doctorate Recipients",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/17/harvard-environmental-fellows-program-2027-92000-annual-salary-for-recent-doctorate-recipients/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "The Harvard Environmental Fellows Program 2027 is now accepting applications from recent doctorate recipients and scholars with comparable terminal degrees who want to pursue independent environmental research while working with...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-17"
   },
   {
    "id": "f-dd85107948a3",
@@ -3066,6 +3116,28 @@
    "addedAt": "2026-10-02"
   },
   {
+   "id": "f-7104afa171c8",
+   "title": "The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and Operations",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-12",
+   "window": "Deadline 2026-10-12",
+   "summary": "The Carter Center Educational Programs offer students and recent graduates opportunities to gain practical professional experience while contributing to initiatives focused on peace, health and organizational operations . The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-30"
+  },
+  {
    "id": "f-9bac450c38bf",
    "title": "PhD Studentships at the University of Leicester: Funded Population Health, Genetics and Healthcare Research...",
    "provider": "Listed on Opportunities for Youth",
@@ -3113,6 +3185,28 @@
    "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-27"
+  },
+  {
+   "id": "f-07bb9b2b6f62",
+   "title": "ECDC Traineeship Programme 2027: Paid Public Health Traineeships in Stockholm, Sweden",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/16/ecdc-jobs-and-career-opportunities-2026-work-with-the-european-centre-for-disease-prevention-and-control-in-stockholm/",
+   "category": "research",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-05",
+   "window": "Deadline 2026-10-05",
+   "summary": "The European Centre for Disease Prevention and Control (ECDC) Traineeship Programme 2027 offers recent university graduates an opportunity to gain practical professional experience within a European Union agency working to prevent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-16"
   },
   {
    "id": "f-0eb19be4cfd1",
@@ -3209,100 +3303,6 @@
    "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-08-30"
-  },
-  {
-   "id": "f-7104afa171c8",
-   "title": "The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and Operations",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-12",
-   "window": "Deadline 2026-10-12",
-   "summary": "The Carter Center Educational Programs offer students and recent graduates opportunities to gain practical professional experience while contributing to initiatives focused on peace, health and organizational operations . The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-30"
-  },
-  {
-   "id": "f-916c6d58608d",
-   "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/mosaic-3-0-phd-scholarship-programme-in-the-netherlands-e420000-funding-available-for-researchers-from-under-represented-backgrounds/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Netherlands",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-11-03",
-   "window": "Deadline 2026-11-03",
-   "summary": "The first application round of the Mosaic 3.0 PhD Scholarship Programme is now open, offering researchers from under-represented migrant and recent asylum backgrounds an opportunity to secure funding for a PhD in the Netherlands...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
-   "id": "f-bf67e211eebd",
-   "title": "Harvard Environmental Fellows Program 2027: $92,000 Annual Salary for Recent Doctorate Recipients",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/17/harvard-environmental-fellows-program-2027-92000-annual-salary-for-recent-doctorate-recipients/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "The Harvard Environmental Fellows Program 2027 is now accepting applications from recent doctorate recipients and scholars with comparable terminal degrees who want to pursue independent environmental research while working with...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-17"
-  },
-  {
-   "id": "f-07bb9b2b6f62",
-   "title": "ECDC Traineeship Programme 2027: Paid Public Health Traineeships in Stockholm, Sweden",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/16/ecdc-jobs-and-career-opportunities-2026-work-with-the-european-centre-for-disease-prevention-and-control-in-stockholm/",
-   "category": "research",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-05",
-   "window": "Deadline 2026-10-05",
-   "summary": "The European Centre for Disease Prevention and Control (ECDC) Traineeship Programme 2027 offers recent university graduates an opportunity to gain practical professional experience within a European Union agency working to prevent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-16"
   },
   {
    "id": "f-296da6a1ea1d",
