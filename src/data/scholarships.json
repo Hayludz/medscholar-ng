@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-04T12:25:53.742Z",
-  "total": 156,
+  "generatedAt": "2026-10-04T21:29:10.853Z",
+  "total": 157,
   "curated": 40,
   "sources": [
    {
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 370,
-    "matched": 156,
+    "matched": 158,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "commonwealth-phd",
@@ -108,8 +108,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-04T12:23:17.464Z"
+   "checkedAt": "2026-10-04T21:26:47.369Z"
   },
   {
    "category": "funding",
@@ -2965,6 +2965,30 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-18"
+  },
+  {
+   "id": "f-a1e0d6075b95",
+   "title": "University of Cambridge Biosciences DTP PhD Programme 2027: Fully Funded PhD Scholarship for International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/04/university-of-cambridge-biosciences-dtp-phd-programme-2027-fully-funded-phd-scholarship-for-international-students/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-08",
+   "window": "Deadline 2026-12-08",
+   "summary": "The University of Cambridge Biosciences Doctoral Training Programme (DTP) PhD Programme 2027 is now accepting applications from prospective doctoral students interested in pursuing advanced research in biological sciences in the...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-04"
   },
   {
    "id": "f-0689e21fd586",
