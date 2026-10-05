@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-05T05:44:55.064Z",
-  "total": 157,
+  "generatedAt": "2026-10-05T14:44:27.211Z",
+  "total": 161,
   "curated": 40,
   "sources": [
    {
@@ -15,14 +15,14 @@
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 48,
+    "matched": 49,
     "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 370,
-    "matched": 158,
+    "matched": 156,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T05:42:15.905Z"
+   "checkedAt": "2026-10-05T14:41:42.271Z"
   },
   {
    "category": "funding",
@@ -1395,6 +1395,104 @@
    "addedAt": "2026-09-14"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-8853bbb0f4c6",
+   "title": "University of Erfurt CEREB PhD Scholarships 2027 in Germany: Fully Funded Doctoral Research Opportunity in Economics and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/25/university-of-erfurt-cereb-phd-scholarships-2027-in-germany-fully-funded-doctoral-research-opportunity-in-economics-and-behavioral-sciences/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-11-24",
+   "window": "Deadline 2026-11-24",
+   "summary": "The Center for Empirical Research in Economics and Behavioral Sciences (CEREB) at the University of Erfurt, Germany , is inviting applications from outstanding prospective doctoral researchers for PhD scholarships beginning in...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-25"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-3cc3c91a39c9",
+   "title": "Doctoral Programme in Economics and Finance: Advanced Research Opportunities in Economics, Finance, Business and Law",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/28/doctoral-programme-in-economics-and-finance-advanced-research-opportunities-in-economics-finance-business-and-law/",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Introduction The Doctoral Programme in Economics and Finance offers an opportunity for students seeking advanced specialisation and research training in economics, finance, law and business. The programme is designed for...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-28"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-0967f416e5d3",
+   "title": "UNIDIR Graduate Professional Programme 2026 in Geneva: $1,500 Monthly Stipend for Graduate Students and Recent Graduates",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/04/unidir-graduate-professional-programme-2026-join-the-next-generation-of-disarmament-researchers/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Switzerland",
+   "medical": "specific",
+   "deadline": "2026-09-16",
+   "window": "Deadline 2026-09-16",
+   "summary": "The United Nations Institute for Disarmament Research (UNIDIR) is inviting applications for its Graduate Professional position in Integrated Approaches – Gender and Disarmament in Geneva, Switzerland. The opportunity provides...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-04"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-c46a4ce5b37c",
+   "title": "UNDP Ethiopia Call for Proposals 2026: CSOs and NGOs for the Spotlight Initiative Africa Regional Programme to End...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/25/undp-call-for-proposals-2026-funding-opportunity-for-csos-and-ngos-to-end-violence-against-women-and-girls-in-africa/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Africa",
+   "medical": "open",
+   "deadline": "2026-10-02",
+   "window": "Deadline 2026-10-02",
+   "summary": "The United Nations Development Programme (UNDP) Ethiopia has opened a Call for Proposals for Civil Society Organizations (CSOs) and NGOs under the Spotlight Initiative Africa Regional Programme (SIARP) 2.0 to End Violence Against...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-25"
+  },
+  {
    "id": "f-e3f89f3427d4",
    "title": "NTT DATA Young Talent Graduate Programme 2027 for young South Africans.",
    "provider": "Listed on Opportunities for Africans",
@@ -1636,6 +1734,31 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-28"
+  },
+  {
+   "id": "f-74785623dff8",
+   "title": "America in the World Consortium Predoctoral Fellowship 2027-2028 (Stipend available)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/05/america-in-the-world-consortium-predoctoral-fellowship-2027-2028/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Deadline: December 1, 2026 Applications are open for the America in the World Consortium Predoctoral Fellowship 2027-2028. The America in the World Consortium at Duke University, Johns Hopkins SAIS, and the University of Texas at...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-05"
   },
   {
    "id": "f-b5eebffe020c",
@@ -2300,31 +2423,6 @@
    "addedAt": "2026-09-26"
   },
   {
-   "id": "f-8853bbb0f4c6",
-   "title": "University of Erfurt CEREB PhD Scholarships 2027 in Germany: Fully Funded Doctoral Research Opportunity in Economics and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/university-of-erfurt-cereb-phd-scholarships-2027-in-germany-fully-funded-doctoral-research-opportunity-in-economics-and-behavioral-sciences/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-24",
-   "window": "Deadline 2026-11-24",
-   "summary": "The Center for Empirical Research in Economics and Behavioral Sciences (CEREB) at the University of Erfurt, Germany , is inviting applications from outstanding prospective doctoral researchers for PhD scholarships beginning in...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
-  },
-  {
    "id": "f-90ccb99f6ef8",
    "title": "Cardiff University PhD Studentships and Projects 2026 100 Doctoral Scholarship Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -2396,6 +2494,32 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-03"
+  },
+  {
+   "id": "f-0d27e5274006",
+   "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/25/funded-africa-climate-phd-27/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "Applications are open for 12 fully funded PhD Fellowships in Climate and Development under the Africa Climate Collaborative at the University of Cape Town (UCT) in South Africa. The four-year doctoral training programme is...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-25"
   },
   {
    "id": "f-3106b7810b93",
@@ -2773,6 +2897,31 @@
    "addedAt": "2026-09-12"
   },
   {
+   "id": "f-9759b718cfce",
+   "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-e5006fd6e61b",
    "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for...",
    "provider": "Listed on Opportunities for Youth",
@@ -2967,6 +3116,30 @@
    "addedAt": "2026-09-18"
   },
   {
+   "id": "f-6ed1b29f6ee0",
+   "title": "EMMIR Erasmus Mundus Joint Master’s 2027–2029: Applications Open for the European Master in Migration and Intercultural...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/emmir-erasmus-mundus-joint-masters-2027-2029-applications-open-for-the-european-master-in-migration-and-intercultural-relations/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-20",
+   "window": "Deadline 2026-12-20",
+   "summary": "Applications are now open for EMMIR Edition 14 (2027–2029) , the European Master in Migration and Intercultural Relations, an international two-year Erasmus Mundus Joint Master’s programme focused on migration, intercultural...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-a1e0d6075b95",
    "title": "University of Cambridge Biosciences DTP PhD Programme 2027: Fully Funded PhD Scholarship for International Students",
    "provider": "Listed on Opportunities for Youth",
@@ -3017,29 +3190,29 @@
    "addedAt": "2026-10-03"
   },
   {
-   "id": "f-3cc3c91a39c9",
-   "title": "Doctoral Programme in Economics and Finance: Advanced Research Opportunities in Economics, Finance, Business and Law",
+   "id": "f-76e5768360ba",
+   "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/28/doctoral-programme-in-economics-and-finance-advanced-research-opportunities-in-economics-finance-business-and-law/",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/joint-japan-world-bank-graduate-scholarship-program-2025/",
    "category": "funding",
    "level": [
-    "phd",
+    "masters",
     "fellowship"
    ],
-   "funding": "unknown",
+   "funding": "full",
    "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Introduction The Doctoral Programme in Economics and Finance offers an opportunity for students seeking advanced specialisation and research training in economics, finance, law and business. The programme is designed for...",
+   "deadline": "2027-02-26",
+   "window": "Deadline 2027-02-26",
+   "summary": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) 2027 is offering a major opportunity for experienced development professionals from eligible developing countries to pursue a master's degree in a...",
    "tags": [
-    "Check eligibility"
+    "Open to Africans"
    ],
    "kind": "feed",
-   "score": 6,
+   "score": 7,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-09-28"
+   "addedAt": "2026-09-24"
   },
   {
    "id": "f-2243f539ad48",
@@ -3064,30 +3237,6 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-10"
-  },
-  {
-   "id": "f-0967f416e5d3",
-   "title": "UNIDIR Graduate Professional Programme 2026 in Geneva: $1,500 Monthly Stipend for Graduate Students and Recent Graduates",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/04/unidir-graduate-professional-programme-2026-join-the-next-generation-of-disarmament-researchers/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Switzerland",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-09-16",
-   "window": "Deadline 2026-09-16",
-   "summary": "The United Nations Institute for Disarmament Research (UNIDIR) is inviting applications for its Graduate Professional position in Integrated Approaches – Gender and Disarmament in Geneva, Switzerland. The opportunity provides...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-04"
   },
   {
    "id": "f-63f3431a4bea",
@@ -3429,6 +3578,32 @@
    "addedAt": "2026-09-11"
   },
   {
+   "id": "f-a8c73ecdb1f2",
+   "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/kaust-scholarship-2027-in-saudi-arabia-fully-funded-masters-and-phd-scholarship-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-03",
+   "window": "Deadline 2027-01-03",
+   "summary": "The King Abdullah University of Science and Technology (KAUST) offers fully funded graduate study opportunities for students seeking advanced education and research experience in science, engineering, technology and related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-7c836ba79e7e",
    "title": "USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography and Spatial...",
    "provider": "Listed on Opportunities for Youth",
@@ -3500,81 +3675,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-26"
-  },
-  {
-   "id": "f-0d27e5274006",
-   "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/funded-africa-climate-phd-27/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "Applications are open for 12 fully funded PhD Fellowships in Climate and Development under the Africa Climate Collaborative at the University of Cape Town (UCT) in South Africa. The four-year doctoral training programme is...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
-  },
-  {
-   "id": "f-c46a4ce5b37c",
-   "title": "UNDP Ethiopia Call for Proposals 2026: CSOs and NGOs for the Spotlight Initiative Africa Regional Programme to End...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/undp-call-for-proposals-2026-funding-opportunity-for-csos-and-ngos-to-end-violence-against-women-and-girls-in-africa/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "The United Nations Development Programme (UNDP) Ethiopia has opened a Call for Proposals for Civil Society Organizations (CSOs) and NGOs under the Spotlight Initiative Africa Regional Programme (SIARP) 2.0 to End Violence Against...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
-  },
-  {
-   "id": "f-76e5768360ba",
-   "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/joint-japan-world-bank-graduate-scholarship-program-2025/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-02-26",
-   "window": "Deadline 2027-02-26",
-   "summary": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) 2027 is offering a major opportunity for experienced development professionals from eligible developing countries to pursue a master's degree in a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
   },
   {
    "id": "f-6c8956cd41c2",
