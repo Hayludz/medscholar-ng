@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-10-05T14:44:27.211Z",
-  "total": 161,
+  "generatedAt": "2026-10-06T00:06:35.310Z",
+  "total": 162,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 140,
+    "matched": 139,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 49,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 370,
-    "matched": 156,
+    "matched": 157,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-05T14:41:42.271Z"
+   "checkedAt": "2026-10-06T00:04:10.599Z"
   },
   {
    "category": "funding",
@@ -1493,6 +1493,78 @@
    "addedAt": "2026-09-25"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-4aa96609ca6c",
+   "title": "KPMG Supply Chain Management Consulting Graduate Programme 2027 for young South African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/kpmg-supply-chain-management-consulting-graduate-programme-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 KPMG Supply Chain Management Consulting Graduate Programme. KPMG's Management Consulting Graduate Programme offers graduates the opportunity to build a...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-08-27"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-a8f3c1bb9434",
+   "title": "The Sanlam Group Graduate Programme 2027 for young South African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-sanlam-group-graduate-programme-2027-for-young-south-african-graduates/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 Sanlam Group Graduate Programme. The Sanlam Group is looking for exceptional young talent eager to make a difference. The 24-month The post The Sanlam Group...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-08-26"
+  },
+  {
+   "id": "f-c8dd8f0af28c",
+   "title": "The Chapel Hill Denham’s Management Development Programme (MDP) 2027 for young Nigerian graduates",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-chapel-hill-denhams-management-development-programme-mdp-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-02",
+   "window": "Deadline 2026-11-02",
+   "summary": "Application Deadline: 2nd November 2026. Applications are now open for the 2027 Chapel Hill Denham’s Management Development Programme. The Chapel Hill Denham’ Management Development Programme is designed to equip graduates The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-e3f89f3427d4",
    "title": "NTT DATA Young Talent Graduate Programme 2027 for young South Africans.",
    "provider": "Listed on Opportunities for Africans",
@@ -1563,54 +1635,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-08-28"
-  },
-  {
-   "id": "f-4aa96609ca6c",
-   "title": "KPMG Supply Chain Management Consulting Graduate Programme 2027 for young South African graduates.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/kpmg-supply-chain-management-consulting-graduate-programme-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 KPMG Supply Chain Management Consulting Graduate Programme. KPMG's Management Consulting Graduate Programme offers graduates the opportunity to build a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-27"
-  },
-  {
-   "id": "f-a8f3c1bb9434",
-   "title": "The Sanlam Group Graduate Programme 2027 for young South African graduates.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-sanlam-group-graduate-programme-2027-for-young-south-african-graduates/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 Sanlam Group Graduate Programme. The Sanlam Group is looking for exceptional young talent eager to make a difference. The 24-month The post The Sanlam Group...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-26"
   },
   {
    "id": "f-6843aee1ae36",
@@ -2621,31 +2645,6 @@
    "addedAt": "2026-08-19"
   },
   {
-   "id": "f-dfc9246432d0",
-   "title": "UBC Mastercard Foundation Scholars Program 2027: Applications Open for African Students to Study at the University of...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/17/ubc-mastercard-foundation-scholars-program-2027-applications-open-for-african-students-to-study-at-the-university-of-british-columbia/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Canada",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-09-06",
-   "window": "Deadline 2026-09-06",
-   "summary": "The University of British Columbia (UBC) Mastercard Foundation Scholars Program is set to open applications for the Winter 2027 intake , providing eligible young Africans with an opportunity to pursue selected master’s degree...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-17"
-  },
-  {
    "id": "f-8d8542f7d95c",
    "title": "African Centre for School Leadership Grants 2026: Apply for Up to $35,000 in School Leadership Research Funding",
    "provider": "Listed on Opportunities for Youth",
@@ -2895,6 +2894,30 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-12"
+  },
+  {
+   "id": "f-a47855982805",
+   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
   },
   {
    "id": "f-9759b718cfce",
