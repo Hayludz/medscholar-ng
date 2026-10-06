@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-06T06:25:10.663Z",
-  "total": 162,
+  "generatedAt": "2026-10-06T18:26:01.178Z",
+  "total": 165,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
-    "matched": 49,
-    "failed": 2
+    "scanned": 470,
+    "matched": 47,
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 370,
-    "matched": 157,
+    "matched": 162,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-06T06:22:27.662Z"
+   "checkedAt": "2026-10-06T18:23:08.908Z"
   },
   {
    "category": "funding",
@@ -1539,6 +1539,104 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-08-26"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-76f29b515d9c",
+   "title": "Leon Levy Scholarships in Neuroscience 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/03/leon-levy-scholarships-in-neuroscience-2027/",
+   "level": [
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-16",
+   "window": "Deadline 2026-10-16",
+   "summary": "Deadline: October 16, 2026 Applications are open for the Leon Levy Scholarships in Neuroscience 2027. The Leon Levy Scholarships in Neuroscience (LLSN) program aims to promote groundbreaking neuroscience research in the five...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-03"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-5a758443668f",
+   "title": "Brunel University of London and China Scholarship Council PhD Scholarship 2027/28 Fully Funded PhD in the UK",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/26/brunel-university-of-london-and-china-scholarship-council-phd-scholarship-2027-28-fully-funded-phd-in-the-uk/",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "medical": "specific",
+   "deadline": "2027-01-08",
+   "window": "Deadline 2027-01-08",
+   "summary": "The Brunel University of London and China Scholarship Council (CSC) PhD Scholarship 2027/28 offers academically outstanding Chinese students an opportunity to pursue a fully funded PhD at Brunel University of London in the United...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-26"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-3e2e36dfb099",
+   "title": "ITU Gender Champions Programme 2027: Fully Supported Global Opportunity for Young Women Leading Digital Transformation",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/02/itu-gender-champions-programme-2027-fully-supported-global-opportunity-for-young-women-leading-digital-transformation/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Australia",
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Applications are now open for the ITU Gender Champions Programme 2027 , a global leadership opportunity for young women who are using technology and digital innovation to create meaningful change in their communities, countries...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-02"
+  },
+  {
+   "id": "f-3877e5a91fae",
+   "title": "Durham University Transformative Humanities PhD Studentships 2027: Fully Funded PhD Opportunity for Home and Overseas...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/durham-university-transformative-humanities-phd-studentships-2027-fully-funded-phd-opportunity-for-home-and-overseas-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-15",
+   "window": "Deadline 2027-01-15",
+   "summary": "Durham University has announced a competitive funding opportunity for outstanding candidates interested in pursuing doctoral research within the field of Transformative Humanities . The university is offering up to eleven PhD...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
   },
   {
    "id": "f-c8dd8f0af28c",
@@ -2373,30 +2471,6 @@
    "addedAt": "2026-09-10"
   },
   {
-   "id": "f-76f29b515d9c",
-   "title": "Leon Levy Scholarships in Neuroscience 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/03/leon-levy-scholarships-in-neuroscience-2027/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the Leon Levy Scholarships in Neuroscience 2027. The Leon Levy Scholarships in Neuroscience (LLSN) program aims to promote groundbreaking neuroscience research in the five...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-03"
-  },
-  {
    "id": "f-d6e89e20a4ff",
    "title": "University of Luxembourg YADIAS Doctoral Fellowship 2027: Fully Funded 4-Year PhD Opportunity for International Students",
    "provider": "Listed on Opportunities for Youth",
@@ -2421,30 +2495,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-29"
-  },
-  {
-   "id": "f-5a758443668f",
-   "title": "Brunel University of London and China Scholarship Council PhD Scholarship 2027/28 Fully Funded PhD in the UK",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/26/brunel-university-of-london-and-china-scholarship-council-phd-scholarship-2027-28-fully-funded-phd-in-the-uk/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-08",
-   "window": "Deadline 2027-01-08",
-   "summary": "The Brunel University of London and China Scholarship Council (CSC) PhD Scholarship 2027/28 offers academically outstanding Chinese students an opportunity to pursue a fully funded PhD at Brunel University of London in the United...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-26"
   },
   {
    "id": "f-90ccb99f6ef8",
@@ -2896,6 +2946,30 @@
    "addedAt": "2026-09-12"
   },
   {
+   "id": "f-7c324488b21d",
+   "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/nrf-daad-in-country-scholarship-2025-fully-funded-masters-phd-opportunities-in-south-africa-and-germany/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-12",
+   "window": "Deadline 2026-11-12",
+   "summary": "The DAAD In-Country/In-Region Programme for Sub-Saharan Africa 2026–2027 is offering scholarship opportunities for graduates and postgraduate students from Sub-Saharan Africa who wish to pursue selected development-related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
    "id": "f-a47855982805",
    "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
    "provider": "Listed on Opportunities for Youth",
@@ -2967,29 +3041,28 @@
    "addedAt": "2026-10-04"
   },
   {
-   "id": "f-3e2e36dfb099",
-   "title": "ITU Gender Champions Programme 2027: Fully Supported Global Opportunity for Young Women Leading Digital Transformation",
+   "id": "f-2be4bdce04d2",
+   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/02/itu-gender-champions-programme-2027-fully-supported-global-opportunity-for-young-women-leading-digital-transformation/",
-   "category": "funding",
+   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
+   "category": "research",
    "level": [
-    "masters",
-    "phd"
+    "fellowship"
    ],
-   "funding": "unknown",
-   "destination": "Australia",
+   "funding": "full",
+   "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "Applications are now open for the ITU Gender Champions Programme 2027 , a global leadership opportunity for young women who are using technology and digital innovation to create meaningful change in their communities, countries...",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 3,
+   "score": 5,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-02"
+   "addedAt": "2026-09-26"
   },
   {
    "id": "f-2e4e437633d6",
@@ -3601,6 +3674,30 @@
    "addedAt": "2026-09-11"
   },
   {
+   "id": "f-3c72eaca884a",
+   "title": "Harvard LEAD Fellowship 2027–2028: Fully Funded Global Health Leadership Fellowship for Professionals from Low- and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/harvard-lead-fellowship-2027-2028-fully-funded-global-health-leadership-fellowship-for-professionals-from-low-and-middle-income-countries/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "The 2027–2028 Harvard LEAD Fellowship for Promoting Women in Global Health is now accepting applications for professionals seeking to strengthen their leadership capacity and make a greater impact in global health. Offered by the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
    "id": "f-a8c73ecdb1f2",
    "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
    "provider": "Listed on Opportunities for Youth",
@@ -3674,30 +3771,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-28"
-  },
-  {
-   "id": "f-2be4bdce04d2",
-   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-26"
   },
   {
    "id": "f-6c8956cd41c2",
