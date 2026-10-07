@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-10-07T13:28:54.238Z",
-  "total": 168,
+  "generatedAt": "2026-10-07T23:10:14.602Z",
+  "total": 171,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 143,
+    "matched": 142,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 44,
+    "matched": 52,
     "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 371,
-    "matched": 161,
+    "matched": 158,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T13:25:45.093Z"
+   "checkedAt": "2026-10-07T23:06:10.558Z"
   },
   {
    "category": "funding",
@@ -1663,6 +1663,106 @@
    "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-08-30"
+  },
+  {
+   "category": "research",
+   "remote": true,
+   "id": "f-e74332fdc5ee",
+   "title": "Nivishe Mental Health Fellowship Cohort 7: Apply for a 12-Week Virtual Mental Health Leadership Fellowship in Africa",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7-apply-for-a-12-week-virtual-mental-health-leadership-fellowship-in-africa/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Remote",
+   "medical": "specific",
+   "deadline": "2026-09-18",
+   "window": "Deadline 2026-09-18",
+   "summary": "The Nivishe Mental Health Fellowship Cohort 7 is inviting applications from emerging and established changemakers who want to deepen their understanding of mental health and develop practical leadership skills to address mental...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-10"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-d6e89e20a4ff",
+   "title": "University of Luxembourg YADIAS Doctoral Fellowship 2027: Fully Funded 4-Year PhD Opportunity for International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/university-of-luxembourg-yadias-doctoral-fellowship-2027/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "The University of Luxembourg YADIAS Doctoral Fellowship 2027 is now open to qualified researchers interested in pursuing a doctoral degree through an international, interdisciplinary and research-focused programme in Luxembourg...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-dd85107948a3",
+   "title": "Emerging Leaders Programme 2026–2027: Leadership Development Opportunity for Mid-Level Executives Across Africa",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/03/emerging-leaders-programme-2026-2027-leadership-development-opportunity-for-mid-level-executives-across-africa/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-10-23",
+   "window": "Deadline 2026-10-23",
+   "summary": "Are you a mid-level professional looking to strengthen your leadership capabilities, develop greater self-awareness, build resilience, and learn how to mobilise people to create meaningful change? The UONGOZI Institute Emerging...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-03"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-0689e21fd586",
+   "title": "ESRC Centre for Digital Futures at Work Scholarship 2026/27 at the University of Leeds: Fully Funded PhD Opportunity",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/03/esrc-centre-for-digital-futures-at-work-scholarship-2026-27-at-the-university-of-leeds-fully-funded-phd-opportunity/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The University of Leeds is offering a highly competitive ESRC Centre for Digital Futures at Work Scholarship for postgraduate researchers interested in the changing relationship between digital technologies, artificial...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-03"
   },
   {
    "id": "f-72982b672cc1",
@@ -2400,6 +2500,30 @@
    "addedAt": "2026-09-21"
   },
   {
+   "id": "f-2d0cf33f047c",
+   "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-25",
+   "window": "Deadline 2026-10-25",
+   "summary": "Deadline: October 25, 2026 Applications are open for the University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027. The Master of Science in Health Professions Education (MSc in...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-cc93e410fe85",
    "title": "AREF Towards Leadership Programme 2026/2027",
    "provider": "Listed on Opportunity Desk",
@@ -2446,6 +2570,31 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-09-28"
+  },
+  {
+   "id": "f-43bab04f0fa8",
+   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
   },
   {
    "id": "f-fd967fe7e905",
@@ -2497,56 +2646,6 @@
    "addedAt": "2026-09-16"
   },
   {
-   "id": "f-e74332fdc5ee",
-   "title": "Nivishe Mental Health Fellowship Cohort 7: Apply for a 12-Week Virtual Mental Health Leadership Fellowship in Africa",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7-apply-for-a-12-week-virtual-mental-health-leadership-fellowship-in-africa/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-09-18",
-   "window": "Deadline 2026-09-18",
-   "summary": "The Nivishe Mental Health Fellowship Cohort 7 is inviting applications from emerging and established changemakers who want to deepen their understanding of mental health and develop practical leadership skills to address mental...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-10"
-  },
-  {
-   "id": "f-d6e89e20a4ff",
-   "title": "University of Luxembourg YADIAS Doctoral Fellowship 2027: Fully Funded 4-Year PhD Opportunity for International Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/university-of-luxembourg-yadias-doctoral-fellowship-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-30",
-   "window": "Deadline 2026-11-30",
-   "summary": "The University of Luxembourg YADIAS Doctoral Fellowship 2027 is now open to qualified researchers interested in pursuing a doctoral degree through an international, interdisciplinary and research-focused programme in Luxembourg...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
-  },
-  {
    "id": "f-90ccb99f6ef8",
    "title": "Cardiff University PhD Studentships and Projects 2026 100 Doctoral Scholarship Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -2596,28 +2695,26 @@
    "addedAt": "2026-09-20"
   },
   {
-   "id": "f-dd85107948a3",
-   "title": "Emerging Leaders Programme 2026–2027: Leadership Development Opportunity for Mid-Level Executives Across Africa",
+   "id": "f-e5006fd6e61b",
+   "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/03/emerging-leaders-programme-2026-2027-leadership-development-opportunity-for-mid-level-executives-across-africa/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
+   "url": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
+   "category": "training",
+   "level": [],
    "funding": "full",
    "destination": "Varies",
    "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-23",
-   "window": "Deadline 2026-10-23",
-   "summary": "Are you a mid-level professional looking to strengthen your leadership capabilities, develop greater self-awareness, build resilience, and learn how to mobilise people to create meaningful change? The UONGOZI Institute Emerging...",
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "The Aspen Healthy Communities Fellowship 2027 offers a structured opportunity to strengthen the leadership, communication and advocacy behind community health initiatives. Delivered by the Aspen Global Innovators Group, the...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 3,
+   "score": 5,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-03"
+   "addedAt": "2026-10-04"
   },
   {
    "id": "f-0d27e5274006",
@@ -3069,28 +3166,6 @@
    "addedAt": "2026-10-05"
   },
   {
-   "id": "f-e5006fd6e61b",
-   "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
-   "category": "training",
-   "level": [],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "The Aspen Healthy Communities Fellowship 2027 offers a structured opportunity to strengthen the leadership, communication and advocacy behind community health initiatives. Delivered by the Aspen Global Innovators Group, the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-04"
-  },
-  {
    "id": "f-2be4bdce04d2",
    "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
    "provider": "Listed on Opportunities for Youth",
@@ -3335,32 +3410,6 @@
    "addedAt": "2026-10-04"
   },
   {
-   "id": "f-0689e21fd586",
-   "title": "ESRC Centre for Digital Futures at Work Scholarship 2026/27 at the University of Leeds: Fully Funded PhD Opportunity",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/03/esrc-centre-for-digital-futures-at-work-scholarship-2026-27-at-the-university-of-leeds-fully-funded-phd-opportunity/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The University of Leeds is offering a highly competitive ESRC Centre for Digital Futures at Work Scholarship for postgraduate researchers interested in the changing relationship between digital technologies, artificial...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-03"
-  },
-  {
    "id": "f-76e5768360ba",
    "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
    "provider": "Listed on Opportunities for Youth",
@@ -3575,6 +3624,31 @@
    "addedAt": "2026-09-11"
   },
   {
+   "id": "f-14b53c342e13",
+   "title": "UC Merced PhD in Public Health 2027: Fully Funded Doctoral Program for Domestic and International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/uc-merced-phd-in-public-health-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The UC Merced PhD in Public Health 2027 offers an advanced doctoral opportunity for students seeking to pursue research, scholarship, and professional careers in public health. Offered by the University of California, Merced (UC...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-7104afa171c8",
    "title": "The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and Operations",
    "provider": "Listed on Opportunities for Youth",
@@ -3595,6 +3669,31 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-30"
+  },
+  {
+   "id": "f-7c836ba79e7e",
+   "title": "USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography and Spatial...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University of Southern California (USC) Dornsife Population, Health and Place PhD program offers an interdisciplinary doctoral training opportunity for students interested in public health, population studies, sociology...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
   },
   {
    "id": "f-916c6d58608d",
@@ -3817,31 +3916,6 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-05"
-  },
-  {
-   "id": "f-7c836ba79e7e",
-   "title": "USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography and Spatial...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University of Southern California (USC) Dornsife Population, Health and Place PhD program offers an interdisciplinary doctoral training opportunity for students interested in public health, population studies, sociology...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
   },
   {
    "id": "f-6c8956cd41c2",
