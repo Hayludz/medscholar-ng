@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-07T06:04:11.432Z",
-  "total": 166,
+  "generatedAt": "2026-10-07T13:28:54.238Z",
+  "total": 168,
   "curated": 40,
   "sources": [
    {
@@ -15,14 +15,14 @@
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 43,
+    "matched": 44,
     "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 370,
-    "matched": 162,
+    "scanned": 371,
+    "matched": 161,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T06:01:47.305Z"
+   "checkedAt": "2026-10-07T13:25:45.093Z"
   },
   {
    "category": "funding",
@@ -1614,18 +1614,18 @@
    "addedAt": "2026-10-02"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-3877e5a91fae",
    "title": "Durham University Transformative Humanities PhD Studentships 2027: Fully Funded PhD Opportunity for Home and Overseas...",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/10/06/durham-university-transformative-humanities-phd-studentships-2027-fully-funded-phd-opportunity-for-home-and-overseas-students/",
-   "category": "funding",
    "level": [
     "masters",
     "phd"
    ],
    "funding": "full",
    "destination": "Varies",
-   "remote": false,
    "medical": "specific",
    "deadline": "2027-01-15",
    "window": "Deadline 2027-01-15",
@@ -1637,6 +1637,32 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-53a30432159d",
+   "title": "University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "South Africa",
+   "medical": "specific",
+   "deadline": "2026-09-14",
+   "window": "Deadline 2026-09-14",
+   "summary": "Applications are open for two funded PhD scholarship opportunities at the University of Cape Town (UCT) for 2027 , offered through the Desmond Tutu HIV Centre and the Desmond Tutu Health Foundation (DTHF) in collaboration with the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-30"
   },
   {
    "id": "f-72982b672cc1",
@@ -2620,6 +2646,31 @@
    "addedAt": "2026-09-25"
   },
   {
+   "id": "f-e1eb473de551",
+   "title": "Mastercard Foundation Scholars Program 2027/2028 at Cambridge Fully Funded Master’s Scholarship",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/12/call-for-applications-mastercard-foundation-scholarship-program-at-the-university-of-cambridge-for-2025-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-18",
+   "window": "Deadline 2026-11-18",
+   "summary": "Key Details: Cambridge Mastercard Foundation Scholarship 2027/2028 Scholarship Mastercard Foundation Scholars Program University University of Cambridge Academic year 2027/2028 Study level Master's degree Duration One-year...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-12"
+  },
+  {
    "id": "f-3106b7810b93",
    "title": "Pitch Perfect Africa 2026: CAD $5,000 Innovation Fellowship Opportunity for African Health Entrepreneurs",
    "provider": "Listed on Opportunities for Youth",
@@ -2945,31 +2996,6 @@
    "addedAt": "2026-09-15"
   },
   {
-   "id": "f-e1eb473de551",
-   "title": "Mastercard Foundation Scholars Program 2027/2028 at Cambridge Fully Funded Master’s Scholarship",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/12/call-for-applications-mastercard-foundation-scholarship-program-at-the-university-of-cambridge-for-2025-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-11-18",
-   "window": "Deadline 2026-11-18",
-   "summary": "Key Details: Cambridge Mastercard Foundation Scholarship 2027/2028 Scholarship Mastercard Foundation Scholars Program University University of Cambridge Academic year 2027/2028 Study level Master's degree Duration One-year...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-12"
-  },
-  {
    "id": "f-7c324488b21d",
    "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
    "provider": "Listed on Opportunities for Youth",
@@ -3236,6 +3262,31 @@
    "addedAt": "2026-09-18"
   },
   {
+   "id": "f-f0d0b0096fe4",
+   "title": "Max Planck School of Cognition 2027: Fully Funded PhD Programme in Germany — Application Guide, Eligibility...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/max-planck-school-of-cognition-2027-fully-funded-phd-programme-in-germany-application-guide-eligibility-requirements-and-deadline/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The Max Planck School of Cognition (MPSCog) has opened its new application cycle for the 2027 doctoral intake , offering highly motivated and academically outstanding students an opportunity to pursue advanced doctoral training in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-6ed1b29f6ee0",
    "title": "EMMIR Erasmus Mundus Joint Master’s 2027–2029: Applications Open for the European Master in Migration and Intercultural...",
    "provider": "Listed on Opportunities for Youth",
@@ -3405,6 +3456,30 @@
    "addedAt": "2026-09-29"
   },
   {
+   "id": "f-02a5c8ad23d3",
+   "title": "Nuffield Medical Fellowships 2026 at the University of Oxford: Fully Funded Medical Research Fellowship for Early-Career...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/28/nuffield-medical-fellowships-2026-at-the-university-of-oxford-fully-funded-medical-research-fellowship-for-early-career-researchers/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University of Oxford has launched the Nuffield Medical Fellowships , a new research fellowship programme designed to support exceptional early-career researchers who are transitioning to independent research careers or who...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-28"
+  },
+  {
    "id": "f-121f6ce4eac6",
    "title": "10 Fully Funded PhD Positions in Urban Health at the University of Bonn, Germany – Urban Future Research Training Group...",
    "provider": "Listed on Opportunities for Youth",
@@ -3498,32 +3573,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-11"
-  },
-  {
-   "id": "f-53a30432159d",
-   "title": "University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-09-14",
-   "window": "Deadline 2026-09-14",
-   "summary": "Applications are open for two funded PhD scholarship opportunities at the University of Cape Town (UCT) for 2027 , offered through the Desmond Tutu HIV Centre and the Desmond Tutu Health Foundation (DTHF) in collaboration with the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-30"
   },
   {
    "id": "f-7104afa171c8",
@@ -3722,6 +3771,28 @@
    "addedAt": "2026-10-06"
   },
   {
+   "id": "f-52224b165f39",
+   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-10",
+   "window": "Deadline 2026-11-10",
+   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
    "id": "f-a8c73ecdb1f2",
    "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
    "provider": "Listed on Opportunities for Youth",
@@ -3771,30 +3842,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-29"
-  },
-  {
-   "id": "f-02a5c8ad23d3",
-   "title": "Nuffield Medical Fellowships 2026 at the University of Oxford: Fully Funded Medical Research Fellowship for Early-Career...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/28/nuffield-medical-fellowships-2026-at-the-university-of-oxford-fully-funded-medical-research-fellowship-for-early-career-researchers/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University of Oxford has launched the Nuffield Medical Fellowships , a new research fellowship programme designed to support exceptional early-career researchers who are transitioning to independent research careers or who...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-28"
   },
   {
    "id": "f-6c8956cd41c2",
