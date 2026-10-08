@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-07T23:10:14.602Z",
-  "total": 171,
+  "generatedAt": "2026-10-08T06:09:28.475Z",
+  "total": 170,
   "curated": 40,
   "sources": [
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-07T23:06:10.558Z"
+   "checkedAt": "2026-10-08T06:05:59.929Z"
   },
   {
    "category": "funding",
@@ -2522,30 +2522,6 @@
    "score": 6,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-cc93e410fe85",
-   "title": "AREF Towards Leadership Programme 2026/2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/03/aref-towards-leadership-programme-2026-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-09-08",
-   "window": "Deadline 2026-09-08",
-   "summary": "Deadline: September 8, 2026 Applications are open for the AREF Towards Leadership Programme 2026/2027. The Africa Research Excellence Fund (AREF) Towards Leadership programme aims to empower talented, emerging scientists in Africa...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-03"
   },
   {
    "id": "f-466ebefa2bd8",
