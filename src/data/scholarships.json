@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-10-08T13:34:08.645Z",
-  "total": 172,
+  "generatedAt": "2026-10-08T23:24:04.612Z",
+  "total": 175,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 142,
+    "matched": 144,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
-    "matched": 52,
-    "failed": 2
+    "scanned": 470,
+    "matched": 50,
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 372,
-    "matched": 162,
+    "matched": 163,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T13:31:26.577Z"
+   "checkedAt": "2026-10-08T23:21:49.854Z"
   },
   {
    "category": "funding",
@@ -1763,6 +1763,54 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-03"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-ff7d86ce6705",
+   "title": "ActHIVate Fund Grants 2026–2028: €2 Million Funding for MSM and Trans-Led Organisations Advancing HIV Services, Advocacy...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/14/acthivate-fund-grants-2026-2028-e2-million-funding-for-msm-and-trans-led-organisations-advancing-hiv-services-advocacy-and-inclusive-healthcare/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-25",
+   "window": "Deadline 2026-10-25",
+   "summary": "Aidsfonds has announced the upcoming launch of the ActHIVate Fund Request for Proposals , a new funding opportunity designed to strengthen community-led HIV responses for men who have sex with men (MSM) and trans communities in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 10,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-14"
+  },
+  {
+   "id": "f-f9ca9343cad7",
+   "title": "Samsung South Africa Graduate Program 2027 for young South African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/samsung-south-africa-graduate-program-2027-for-young-south-african-graduates/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 Samsung South Africa Graduate Program. The Samsung 2027 Graduate Programme — a 12-month, full-time journey designed to equip South African The post Samsung...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-08"
   },
   {
    "id": "f-72982b672cc1",
@@ -3265,30 +3313,6 @@
    "addedAt": "2026-09-16"
   },
   {
-   "id": "f-ff7d86ce6705",
-   "title": "ActHIVate Fund Grants 2026–2028: €2 Million Funding for MSM and Trans-Led Organisations Advancing HIV Services, Advocacy...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/acthivate-fund-grants-2026-2028-e2-million-funding-for-msm-and-trans-led-organisations-advancing-hiv-services-advocacy-and-inclusive-healthcare/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Aidsfonds has announced the upcoming launch of the ActHIVate Fund Request for Proposals , a new funding opportunity designed to strengthen community-led HIV responses for men who have sex with men (MSM) and trans communities in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 10,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
-  },
-  {
    "id": "f-619bfe44808b",
    "title": "Global Advocacy Champions 2026–2027: WAGGGS Leadership and Advocacy Programme for Young Women",
    "provider": "Listed on Opportunities for Youth",
@@ -3484,6 +3508,28 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-10"
+  },
+  {
+   "id": "f-0681551dc8f1",
+   "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/charles-h-hood-foundation-child-health-research-awards-2027-200000-grant-for-early-career-researchers/",
+   "category": "research",
+   "level": [],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-05",
+   "window": "Deadline 2026-11-05",
+   "summary": "The Charles H. Hood Foundation is now accepting submissions for the Child Health Research Awards Program for the April 2027 funding cycle , providing an important research funding opportunity for early-career investigators...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
   },
   {
    "id": "f-63f3431a4bea",
@@ -3871,6 +3917,28 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-11"
+  },
+  {
+   "id": "f-78363ca830fe",
+   "title": "Pfizer Futures Paid Summer Internship 2027: Undergraduate Internship at a Global Biopharmaceutical Company",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/pfizer-futures-paid-summer-internship-2027-undergraduate-internship-at-a-global-biopharmaceutical-company/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Pfizer Futures program is a paid summer internship opportunity for undergraduate students who want to gain hands-on professional experience at Pfizer , one of the world's leading biopharmaceutical companies. The program is...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
   },
   {
    "id": "f-3c72eaca884a",
