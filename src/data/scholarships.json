@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-08T06:09:28.475Z",
-  "total": 170,
+  "generatedAt": "2026-10-08T13:34:08.645Z",
+  "total": 172,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 52,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 371,
-    "matched": 158,
+    "scanned": 372,
+    "matched": 162,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T06:05:59.929Z"
+   "checkedAt": "2026-10-08T13:31:26.577Z"
   },
   {
    "category": "funding",
@@ -2622,6 +2622,31 @@
    "addedAt": "2026-09-16"
   },
   {
+   "id": "f-9759b718cfce",
+   "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-90ccb99f6ef8",
    "title": "Cardiff University PhD Studentships and Projects 2026 100 Doctoral Scholarship Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -2945,6 +2970,31 @@
    "addedAt": "2026-08-26"
   },
   {
+   "id": "f-1d1db3ddb8b7",
+   "title": "University of Oxford Master of Public Policy Scholarships 2027–28: 1,000+ Funding Opportunities for Future Public...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/master-of-public-policy-mpp-blavatnik-school-of-government-university-of-oxford/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-05-31",
+   "window": "Deadline 2027-05-31",
+   "summary": "The University of Oxford’s Master of Public Policy (MPP) programme offers a wide range of scholarships and funding opportunities to help students meet the substantial cost of studying at Oxford. For the 2027–28 academic year, the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
    "id": "f-d6220872da08",
    "title": "Denmark Scholarships for International Students: Erasmus Mundus, Danish Government Scholarships, Fulbright and Other...",
    "provider": "Listed on Opportunities for Youth",
@@ -3113,31 +3163,6 @@
    ],
    "kind": "feed",
    "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
-   "id": "f-9759b718cfce",
-   "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-05"
   },
@@ -3311,6 +3336,32 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-18"
+  },
+  {
+   "id": "f-f753afc9d9b6",
+   "title": "Rutgers University Global Urban Studies PhD 2027: Fully Funded Doctoral Opportunity in Urban Systems",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/rutgers-university-global-urban-studies-phd-2027-fully-funded-doctoral-opportunity-in-urban-systems/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Rutgers University is currently accepting applications for its Global Urban Studies (GUS) PhD Program for Fall 2027 , offering an exciting opportunity for students interested in cities, urban systems, public policy, social...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
   },
   {
    "id": "f-f0d0b0096fe4",
