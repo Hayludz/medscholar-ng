@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-09T06:14:18.587Z",
-  "total": 175,
+  "generatedAt": "2026-10-09T13:21:51.768Z",
+  "total": 176,
   "curated": 40,
   "sources": [
    {
@@ -14,9 +14,9 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 50,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T06:10:21.455Z"
+   "checkedAt": "2026-10-09T13:18:57.423Z"
   },
   {
    "category": "funding",
@@ -1787,6 +1787,57 @@
    "score": 10,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-14"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-c36f92fdda78",
+   "title": "CGIAR++ PhD Scholarship 2026: Call for Applications for 10 PhD Candidates at German Universities",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/20/cgiar-phd-scholarship-2026-call-for-applications-for-10-phd-candidates-at-german-universities/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "The CGIAR++ PhD Scholarship 2026 is now accepting applications from qualified candidates interested in pursuing doctoral research in agricultural sciences and related interdisciplinary fields at a German university. The...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-20"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-378305587f57",
+   "title": "Nordic Scholarship Programme 2027: Funded One-Month Africa Research Stay at the Nordic Africa Institute in Sweden",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/09/nordic-scholarship-programme-2026-at-the-nordic-africa-institute-apply-now/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Sweden",
+   "medical": "specific",
+   "deadline": "2026-10-11",
+   "window": "Deadline 2026-10-11",
+   "summary": "Applications are open for the Nordic Scholarship Programme 2027, a funded research opportunity offered by the Nordic Africa Institute in Uppsala, Sweden. The programme gives eligible students and researchers working on...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-09"
   },
   {
    "id": "f-f9ca9343cad7",
@@ -2719,31 +2770,6 @@
    "addedAt": "2026-09-20"
   },
   {
-   "id": "f-c36f92fdda78",
-   "title": "CGIAR++ PhD Scholarship 2026: Call for Applications for 10 PhD Candidates at German Universities",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/20/cgiar-phd-scholarship-2026-call-for-applications-for-10-phd-candidates-at-german-universities/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-30",
-   "window": "Deadline 2026-11-30",
-   "summary": "The CGIAR++ PhD Scholarship 2026 is now accepting applications from qualified candidates interested in pursuing doctoral research in agricultural sciences and related interdisciplinary fields at a German university. The...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-20"
-  },
-  {
    "id": "f-e5006fd6e61b",
    "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for...",
    "provider": "Listed on Opportunities for Youth",
@@ -3043,6 +3069,30 @@
    "addedAt": "2026-10-08"
   },
   {
+   "id": "f-a47855982805",
+   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-d6220872da08",
    "title": "Denmark Scholarships for International Students: Erasmus Mundus, Danish Government Scholarships, Fulbright and Other...",
    "provider": "Listed on Opportunities for Youth",
@@ -3189,30 +3239,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
-  },
-  {
-   "id": "f-a47855982805",
-   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
   },
   {
    "id": "f-2be4bdce04d2",
@@ -4013,6 +4039,32 @@
    "addedAt": "2026-10-05"
   },
   {
+   "id": "f-3a75fc7e6233",
+   "title": "Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, Norway (2026)",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-16",
+   "window": "Deadline 2026-10-16",
+   "summary": "The University of Oslo (UiO), Norway, is inviting applications for a three-year PhD fellowship in Spatial Genome Organization and Gene Regulation , focusing on chromatin biology, computational biology, and the molecular mechanisms...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
    "id": "f-6c8956cd41c2",
    "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
    "provider": "Listed on Opportunities for Youth",
@@ -4139,32 +4191,6 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-11"
-  },
-  {
-   "id": "f-378305587f57",
-   "title": "Nordic Scholarship Programme 2027: Funded One-Month Africa Research Stay at the Nordic Africa Institute in Sweden",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/09/nordic-scholarship-programme-2026-at-the-nordic-africa-institute-apply-now/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Sweden",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-11",
-   "window": "Deadline 2026-10-11",
-   "summary": "Applications are open for the Nordic Scholarship Programme 2027, a funded research opportunity offered by the Nordic Africa Institute in Uppsala, Sweden. The programme gives eligible students and researchers working on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-09"
   },
   {
    "id": "f-2f5304a79d15",
