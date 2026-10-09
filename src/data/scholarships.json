@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-08T23:24:04.612Z",
+  "generatedAt": "2026-10-09T06:14:18.587Z",
   "total": 175,
   "curated": 40,
   "sources": [
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 372,
-    "matched": 163,
+    "matched": 160,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-08T23:21:49.854Z"
+   "checkedAt": "2026-10-09T06:10:21.455Z"
   },
   {
    "category": "funding",
