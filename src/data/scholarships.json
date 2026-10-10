@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-09T22:41:47.238Z",
-  "total": 182,
+  "generatedAt": "2026-10-10T05:56:33.325Z",
+  "total": 181,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
+    "scanned": 470,
     "matched": 53,
-    "failed": 2
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 372,
-    "matched": 169,
+    "matched": 167,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-09T22:39:27.565Z"
+   "checkedAt": "2026-10-10T05:54:12.678Z"
   },
   {
    "category": "funding",
@@ -2251,30 +2251,6 @@
    "addedAt": "2026-09-01"
   },
   {
-   "id": "f-0fc63a6a5b65",
-   "title": "KfW EAC Master’s Scholarships 2026/2027 for young East Africans ( Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-09-10",
-   "window": "Deadline 2026-09-10",
-   "summary": "Application Deadline: 10 September 2026 · 17:00 EAT Applications are now open for the 2026/2027 KfW EAC Master’s Scholarship. The Inter-University Council for East Africa (IUCEA) hereby invites suitably qualified The post KfW EAC...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-20"
-  },
-  {
    "id": "f-c37468c14964",
    "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP) 2027/2029 for young women (€40,000 in tuition and living...",
    "provider": "Listed on Opportunities for Africans",
@@ -2739,30 +2715,6 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-ab008981e917",
-   "title": "Global Mental Health Fellowship Program 2026 Cohort 5: Applications Open for Young Mental Health Changemakers Worldwide",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/21/mental-health-fellowship/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-09-26",
-   "window": "Deadline 2026-09-26",
-   "summary": "Applications are now open for the Global Mental Health Fellowship Program 2026 (Cohort 5) , an international virtual fellowship designed to create a space where young people can explore mental health, share perspectives, build...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-21"
   },
   {
    "id": "f-2d0cf33f047c",
@@ -3481,6 +3433,30 @@
    "score": 1,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-22"
+  },
+  {
+   "id": "f-ab008981e917",
+   "title": "Global Mental Health Fellowship Program 2026 Cohort 5: Applications Open for Young Mental Health Changemakers Worldwide",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/21/mental-health-fellowship/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-09-26",
+   "window": "Deadline 2026-09-26",
+   "summary": "Applications are now open for the Global Mental Health Fellowship Program 2026 (Cohort 5) , an international virtual fellowship designed to create a space where young people can explore mental health, share perspectives, build...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-21"
   },
   {
    "id": "f-188879d67e34",
