@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-10T05:56:33.325Z",
+  "generatedAt": "2026-10-10T12:35:58.445Z",
   "total": 181,
   "curated": 40,
   "sources": [
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 480,
     "matched": 53,
-    "failed": 1
+    "failed": 0
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 372,
-    "matched": 167,
+    "matched": 162,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-10T05:54:12.678Z"
+   "checkedAt": "2026-10-10T12:33:37.884Z"
   },
   {
    "category": "funding",
@@ -1932,6 +1932,31 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-04"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9759b718cfce",
+   "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
   },
   {
    "id": "f-21cd856d540a",
@@ -2839,31 +2864,6 @@
    "addedAt": "2026-09-16"
   },
   {
-   "id": "f-9759b718cfce",
-   "title": "Slovakia National Scholarship Programme 2026/2027: Apply for Study, PhD, Research and Academic Mobility Scholarships",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/national-scholarship-programme-of-the-slovak-republic-2025-2026-study-research-and-create-in-slovakia/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The National Scholarship Programme of the Slovak Republic (NSP) 2026/2027 is providing international students, PhD students, university teachers, researchers and artists with an opportunity to undertake a scholarship stay in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
    "id": "f-0d27e5274006",
    "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
    "provider": "Listed on Opportunities for Youth",
@@ -3559,6 +3559,32 @@
    "addedAt": "2026-10-05"
   },
   {
+   "id": "f-a8c73ecdb1f2",
+   "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/kaust-scholarship-2027-in-saudi-arabia-fully-funded-masters-and-phd-scholarship-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-03",
+   "window": "Deadline 2027-01-03",
+   "summary": "The King Abdullah University of Science and Technology (KAUST) offers fully funded graduate study opportunities for students seeking advanced education and research experience in science, engineering, technology and related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
    "id": "f-76e5768360ba",
    "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
    "provider": "Listed on Opportunities for Youth",
@@ -4081,32 +4107,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
-  },
-  {
-   "id": "f-a8c73ecdb1f2",
-   "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/kaust-scholarship-2027-in-saudi-arabia-fully-funded-masters-and-phd-scholarship-for-international-students/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-03",
-   "window": "Deadline 2027-01-03",
-   "summary": "The King Abdullah University of Science and Technology (KAUST) offers fully funded graduate study opportunities for students seeking advanced education and research experience in science, engineering, technology and related...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
   },
   {
    "id": "f-3a75fc7e6233",
