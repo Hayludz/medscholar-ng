@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-12T15:31:02.011Z",
-  "total": 183,
+  "generatedAt": "2026-10-13T00:43:46.106Z",
+  "total": 185,
   "curated": 40,
   "sources": [
    {
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 450,
-    "matched": 50,
-    "failed": 3
+    "scanned": 470,
+    "matched": 51,
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 343,
-    "matched": 148,
-    "failed": 3
+    "scanned": 373,
+    "matched": 157,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-12T15:27:38.161Z"
+   "checkedAt": "2026-10-13T00:41:14.349Z"
   },
   {
    "category": "funding",
@@ -2061,17 +2061,17 @@
    "addedAt": "2026-09-11"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-21cd856d540a",
    "title": "US-MEPI Tomorrow’s Leaders Program 2027/2028 for undergraduate graduate Students from the Middle East and North Africa...",
    "provider": "Listed on Opportunities for Africans",
    "url": "https://www.opportunitiesforafricans.com/us-mepi-tomorrows-leaders-program-2027-2028/",
-   "category": "funding",
    "level": [
     "masters"
    ],
    "funding": "full",
    "destination": "United States",
-   "remote": false,
    "medical": "open",
    "deadline": "2026-11-18",
    "window": "Deadline 2026-11-18",
@@ -2083,6 +2083,54 @@
    "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-09"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-6ed1b29f6ee0",
+   "title": "EMMIR Erasmus Mundus Joint Master’s 2027–2029: Applications Open for the European Master in Migration and Intercultural...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/emmir-erasmus-mundus-joint-masters-2027-2029-applications-open-for-the-european-master-in-migration-and-intercultural-relations/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-12-20",
+   "window": "Deadline 2026-12-20",
+   "summary": "Applications are now open for EMMIR Edition 14 (2027–2029) , the European Master in Migration and Intercultural Relations, an international two-year Erasmus Mundus Joint Master’s programme focused on migration, intercultural...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "f-f0df74a64c44",
+   "title": "Transformative African Leadership (TAL) Program 2027: Pan-African Executive Leadership Opportunity by Four Leading...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/12/transformative-african-leadership-tal-program-2027/",
+   "category": "funding",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Transformative African Leadership (TAL) Program 2027 is a pan-African executive leadership initiative designed to strengthen leadership capacity, improve institutional effectiveness, and prepare professionals to contribute to...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-12"
   },
   {
    "id": "f-f9ca9343cad7",
@@ -2449,6 +2497,30 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-08-10"
+  },
+  {
+   "id": "f-2e0cd609b2bb",
+   "title": "Niger Delta Development Commission (NDDC) Local Postgraduate Scholarship Programme 2026/2027 for Nigerian Students.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/niger-delta-development-commission-nddc-local-postgraduate-scholarship-programme-2026-2027-for-nigerian-students/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-08",
+   "window": "Deadline 2026-11-08",
+   "summary": "Application Deadline: November 8, 2026 Applications are now open for the 2026/2027 Niger Delta Development Commission (NDDC) Local Postgraduate Scholarship Programme. The Niger Delta Development Commission (NDDC), in furtherance...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-12"
   },
   {
    "id": "f-06ea29247152",
@@ -3659,30 +3731,6 @@
    "addedAt": "2026-10-07"
   },
   {
-   "id": "f-6ed1b29f6ee0",
-   "title": "EMMIR Erasmus Mundus Joint Master’s 2027–2029: Applications Open for the European Master in Migration and Intercultural...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/emmir-erasmus-mundus-joint-masters-2027-2029-applications-open-for-the-european-master-in-migration-and-intercultural-relations/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-20",
-   "window": "Deadline 2026-12-20",
-   "summary": "Applications are now open for EMMIR Edition 14 (2027–2029) , the European Master in Migration and Intercultural Relations, an international two-year Erasmus Mundus Joint Master’s programme focused on migration, intercultural...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
    "id": "f-a8c73ecdb1f2",
    "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
    "provider": "Listed on Opportunities for Youth",
@@ -3873,32 +3921,6 @@
    "addedAt": "2026-09-27"
   },
   {
-   "id": "f-08195a5e730d",
-   "title": "NIH Graduate Partnerships Program 2026: Funded Doctoral Research Opportunities for PhD Students in the U.S. and Abroad",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/22/nih-graduate-partnership/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "NIH Graduate Partnerships Program (GPP) offers doctoral students interested in conducting advanced biomedical, behavioral, social science, and health-related research an extensive research training opportunity to undertake all or...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-22"
-  },
-  {
    "id": "f-0eb19be4cfd1",
    "title": "CDC Public Health Informatics Fellowship Program 2027: Apply for a Two-Year Paid Fellowship in Public Health...",
    "provider": "Listed on Opportunities for Youth",
@@ -4041,30 +4063,6 @@
    "addedAt": "2026-09-29"
   },
   {
-   "id": "f-6c8956cd41c2",
-   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-08",
-   "window": "Deadline 2026-12-08",
-   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
    "id": "f-916c6d58608d",
    "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
    "provider": "Listed on Opportunities for Youth",
@@ -4088,33 +4086,6 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-24"
-  },
-  {
-   "id": "f-55c540cf2822",
-   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-07",
-   "window": "Deadline 2026-10-07",
-   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-21"
   },
   {
    "id": "f-bf67e211eebd",
@@ -4310,6 +4281,83 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-6c8956cd41c2",
+   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-08",
+   "window": "Deadline 2026-12-08",
+   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-08195a5e730d",
+   "title": "NIH Graduate Partnerships Program 2026: Funded Doctoral Research Opportunities for PhD Students in the U.S. and Abroad",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/22/nih-graduate-partnership/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "NIH Graduate Partnerships Program (GPP) offers doctoral students interested in conducting advanced biomedical, behavioral, social science, and health-related research an extensive research training opportunity to undertake all or...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-22"
+  },
+  {
+   "id": "f-55c540cf2822",
+   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-07",
+   "window": "Deadline 2026-10-07",
+   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-21"
   },
   {
    "id": "f-4831e93b53e2",
