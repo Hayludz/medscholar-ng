@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-10-13T22:48:37.252Z",
-  "total": 191,
+  "generatedAt": "2026-10-14T04:57:45.292Z",
+  "total": 192,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 144,
+    "matched": 145,
     "failed": 0
    },
    {
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 373,
-    "matched": 156,
+    "matched": 160,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-13T22:46:00.452Z"
+   "checkedAt": "2026-10-14T04:55:17.732Z"
   },
   {
    "category": "funding",
@@ -1639,32 +1639,6 @@
    "addedAt": "2026-10-06"
   },
   {
-   "category": "funding",
-   "remote": false,
-   "id": "f-53a30432159d",
-   "title": "University of Cape Town PhD Scholarships 2027: Two Funded Health Research Positions Worth R315,000 Per Year",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/30/cape-town-phd-2027/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "medical": "specific",
-   "deadline": "2026-09-14",
-   "window": "Deadline 2026-09-14",
-   "summary": "Applications are open for two funded PhD scholarship opportunities at the University of Cape Town (UCT) for 2027 , offered through the Desmond Tutu HIV Centre and the Desmond Tutu Health Foundation (DTHF) in collaboration with the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-30"
-  },
-  {
    "category": "research",
    "remote": true,
    "id": "f-e74332fdc5ee",
@@ -2254,6 +2228,54 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-21"
+  },
+  {
+   "category": "research",
+   "remote": false,
+   "id": "f-f50d3a9904b3",
+   "title": "Global Health Emerging Scholars (GHES) Fellowship 2027–28: NIH-Supported Global Health Research Fellowship for U.S. and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/11/stanford-global-health-emerging-scholars-ghes-fellowship/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": "2026-10-01",
+   "window": "Deadline 2026-10-01",
+   "summary": "The Global Health Emerging Scholars (GHES) Fellowship 2027–28 is now accepting applications from emerging health researchers interested in advanced, mentored training in global health research. Supported by the National Institutes...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-11"
+  },
+  {
+   "id": "f-291b86cf8cdd",
+   "title": "The Afrinvest Analyst Programme (TAAP) 2027 for Young Nigerian Graduates (24-Month Programme)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-afrinvest-analyst-programme-taap-2027-for-young-nigerian-graduates-24-month-programme/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-10-25",
+   "window": "Deadline 2026-10-25",
+   "summary": "Application Deadline: October 25, 2026 Applications are now open for the 2027 Afrinvest Analyst Programme. Afrinvest is seeking enthusiastic and self-motivated Analysts to join our comprehensive training program. This role The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-14"
   },
   {
    "id": "f-f9ca9343cad7",
@@ -3878,6 +3900,30 @@
    "addedAt": "2026-09-24"
   },
   {
+   "id": "f-ab3b526f51a6",
+   "title": "UCL Child Health Research PhD Studentships 2027/28: Fully Funded Doctoral Research Opportunities at a World-Leading...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/ucl-child-health-research-phd-studentships-2027-28-fully-funded-doctoral-research-opportunities-at-a-world-leading-institution/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University College London (UCL) Great Ormond Street Institute of Child Health (GOS ICH) has launched its Child Health Research PhD Project Portfolio for the 2027/28 academic year. This prestigious PhD studentship scheme offers...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
    "id": "f-0681551dc8f1",
    "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
    "provider": "Listed on Opportunities for Youth",
@@ -4061,30 +4107,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-14"
-  },
-  {
-   "id": "f-f50d3a9904b3",
-   "title": "Global Health Emerging Scholars (GHES) Fellowship 2027–28: NIH-Supported Global Health Research Fellowship for U.S. and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/11/stanford-global-health-emerging-scholars-ghes-fellowship/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-01",
-   "window": "Deadline 2026-10-01",
-   "summary": "The Global Health Emerging Scholars (GHES) Fellowship 2027–28 is now accepting applications from emerging health researchers interested in advanced, mentored training in global health research. Supported by the National Institutes...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-11"
   },
   {
    "id": "f-14b53c342e13",
