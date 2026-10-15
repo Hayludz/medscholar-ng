@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-10-15T17:05:15.777Z",
-  "total": 194,
+  "generatedAt": "2026-10-15T21:26:33.524Z",
+  "total": 196,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 147,
+    "matched": 149,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
+    "scanned": 470,
     "matched": 49,
-    "failed": 2
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 373,
-    "matched": 156,
+    "matched": 151,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-15T17:02:36.799Z"
+   "checkedAt": "2026-10-15T21:23:59.595Z"
   },
   {
    "category": "funding",
@@ -2301,6 +2301,57 @@
    "addedAt": "2026-10-07"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-f753afc9d9b6",
+   "title": "Rutgers University Global Urban Studies PhD 2027: Fully Funded Doctoral Opportunity in Urban Systems",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/rutgers-university-global-urban-studies-phd-2027-fully-funded-doctoral-opportunity-in-urban-systems/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Rutgers University is currently accepting applications for its Global Urban Studies (GUS) PhD Program for Fall 2027 , offering an exciting opportunity for students interested in cities, urban systems, public policy, social...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-fd7730a5fcdb",
+   "title": "Harvard Kennedy School Equity Fellowship 2027: Full-Tuition Master’s Scholarship, Eligibility, Benefits and How to Apply",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "The Harvard Kennedy School Equity Fellowship 2027 offers eligible students an opportunity to receive financial support toward a master’s degree at Harvard Kennedy School (HKS), Harvard University, in Cambridge, Massachusetts...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-15"
+  },
+  {
    "id": "f-291b86cf8cdd",
    "title": "The Afrinvest Analyst Programme (TAAP) 2027 for Young Nigerian Graduates (24-Month Programme)",
    "provider": "Listed on Opportunities for Africans",
@@ -2419,6 +2470,32 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-16"
+  },
+  {
+   "id": "f-434fdb368b68",
+   "title": "WWF’s Russell E. Train Fellowships 2027/2028 for master’s or doctoral students ($15,000 per year)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/wwfs-russell-e-train-fellowships-2027-2028-for-masters-or-doctoral-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "Application Deadline: December 15, 2026 by 11:59 PM U.S. ET. Applications are now open for the 2027/2028 WWF’s Russell E. Train Fellowships. EFN invites applications from the current and next The post WWF’s Russell E. Train...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-15"
   },
   {
    "id": "f-3a955e7a01f1",
@@ -3253,6 +3330,30 @@
    "addedAt": "2026-10-11"
   },
   {
+   "id": "f-2be4bdce04d2",
+   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-26"
+  },
+  {
    "id": "f-e47a33ced3ea",
    "title": "SENSS Student-Led PhD Studentships 2027 in the UK: Fully Funded Doctoral Research Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -3451,6 +3552,31 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-08-19"
+  },
+  {
+   "id": "f-188879d67e34",
+   "title": "Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commonwealth...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-10-20",
+   "window": "Deadline 2026-10-20",
+   "summary": "The Commonwealth Master’s Scholarships 2027/28 provide an opportunity for talented and motivated graduates from eligible low- and middle-income Commonwealth countries to pursue full-time taught Master’s degrees at universities in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-18"
   },
   {
    "id": "f-e33641f1bf0a",
@@ -3676,31 +3802,6 @@
    "addedAt": "2026-09-21"
   },
   {
-   "id": "f-188879d67e34",
-   "title": "Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commonwealth...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "The Commonwealth Master’s Scholarships 2027/28 provide an opportunity for talented and motivated graduates from eligible low- and middle-income Commonwealth countries to pursue full-time taught Master’s degrees at universities in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-18"
-  },
-  {
    "id": "f-ad3c5c65f92e",
    "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
    "provider": "Listed on Opportunities for Youth",
@@ -3824,30 +3925,6 @@
    "addedAt": "2026-10-06"
   },
   {
-   "id": "f-2be4bdce04d2",
-   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-26"
-  },
-  {
    "id": "f-78363ca830fe",
    "title": "Pfizer Futures Paid Summer Internship 2027: Undergraduate Internship at a Global Biopharmaceutical Company",
    "provider": "Listed on Opportunities for Youth",
@@ -3866,32 +3943,6 @@
    ],
    "kind": "feed",
    "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-08"
-  },
-  {
-   "id": "f-f753afc9d9b6",
-   "title": "Rutgers University Global Urban Studies PhD 2027: Fully Funded Doctoral Opportunity in Urban Systems",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/08/rutgers-university-global-urban-studies-phd-2027-fully-funded-doctoral-opportunity-in-urban-systems/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Rutgers University is currently accepting applications for its Global Urban Studies (GUS) PhD Program for Fall 2027 , offering an exciting opportunity for students interested in cities, urban systems, public policy, social...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-08"
   },
