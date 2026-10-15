@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-14T21:44:53.146Z",
-  "total": 195,
+  "generatedAt": "2026-10-15T04:43:50.852Z",
+  "total": 193,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 50,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 373,
-    "matched": 158,
+    "matched": 157,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -936,8 +936,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-14T21:42:24.430Z"
+   "checkedAt": "2026-10-15T04:40:52.843Z"
   },
   {
    "category": "funding",
@@ -2109,31 +2109,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-a7cc4d8af2ac",
-   "title": "UPEACE Somalia 2026 Admissions and Scholarships Master’s and PhD Programmes",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/17/upeace-somalia-2026-admissions-and-scholarships-masters-and-phd-programmes/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-09-15",
-   "window": "Deadline 2026-09-15",
-   "summary": "The University for Peace (UPEACE) Somalia has opened admissions for its 2026 academic enrolment, providing an opportunity for students and professionals from Somalia, East Africa and other parts of the world to pursue postgraduate...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-17"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-2e4e437633d6",
    "title": "Royal Holloway University of London Announces 10 Funded PhD Studentships for 2027 Through the Social Purpose Centre for...",
    "provider": "Listed on Opportunities for Youth",
@@ -2299,6 +2274,31 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-16"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-f0d0b0096fe4",
+   "title": "Max Planck School of Cognition 2027: Fully Funded PhD Programme in Germany — Application Guide, Eligibility...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/max-planck-school-of-cognition-2027-fully-funded-phd-programme-in-germany-application-guide-eligibility-requirements-and-deadline/",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The Max Planck School of Cognition (MPSCog) has opened its new application cycle for the 2027 doctoral intake , offering highly motivated and academically outstanding students an opportunity to pursue advanced doctoral training in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-07"
   },
   {
    "id": "f-291b86cf8cdd",
@@ -2955,30 +2955,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-07-01"
-  },
-  {
-   "id": "f-644b2a4b2b09",
-   "title": "Africa CDC Epidemiology Track Fellowship Programme 2026 for public health professionals. (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/africa-cdc-epidemiology-track-fellowship-programme-2026/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Application Deadline: August 26,2026 Applications are now open for the 2026 Africa CDC Epidemiology Track Fellowship Programme. Africa CDC has developed a continental African Epidemic Service (AES) Program, a flagship The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-07-17"
   },
   {
    "id": "f-1592720f9291",
@@ -3918,31 +3894,6 @@
    "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-08"
-  },
-  {
-   "id": "f-f0d0b0096fe4",
-   "title": "Max Planck School of Cognition 2027: Fully Funded PhD Programme in Germany — Application Guide, Eligibility...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/07/max-planck-school-of-cognition-2027-fully-funded-phd-programme-in-germany-application-guide-eligibility-requirements-and-deadline/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The Max Planck School of Cognition (MPSCog) has opened its new application cycle for the 2027 doctoral intake , offering highly motivated and academically outstanding students an opportunity to pursue advanced doctoral training in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-07"
   },
   {
    "id": "f-a8c73ecdb1f2",
