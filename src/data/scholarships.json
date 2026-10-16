@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-16T04:36:06.372Z",
-  "total": 195,
+  "generatedAt": "2026-10-16T11:30:11.383Z",
+  "total": 196,
   "curated": 40,
   "sources": [
    {
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
-    "matched": 49,
-    "failed": 2
+    "scanned": 410,
+    "matched": 44,
+    "failed": 7
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 373,
-    "matched": 151,
-    "failed": 0
+    "scanned": 343,
+    "matched": 140,
+    "failed": 3
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T04:33:31.215Z"
+   "checkedAt": "2026-10-16T11:26:04.781Z"
   },
   {
    "category": "funding",
@@ -2303,18 +2303,18 @@
    "addedAt": "2026-10-08"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-fd7730a5fcdb",
    "title": "Harvard Kennedy School Equity Fellowship 2027: Full-Tuition Master’s Scholarship, Eligibility, Benefits and How to Apply",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/10/15/harvard-kennedy-school-carr-ryan-center-fellowships-2026-2027-fully-detailed-guide-to-all-fellowship-opportunities-unpaid-paid-options/",
-   "category": "funding",
    "level": [
     "masters",
     "fellowship"
    ],
    "funding": "full",
    "destination": "United States",
-   "remote": false,
    "medical": "open",
    "deadline": "2026-12-01",
    "window": "Deadline 2026-12-01",
@@ -2326,6 +2326,58 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-15"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-6ea66a39847b",
+   "title": "Toronto Metropolitan University Bridging Divides Graduate Student Scholarships 2027: Up to $45,000 Annually for Master’s...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/toronto-metropolitan-university-bridging-divides-graduate-student-scholarships-2027-up-to-45000-annually-for-masters-and-phd-students/",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Canada",
+   "medical": "specific",
+   "deadline": "2027-02-01",
+   "window": "Deadline 2027-02-01",
+   "summary": "Introduction Graduate students looking to pursue advanced research in migration, social divisions, and related interdisciplinary fields have an opportunity to receive substantial financial support through the Bridging Divides...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-13f1604dbe2b",
+   "title": "AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-10-16",
+   "window": "Deadline 2026-10-16",
+   "summary": "The AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 are now open to eligible doctoral researchers from sub-Saharan Africa seeking financial support to undertake a short research stay at a university or research...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-20"
   },
   {
    "id": "f-291b86cf8cdd",
@@ -3063,6 +3115,31 @@
    "addedAt": "2026-05-11"
   },
   {
+   "id": "f-a80a111ce318",
+   "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-10-02",
+   "window": "Deadline 2026-10-02",
+   "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
+  },
+  {
    "id": "f-471d480766bb",
    "title": "Mastercard Foundation Graduate Scholarship at the University of Toronto 2027-2028",
    "provider": "Listed on Opportunity Desk",
@@ -3134,6 +3211,30 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-09-17"
+  },
+  {
+   "id": "f-fd967fe7e905",
+   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
   },
   {
    "id": "f-858e94346225",
@@ -3231,55 +3332,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-fd967fe7e905",
-   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
-  },
-  {
-   "id": "f-a80a111ce318",
-   "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
   },
   {
    "id": "f-74687beb14ef",
@@ -3778,6 +3830,31 @@
    "addedAt": "2026-09-21"
   },
   {
+   "id": "f-7b616108d1dd",
+   "title": "229 Erasmus Mundus Joint Master’s Degrees Worldwide: Explore International Master’s Programmes in Europe and Beyond",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/applications-open-erasmus-mundus-international-joint-master-in-groundwater-and-global-change-impacts-and-adaptation/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Overview of Erasmus Mundus Joint Master’s Degrees Students seeking to pursue postgraduate education in an international academic environment can explore the 229 Erasmus Mundus Joint Master’s degrees listed on Mastersportal . The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-16"
+  },
+  {
    "id": "f-ad3c5c65f92e",
    "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
    "provider": "Listed on Opportunities for Youth",
@@ -3802,28 +3879,27 @@
    "addedAt": "2026-10-14"
   },
   {
-   "id": "f-6ea66a39847b",
-   "title": "Toronto Metropolitan University Bridging Divides Graduate Student Scholarships 2027: Up to $45,000 Annually for Master’s...",
+   "id": "f-6c9f12f858ea",
+   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/toronto-metropolitan-university-bridging-divides-graduate-student-scholarships-2027-up-to-45000-annually-for-masters-and-phd-students/",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
    "category": "funding",
    "level": [
     "masters",
-    "phd",
-    "research"
+    "phd"
    ],
-   "funding": "unknown",
-   "destination": "Canada",
+   "funding": "full",
+   "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": "2027-02-01",
-   "window": "Deadline 2027-02-01",
-   "summary": "Introduction Graduate students looking to pursue advanced research in migration, social divisions, and related interdisciplinary fields have an opportunity to receive substantial financial support through the Bridging Divides...",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
    "tags": [
     "Check eligibility"
    ],
    "kind": "feed",
-   "score": 2,
+   "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-13"
   },
@@ -3921,6 +3997,33 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-2f5304a79d15",
+   "title": "Canada Graduate Research Scholarship – Doctoral Program: $40,000 Per Year for PhD Research in Canada",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/canada-graduate-research-scholarship-doctoral-cgrs-d-program-2025-26/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Canada",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-17",
+   "window": "Deadline 2026-10-17",
+   "summary": "The Canada Graduate Research Scholarship – Doctoral (CGRS D) Program provides substantial financial support to outstanding doctoral students conducting research in health, natural sciences and engineering, social sciences and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
   },
   {
    "id": "f-a8c73ecdb1f2",
@@ -4306,6 +4409,33 @@
    "addedAt": "2026-09-24"
   },
   {
+   "id": "f-55c540cf2822",
+   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-07",
+   "window": "Deadline 2026-10-07",
+   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-21"
+  },
+  {
    "id": "f-bf67e211eebd",
    "title": "Harvard Environmental Fellows Program 2027: $92,000 Annual Salary for Recent Doctorate Recipients",
    "provider": "Listed on Opportunities for Youth",
@@ -4431,6 +4561,57 @@
    "addedAt": "2026-09-11"
   },
   {
+   "id": "f-c5a4c3623e85",
+   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-4831e93b53e2",
+   "title": "Healthy Food Policy Fellowship 2026: Eligibility, Benefits, Application Process, and Deadline",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/healthy-food-policy-fellowship-2026-eligibility-benefits-application-process-and-deadline/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-02",
+   "window": "Deadline 2026-11-02",
+   "summary": "The Healthy Food Policy Fellowship 2026 is an exciting opportunity for aspiring food policy researchers and future public health leaders who want to contribute to healthier food environments through evidence-based public policy...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
    "id": "f-b89c5dc4c582",
    "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
    "provider": "Listed on Opportunities for Youth",
@@ -4451,31 +4632,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-6c9f12f858ea",
-   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
   },
   {
    "id": "f-3a75fc7e6233",
@@ -4552,137 +4708,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-22"
-  },
-  {
-   "id": "f-55c540cf2822",
-   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-07",
-   "window": "Deadline 2026-10-07",
-   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-21"
-  },
-  {
-   "id": "f-c5a4c3623e85",
-   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "id": "f-4831e93b53e2",
-   "title": "Healthy Food Policy Fellowship 2026: Eligibility, Benefits, Application Process, and Deadline",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/healthy-food-policy-fellowship-2026-eligibility-benefits-application-process-and-deadline/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-11-02",
-   "window": "Deadline 2026-11-02",
-   "summary": "The Healthy Food Policy Fellowship 2026 is an exciting opportunity for aspiring food policy researchers and future public health leaders who want to contribute to healthier food environments through evidence-based public policy...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-2f5304a79d15",
-   "title": "Canada Graduate Research Scholarship – Doctoral Program: $40,000 Per Year for PhD Research in Canada",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/canada-graduate-research-scholarship-doctoral-cgrs-d-program-2025-26/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "Canada",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-17",
-   "window": "Deadline 2026-10-17",
-   "summary": "The Canada Graduate Research Scholarship – Doctoral (CGRS D) Program provides substantial financial support to outstanding doctoral students conducting research in health, natural sciences and engineering, social sciences and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
-  },
-  {
-   "id": "f-13f1604dbe2b",
-   "title": "AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "The AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 are now open to eligible doctoral researchers from sub-Saharan Africa seeking financial support to undertake a short research stay at a university or research...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-20"
   },
   {
    "id": "f-64655c816d22",
