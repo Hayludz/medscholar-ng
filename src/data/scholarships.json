@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-16T16:44:18.879Z",
-  "total": 198,
+  "generatedAt": "2026-10-16T21:13:06.947Z",
+  "total": 200,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 47,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 373,
-    "matched": 147,
+    "matched": 146,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-16T16:40:34.816Z"
+   "checkedAt": "2026-10-16T21:10:08.075Z"
   },
   {
    "category": "funding",
@@ -2379,6 +2379,56 @@
    "addedAt": "2026-09-15"
   },
   {
+   "category": "research",
+   "remote": false,
+   "id": "f-2be4bdce04d2",
+   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-26"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-e47a33ced3ea",
+   "title": "SENSS Student-Led PhD Studentships 2027 in the UK: Fully Funded Doctoral Research Opportunities",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/senss-cam-student-led-studentship-competitions-youth-trust-transformation-long-term-impact-of-police-led-support-for-neet-young-people-in-barbados/",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "medical": "specific",
+   "deadline": "2027-01-11",
+   "window": "Deadline 2027-01-11",
+   "summary": "The South and East Network for Social Sciences Doctoral Training Partnership (SENSS) has opened applications for its Student-Led Studentships Competition for the 2027 academic year. This funding opportunity supports talented...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
    "id": "f-291b86cf8cdd",
    "title": "The Afrinvest Analyst Programme (TAAP) 2027 for Young Nigerian Graduates (24-Month Programme)",
    "provider": "Listed on Opportunities for Africans",
@@ -3357,30 +3407,6 @@
    "addedAt": "2026-10-11"
   },
   {
-   "id": "f-2be4bdce04d2",
-   "title": "M Health Fairview Center for Community Health Equity Accelerator Fellowship Leadership Programme for Community Leaders",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/26/m-health-fairview-center-for-community-health-equity-accelerator-fellowship-leadership-programme-for-community-leaders/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The M Health Fairview Center for Community Health Equit y is advancing community health equity through partnerships, research, leadership development and initiatives focused on addressing the social and structural factors that...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-26"
-  },
-  {
    "id": "f-af195a9388ee",
    "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
    "provider": "Listed on Opportunities for Youth",
@@ -3403,32 +3429,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-16"
-  },
-  {
-   "id": "f-e47a33ced3ea",
-   "title": "SENSS Student-Led PhD Studentships 2027 in the UK: Fully Funded Doctoral Research Opportunities",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/senss-cam-student-led-studentship-competitions-youth-trust-transformation-long-term-impact-of-police-led-support-for-neet-young-people-in-barbados/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-11",
-   "window": "Deadline 2027-01-11",
-   "summary": "The South and East Network for Social Sciences Doctoral Training Partnership (SENSS) has opened applications for its Student-Led Studentships Competition for the 2027 academic year. This funding opportunity supports talented...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
   },
   {
    "id": "f-0d27e5274006",
@@ -3851,6 +3851,56 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-21"
+  },
+  {
+   "id": "f-29bb426b90c6",
+   "title": "Daejin University Scholarships in South Korea 2027 for East African Students: Undergraduate and Master’s Opportunities",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/15/daejin-university-iucea-scholarship-2026-fully-funded-study-opportunity-in-south-korea-for-east-african-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "The Daejin University Scholarships for East African Students 2027 offer eligible students from eight East African Community (EAC) Partner States an opportunity to pursue undergraduate and master’s degree programmes in South Korea...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-15"
+  },
+  {
+   "id": "f-78a0f49929fe",
+   "title": "🇺🇸 Critical Language Scholarship (CLS) Program 2027",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/14/%f0%9f%87%ba%f0%9f%87%b8-critical-language-scholarship-cls-program-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-17",
+   "window": "Deadline 2026-11-17",
+   "summary": "The Critical Language Scholarship (CLS) Program is now opened. In an increasingly interconnected world, language is more than a means of communication — it is a bridge that connects cultures, fosters diplomacy, and promotes mutual...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-14"
   },
   {
    "id": "f-ad3c5c65f92e",
