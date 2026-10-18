@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-17T20:40:50.078Z",
-  "total": 200,
+  "generatedAt": "2026-10-18T04:38:32.277Z",
+  "total": 198,
   "curated": 40,
   "sources": [
    {
@@ -14,9 +14,9 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 47,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-17T20:37:39.827Z"
+   "checkedAt": "2026-10-18T04:35:45.712Z"
   },
   {
    "category": "funding",
@@ -1203,30 +1203,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-09-24"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-be4a321e285b",
-   "title": "Africa's Data Future Fellowship 2026 ($1,500 stipend)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/05/africa-data-future-fellowship-2026/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-09-18",
-   "window": "Deadline 2026-09-18",
-   "summary": "Deadline: September 18, 2026 Applications are open for the Africa's Data Future Fellowship 2026. The 2026 Africa’s Data Future Fellowship, organised by the Centre for the Study of the Economies of Africa (CSEA), is a 3-month...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-05"
   },
   {
    "category": "funding",
@@ -1613,30 +1589,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-e74332fdc5ee",
-   "title": "Nivishe Mental Health Fellowship Cohort 7: Apply for a 12-Week Virtual Mental Health Leadership Fellowship in Africa",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7-apply-for-a-12-week-virtual-mental-health-leadership-fellowship-in-africa/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-09-18",
-   "window": "Deadline 2026-09-18",
-   "summary": "The Nivishe Mental Health Fellowship Cohort 7 is inviting applications from emerging and established changemakers who want to deepen their understanding of mental health and develop practical leadership skills to address mental...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-10"
   },
   {
    "category": "funding",
