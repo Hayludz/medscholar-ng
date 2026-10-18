@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-18T15:55:34.333Z",
+  "generatedAt": "2026-10-18T20:47:46.060Z",
   "total": 199,
   "curated": 40,
   "sources": [
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
+    "scanned": 470,
     "matched": 47,
-    "failed": 2
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 373,
-    "matched": 144,
+    "matched": 141,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-18T15:53:26.922Z"
+   "checkedAt": "2026-10-18T20:45:12.012Z"
   },
   {
    "category": "funding",
@@ -2379,6 +2379,32 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-13"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-b0ebd0787353",
+   "title": "Cornell CIDER Pre-Doctoral Research Fellowship 2026 $75,632 Salary in the USA",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/11/apply-now-pre-doctoral-fellow-at-cornell-universitys-cider-program/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "The Cornell Collaboration for International Development Economics Research (CIDER) at Cornell University is inviting applications for its Pre-Doctoral Research Fellowship Program , a full-time, post-baccalaureate opportunity for...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-11"
   },
   {
    "id": "f-cad00aeaccb7",
@@ -4074,6 +4100,28 @@
    "addedAt": "2026-10-13"
   },
   {
+   "id": "f-b89c5dc4c582",
+   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
    "id": "f-0681551dc8f1",
    "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
    "provider": "Listed on Opportunities for Youth",
@@ -4506,54 +4554,6 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-11"
-  },
-  {
-   "id": "f-b0ebd0787353",
-   "title": "Cornell CIDER Pre-Doctoral Research Fellowship 2026 $75,632 Salary in the USA",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/11/apply-now-pre-doctoral-fellow-at-cornell-universitys-cider-program/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "The Cornell Collaboration for International Development Economics Research (CIDER) at Cornell University is inviting applications for its Pre-Doctoral Research Fellowship Program , a full-time, post-baccalaureate opportunity for...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-11"
-  },
-  {
-   "id": "f-b89c5dc4c582",
-   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
-   "category": "training",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
   },
   {
    "id": "f-7b616108d1dd",
