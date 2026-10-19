@@ -1,29 +1,29 @@
 {
  "meta": {
-  "generatedAt": "2026-10-19T13:21:06.894Z",
-  "total": 203,
+  "generatedAt": "2026-10-19T22:25:19.938Z",
+  "total": 204,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 148,
+    "matched": 147,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
+    "scanned": 470,
     "matched": 47,
-    "failed": 2
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 363,
-    "matched": 137,
-    "failed": 1
+    "scanned": 374,
+    "matched": 142,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T13:18:11.636Z"
+   "checkedAt": "2026-10-19T22:22:08.795Z"
   },
   {
    "category": "funding",
@@ -2483,6 +2483,30 @@
    "addedAt": "2026-09-16"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-c76616a80de6",
+   "title": "TWAS-SISSA-Lincei Research Cooperation Visits Programme 2026 for Young Scientists from Least Developed Countries.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/twas-sissa-lincei-research-cooperation-visits-programme-2026/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "Application Deadline: 31 October 2026 Applications are now open for the 2026 TWAS-SISSA-Lincei Research Cooperation Visits Programme. UNESCO-TWAS, in collaboration with the Lincei Academy and the International School for Advanced...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-09-28"
+  },
+  {
    "id": "f-3de0ffd1139a",
    "title": "University of Oxford Technical AI Governance DPhil Studentships 2027: Doctoral Research at the Intersection of...",
    "provider": "Listed on Opportunities for Youth",
@@ -2749,30 +2773,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-30"
-  },
-  {
-   "id": "f-c76616a80de6",
-   "title": "TWAS-SISSA-Lincei Research Cooperation Visits Programme 2026 for Young Scientists from Least Developed Countries.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/twas-sissa-lincei-research-cooperation-visits-programme-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "Application Deadline: 31 October 2026 Applications are now open for the 2026 TWAS-SISSA-Lincei Research Cooperation Visits Programme. UNESCO-TWAS, in collaboration with the Lincei Academy and the International School for Advanced...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-28"
   },
   {
    "id": "f-e69a2e67c4d4",
@@ -3533,6 +3533,30 @@
    "addedAt": "2026-10-16"
   },
   {
+   "id": "f-ad3c5c65f92e",
+   "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/14/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/",
+   "category": "funding",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "China",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-09",
+   "window": "Deadline 2026-11-09",
+   "summary": "Young social entrepreneurs, community leaders, and social innovators have an opportunity to strengthen their initiatives, develop leadership skills, build international networks, and collaborate with changemakers from other...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-14"
+  },
+  {
    "id": "f-0d27e5274006",
    "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
    "provider": "Listed on Opportunities for Youth",
@@ -4027,55 +4051,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-14"
-  },
-  {
-   "id": "f-ad3c5c65f92e",
-   "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/14/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "China",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-09",
-   "window": "Deadline 2026-11-09",
-   "summary": "Young social entrepreneurs, community leaders, and social innovators have an opportunity to strengthen their initiatives, develop leadership skills, build international networks, and collaborate with changemakers from other...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-14"
-  },
-  {
-   "id": "f-64655c816d22",
-   "title": "Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,000 Annual...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe? Trinity College Dublin is offering a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
   },
   {
    "id": "f-ef621be5aa01",
@@ -4678,6 +4653,32 @@
    "addedAt": "2026-09-15"
   },
   {
+   "id": "f-75b12067f9e8",
+   "title": "DHS Graduate Research Opportunities, and Benefits for Doctoral Students in the United States",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/19/dhs-graduate-research-opportunities-and-benefits-for-doctoral-students-in-the-united-states/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-13",
+   "window": "Deadline 2026-11-13",
+   "summary": "The DHS Graduate Research Fellowship 2027 is an exciting research opportunity sponsored by the U.S. Department of Homeland Security (DHS) for eligible doctoral students and recent PhD graduates in science, technology, engineering...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-19"
+  },
+  {
    "id": "f-7b616108d1dd",
    "title": "229 Erasmus Mundus Joint Master’s Degrees Worldwide: Explore International Master’s Programmes in Europe and Beyond",
    "provider": "Listed on Opportunities for Youth",
@@ -4831,32 +4832,6 @@
    "addedAt": "2026-10-13"
   },
   {
-   "id": "f-764c035336f2",
-   "title": "ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The ELLIS PhD Program is inviting applications from talented prospective doctoral researchers interested in machine learning, artificial intelligence (AI), and related interdisciplinary research fields. The programme offers an...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
    "id": "f-4831e93b53e2",
    "title": "Healthy Food Policy Fellowship 2026: Eligibility, Benefits, Application Process, and Deadline",
    "provider": "Listed on Opportunities for Youth",
@@ -4932,6 +4907,57 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-20"
+  },
+  {
+   "id": "f-64655c816d22",
+   "title": "Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,000 Annual...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe? Trinity College Dublin is offering a...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-764c035336f2",
+   "title": "ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The ELLIS PhD Program is inviting applications from talented prospective doctoral researchers interested in machine learning, artificial intelligence (AI), and related interdisciplinary research fields. The programme offers an...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
   },
   {
    "id": "f-a0206e79e742",
