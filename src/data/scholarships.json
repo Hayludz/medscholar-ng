@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-19T22:25:19.938Z",
-  "total": 204,
+  "generatedAt": "2026-10-20T04:55:25.398Z",
+  "total": 206,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 47,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 142,
+    "matched": 148,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-19T22:22:08.795Z"
+   "checkedAt": "2026-10-20T04:52:28.729Z"
   },
   {
    "category": "funding",
@@ -2507,6 +2507,56 @@
    "addedAt": "2026-09-28"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-74687beb14ef",
+   "title": "University of Auckland Doctoral Scholarship 2026–2027: Receive NZ$35,468 Per Year, Tuition Fee Coverage and Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-11-01",
+   "window": "Deadline 2026-11-01",
+   "summary": "Introduction Are you looking for a doctoral scholarship in New Zealand to support your advanced studies and research career? The University of Auckland Doctoral Scholarship 2026–2027 offers eligible doctoral candidates an...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-11"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-296da6a1ea1d",
+   "title": "AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Africa for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "specific",
+   "deadline": "2026-10-02",
+   "window": "Deadline 2026-10-02",
+   "summary": "The AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 Cohort is now inviting applications from eligible PhD students enrolled at universities in African countries for an opportunity to strengthen their research, academic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-15"
+  },
+  {
    "id": "f-3de0ffd1139a",
    "title": "University of Oxford Technical AI Governance DPhil Studentships 2027: Doctoral Research at the Intersection of...",
    "provider": "Listed on Opportunities for Youth",
@@ -3485,30 +3535,6 @@
    "addedAt": "2026-09-16"
   },
   {
-   "id": "f-74687beb14ef",
-   "title": "University of Auckland Doctoral Scholarship 2026–2027: Receive NZ$35,468 Per Year, Tuition Fee Coverage and Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/11/university-of-auckland-doctoral-scholarship-2026-2027-receive-nz35468-per-year-tuition-fee-coverage-and-health-insurance-support/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-01",
-   "window": "Deadline 2026-11-01",
-   "summary": "Introduction Are you looking for a doctoral scholarship in New Zealand to support your advanced studies and research career? The University of Auckland Doctoral Scholarship 2026–2027 offers eligible doctoral candidates an...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-11"
-  },
-  {
    "id": "f-af195a9388ee",
    "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
    "provider": "Listed on Opportunities for Youth",
@@ -4148,6 +4174,31 @@
    "addedAt": "2026-10-08"
   },
   {
+   "id": "f-8e1e38b5d7b0",
+   "title": "DIW Berlin Graduate Center PhD Program 2027 in Germany: Fully Funded Five-Year Economics Doctoral Scholarship for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/19/diw-berlin-graduate-center-phd-program-2027-in-germany-fully-funded-five-year-economics-doctoral-scholarship-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-15",
+   "window": "Deadline 2027-01-15",
+   "summary": "The DIW Berlin Graduate Center PhD Program 2027 offers an opportunity for highly qualified graduates to pursue advanced doctoral studies in economics in Berlin, Germany, with financial support throughout the expected five-year...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-19"
+  },
+  {
    "id": "f-a8c73ecdb1f2",
    "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
    "provider": "Listed on Opportunities for Youth",
@@ -4430,6 +4481,32 @@
    "addedAt": "2026-09-14"
   },
   {
+   "id": "f-cd9a4c0fbc28",
+   "title": "Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University, Canada: Up to CAD $30,000 for Domestic and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/19/dahdaleh-global-health-graduate-scholarship-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Canada",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-08",
+   "window": "Deadline 2027-01-08",
+   "summary": "The Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University in Canada is a competitive graduate research funding opportunity for outstanding domestic and international students pursuing master's or doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-19"
+  },
+  {
    "id": "f-259a1dacce92",
    "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships 2027 in the UK: Funding, Eligibility, Application...",
    "provider": "Listed on Opportunities for Youth",
@@ -4625,32 +4702,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-16"
-  },
-  {
-   "id": "f-296da6a1ea1d",
-   "title": "AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Africa for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "The AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 Cohort is now inviting applications from eligible PhD students enrolled at universities in African countries for an opportunity to strengthen their research, academic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-15"
   },
   {
    "id": "f-75b12067f9e8",
