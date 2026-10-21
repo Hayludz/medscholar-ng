@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-21T04:52:53.783Z",
-  "total": 209,
+  "generatedAt": "2026-10-21T11:53:23.346Z",
+  "total": 211,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 44,
-    "failed": 1
+    "scanned": 460,
+    "matched": 45,
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 144,
+    "matched": 145,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -648,8 +648,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T04:49:43.379Z"
+   "checkedAt": "2026-10-21T11:50:38.265Z"
   },
   {
    "category": "funding",
@@ -2707,6 +2707,30 @@
    "addedAt": "2026-10-15"
   },
   {
+   "id": "f-86bc5314f595",
+   "title": "UNESCO Science for Crisis Response Solutions Research Continuity Grants for Africa 2026 (up to $2,000)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/21/unesco-scrs-grants-for-africa-2026/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Deadline: November 15, 2026 Applications are open for the UNESCO Science for Crisis Response Solutions Research Continuity Grants for Africa 2026. This is a new small-grants initiative supporting the continuity of natural-science...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-21"
+  },
+  {
    "id": "f-291b86cf8cdd",
    "title": "The Afrinvest Analyst Programme (TAAP) 2027 for Young Nigerian Graduates (24-Month Programme)",
    "provider": "Listed on Opportunities for Africans",
@@ -4103,6 +4127,33 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-25"
+  },
+  {
+   "id": "f-7f737ea2aa40",
+   "title": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026: Apply for Up to US$2,000 in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-africa-2026-apply-for-up-to-us2000-in-research-funding/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Are you an African researcher whose natural-science research has been interrupted by armed conflict, a natural disaster, or a biological hazard? The UNESCO Science for Crisis Response and Solutions (SCRS) Research Continuity...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-21"
   },
   {
    "id": "f-c5eb30bc7187",
