@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-22T04:51:11.819Z",
-  "total": 212,
+  "generatedAt": "2026-10-22T11:56:56.041Z",
+  "total": 213,
   "curated": 40,
   "sources": [
    {
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 144,
+    "matched": 143,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "lstm-nigeria",
@@ -469,8 +469,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-22T04:48:33.017Z"
+   "checkedAt": "2026-10-22T11:54:19.016Z"
   },
   {
    "category": "funding",
@@ -2755,6 +2755,30 @@
    "addedAt": "2026-10-18"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-e3f89f3427d4",
+   "title": "NTT DATA Young Talent Graduate Programme 2027 for young South Africans.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/ntt-data-young-talent-graduate-programme-2027-for-young-south-africans/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "open",
+   "deadline": "2026-10-09",
+   "window": "Deadline 2026-10-09",
+   "summary": "Application Deadline: 9 October 2026 Applications are now open for the 2027 NTT DATA Young Talent Graduate Programme. The Young Talent Graduate Programme 2027 at NTT DATA offers recent graduates the The post NTT DATA Young Talent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-09-16"
+  },
+  {
    "id": "f-86bc5314f595",
    "title": "UNESCO Science for Crisis Response Solutions Research Continuity Grants for Africa 2026 (up to $2,000)",
    "provider": "Listed on Opportunity Desk",
@@ -2776,6 +2800,30 @@
    "kind": "feed",
    "score": 2,
    "source": "Opportunity Desk",
+   "addedAt": "2026-10-21"
+  },
+  {
+   "id": "f-653569aab2c9",
+   "title": "The Nedbank TalentForge Tech Graduate Program 2026 for young South African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-nedbank-talentforge-tech-graduate-program-2026/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-03",
+   "window": "Deadline 2026-11-03",
+   "summary": "Application Deadline: November 3rd, 2026 Applications are now open for the 2026 Nedbank TalentForge Tech Graduate Program. The TalentForge Tech Graduate Programme is a structured 24-month development programme that provides The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
    "addedAt": "2026-10-21"
   },
   {
@@ -2873,30 +2921,6 @@
    "score": 5,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-05"
-  },
-  {
-   "id": "f-e3f89f3427d4",
-   "title": "NTT DATA Young Talent Graduate Programme 2027 for young South Africans.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/ntt-data-young-talent-graduate-programme-2027-for-young-south-africans/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-09",
-   "window": "Deadline 2026-10-09",
-   "summary": "Application Deadline: 9 October 2026 Applications are now open for the 2027 NTT DATA Young Talent Graduate Programme. The Young Talent Graduate Programme 2027 at NTT DATA offers recent graduates the The post NTT DATA Young Talent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-16"
   },
   {
    "id": "f-434fdb368b68",
