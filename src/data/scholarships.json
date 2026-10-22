@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-21T21:46:46.516Z",
-  "total": 213,
+  "generatedAt": "2026-10-22T04:51:11.819Z",
+  "total": 212,
   "curated": 40,
   "sources": [
    {
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
+    "scanned": 470,
     "matched": 44,
-    "failed": 2
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 364,
+    "scanned": 374,
     "matched": 144,
-    "failed": 1
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "broken",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-21T21:43:50.778Z"
+   "checkedAt": "2026-10-22T04:48:33.017Z"
   },
   {
    "category": "funding",
@@ -3462,32 +3462,6 @@
    "addedAt": "2026-10-01"
   },
   {
-   "id": "f-7cb12d993a91",
-   "title": "The IOC Olympic Studies Centre (OSC) 2027 PhD Students and Early Career Academics Research Grant Programme (Fully...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-ioc-olympic-studies-centre-osc-2027-phd-students-and-early-career-academics-research-grant-programme/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-09-22",
-   "window": "Deadline 2026-09-22",
-   "summary": "Application Deadline: 22 September 2026 Applications are now open for the 2027 OSC PhD Students and Early Career Academics Research Grant Programme. rch Grant Programme. The IOC Olympic Studies Centre (OSC) has The post The IOC...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-05-11"
-  },
-  {
    "id": "f-a80a111ce318",
    "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
    "provider": "Listed on Opportunity Desk",
@@ -4826,30 +4800,6 @@
    "addedAt": "2026-09-29"
   },
   {
-   "id": "f-6c8956cd41c2",
-   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-08",
-   "window": "Deadline 2026-12-08",
-   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
    "id": "f-916c6d58608d",
    "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
    "provider": "Listed on Opportunities for Youth",
@@ -5049,6 +4999,30 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-6c8956cd41c2",
+   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-08",
+   "window": "Deadline 2026-12-08",
+   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
   },
   {
    "id": "f-c5a4c3623e85",
