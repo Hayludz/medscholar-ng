@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-10-24T11:05:10.123Z",
-  "total": 221,
+  "generatedAt": "2026-10-24T16:00:37.869Z",
+  "total": 222,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 150,
+    "matched": 147,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 460,
-    "matched": 40,
+    "matched": 39,
     "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 151,
+    "matched": 148,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T11:02:36.862Z"
+   "checkedAt": "2026-10-24T15:57:37.688Z"
   },
   {
    "category": "funding",
@@ -2851,6 +2851,105 @@
    "addedAt": "2026-09-25"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-7f737ea2aa40",
+   "title": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026: Apply for Up to US$2,000 in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-africa-2026-apply-for-up-to-us2000-in-research-funding/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Are you an African researcher whose natural-science research has been interrupted by armed conflict, a natural disaster, or a biological hazard? The UNESCO Science for Crisis Response and Solutions (SCRS) Research Continuity...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-21"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-ad3c5c65f92e",
+   "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/14/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "China",
+   "medical": "specific",
+   "deadline": "2026-11-09",
+   "window": "Deadline 2026-11-09",
+   "summary": "Young social entrepreneurs, community leaders, and social innovators have an opportunity to strengthen their initiatives, develop leadership skills, build international networks, and collaborate with changemakers from other...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-14"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-d6220872da08",
+   "title": "Denmark Scholarships for International Students: Erasmus Mundus, Danish Government Scholarships, Fulbright and Other...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/28/scholarships-in-denmark-for-international-students-danish-government-scholarships-erasmus-mundus-fulbright-and-more/",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Denmark offers a range of scholarship and funding opportunities for international students who want to pursue higher education, participate in student exchanges, or undertake research at Danish institutions. Funding opportunities...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-28"
+  },
+  {
+   "category": "volunteer",
+   "remote": false,
+   "id": "f-5bc24e01602c",
+   "title": "2027 Weill Cornell Medicine Paid Biostatistics Summer Paid Internship in New York: Applications Now Open",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/14/paid-biostatistics-summer-internship-2026-weill-cornell-medicine/",
+   "level": [],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-02",
+   "window": "Deadline 2026-10-02",
+   "summary": "Students interested in biostatistics, healthcare data analysis, public health research, and real-world applications of statistics can now apply for the 2027 Weill Cornell Medicine Paid Biostatistics Summer Internship Program in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-14"
+  },
+  {
    "id": "f-653569aab2c9",
    "title": "The Nedbank TalentForge Tech Graduate Program 2026 for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -3799,26 +3898,23 @@
    "addedAt": "2026-10-16"
   },
   {
-   "id": "f-7f737ea2aa40",
-   "title": "UNESCO Science for Crisis Response and Solutions Research Continuity Grants for Africa 2026: Apply for Up to US$2,000 in...",
+   "id": "f-29a1ceeedd74",
+   "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/unesco-science-for-crisis-response-and-solutions-research-continuity-grants-for-africa-2026-apply-for-up-to-us2000-in-research-funding/",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
    "category": "funding",
    "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
+    "masters"
    ],
    "funding": "unknown",
-   "destination": "Varies",
+   "destination": "United Kingdom",
    "remote": false,
-   "medical": "open",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "Are you an African researcher whose natural-science research has been interrupted by armed conflict, a natural disaster, or a biological hazard? The UNESCO Science for Crisis Response and Solutions (SCRS) Research Continuity...",
+   "medical": "specific",
+   "deadline": "2026-11-03",
+   "window": "Deadline 2026-11-03",
+   "summary": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States...",
    "tags": [
-    "Open to Africans"
+    "Check eligibility"
    ],
    "kind": "feed",
    "score": 2,
@@ -3826,28 +3922,28 @@
    "addedAt": "2026-10-21"
   },
   {
-   "id": "f-ad3c5c65f92e",
-   "title": "ChangemakerXchange Opportunities 2027: Changemakers for Youth, China x Europe, and Changemakers for Equality Programmes",
+   "id": "f-73ec2b3283cf",
+   "title": "SI Scholarship for Global Professionals 2027/2028 in Sweden: Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/14/changemakerxchange-programme-lead-job-2026-global-responsible-tech-and-ai-programme-management-opportunity-in-berlin/",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
    "category": "funding",
    "level": [
-    "fellowship"
+    "masters"
    ],
-   "funding": "unknown",
-   "destination": "China",
+   "funding": "full",
+   "destination": "Sweden",
    "remote": false,
    "medical": "specific",
-   "deadline": "2026-11-09",
-   "window": "Deadline 2026-11-09",
-   "summary": "Young social entrepreneurs, community leaders, and social innovators have an opportunity to strengthen their initiatives, develop leadership skills, build international networks, and collaborate with changemakers from other...",
+   "deadline": "2027-02-08",
+   "window": "Deadline 2027-02-08",
+   "summary": "The Swedish Institute (SI) Scholarship for Global Professionals 2027/2028 offers international professionals an opportunity to pursue a fully funded master’s degree at a Swedish university. The scholarship supports talented...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 2,
+   "score": 7,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-14"
+   "addedAt": "2026-10-21"
   },
   {
    "id": "f-0d27e5274006",
@@ -4223,32 +4319,6 @@
    "addedAt": "2026-10-05"
   },
   {
-   "id": "f-d6220872da08",
-   "title": "Denmark Scholarships for International Students: Erasmus Mundus, Danish Government Scholarships, Fulbright and Other...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/28/scholarships-in-denmark-for-international-students-danish-government-scholarships-erasmus-mundus-fulbright-and-more/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Denmark offers a range of scholarship and funding opportunities for international students who want to pursue higher education, participate in student exchanges, or undertake research at Danish institutions. Funding opportunities...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-28"
-  },
-  {
    "id": "f-80d2df17229f",
    "title": "LSE MPhil/PhD Demography (Social/Formal) 2027/28: Fully Detailed Doctoral Research Opportunity in Population Studies in...",
    "provider": "Listed on Opportunities for Youth",
@@ -4272,54 +4342,6 @@
    "score": 8,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-22"
-  },
-  {
-   "id": "f-29a1ceeedd74",
-   "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-03",
-   "window": "Deadline 2026-11-03",
-   "summary": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-21"
-  },
-  {
-   "id": "f-73ec2b3283cf",
-   "title": "SI Scholarship for Global Professionals 2027/2028 in Sweden: Fully Funded Master’s Scholarship Worth SEK 12,000 Monthly",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/swedish-institute-si-scholarship-2026-for-global-professionals-fully-funded-masters-in-sweden/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Sweden",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-02-08",
-   "window": "Deadline 2027-02-08",
-   "summary": "The Swedish Institute (SI) Scholarship for Global Professionals 2027/2028 offers international professionals an opportunity to pursue a fully funded master’s degree at a Swedish university. The scholarship supports talented...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-21"
   },
   {
    "id": "f-27270da09477",
@@ -4870,28 +4892,6 @@
    "addedAt": "2026-09-14"
   },
   {
-   "id": "f-5bc24e01602c",
-   "title": "2027 Weill Cornell Medicine Paid Biostatistics Summer Paid Internship in New York: Applications Now Open",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/paid-biostatistics-summer-internship-2026-weill-cornell-medicine/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Students interested in biostatistics, healthcare data analysis, public health research, and real-world applications of statistics can now apply for the 2027 Weill Cornell Medicine Paid Biostatistics Summer Internship Program in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
-  },
-  {
    "id": "f-cd9a4c0fbc28",
    "title": "Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University, Canada: Up to CAD $30,000 for Domestic and...",
    "provider": "Listed on Opportunities for Youth",
@@ -5016,6 +5016,30 @@
    "addedAt": "2026-09-29"
   },
   {
+   "id": "f-6c8956cd41c2",
+   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-08",
+   "window": "Deadline 2026-12-08",
+   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
    "id": "f-916c6d58608d",
    "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
    "provider": "Listed on Opportunities for Youth",
@@ -5113,6 +5137,30 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-16"
+  },
+  {
+   "id": "f-1ea6bbf42eec",
+   "title": "IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits and How to...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "The IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026 is an opportunity for qualified early- and mid-career scientists in sub-Saharan Africa to strengthen their expertise in infectious-disease modelling, conduct...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-24"
   },
   {
    "id": "f-75b12067f9e8",
@@ -5215,30 +5263,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-6c8956cd41c2",
-   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-08",
-   "window": "Deadline 2026-12-08",
-   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
   },
   {
    "id": "f-c5a4c3623e85",
