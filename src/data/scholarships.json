@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-24T16:00:37.869Z",
+  "generatedAt": "2026-10-24T20:53:58.903Z",
   "total": 222,
   "curated": 40,
   "sources": [
@@ -14,9 +14,9 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
-    "matched": 39,
-    "failed": 2
+    "scanned": 470,
+    "matched": 38,
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-24T15:57:37.688Z"
+   "checkedAt": "2026-10-24T20:51:00.221Z"
   },
   {
    "category": "funding",
@@ -2950,6 +2950,31 @@
    "addedAt": "2026-09-14"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-a80a111ce318",
+   "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-10-02",
+   "window": "Deadline 2026-10-02",
+   "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
+  },
+  {
    "id": "f-653569aab2c9",
    "title": "The Nedbank TalentForge Tech Graduate Program 2026 for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -3631,31 +3656,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-01"
-  },
-  {
-   "id": "f-a80a111ce318",
-   "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
   },
   {
    "id": "f-471d480766bb",
