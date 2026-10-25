@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25T11:33:59.768Z",
-  "total": 221,
+  "generatedAt": "2026-10-25T16:23:50.472Z",
+  "total": 222,
   "curated": 40,
   "sources": [
    {
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 146,
+    "matched": 150,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T11:31:41.931Z"
+   "checkedAt": "2026-10-25T16:21:12.081Z"
   },
   {
    "category": "funding",
@@ -5115,6 +5115,28 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-16"
+  },
+  {
+   "id": "f-3af02a20bef0",
+   "title": "WE ACT Environmental Health and Justice Leadership Training (EHJLT) 2027: Course Overview, Schedule, Eligibility...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/25/we-act-environmental-health-and-justice-leadership-training-ehjlt-2027-course-overview-schedule-eligibility-benefits-and-registration/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you passionate about environmental justice, community advocacy, public health, and building healthier communities? The Environmental Health and Justice Leadership Training (EHJLT) Course for January–March 2027 , developed by...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-25"
   },
   {
    "id": "f-1ea6bbf42eec",
