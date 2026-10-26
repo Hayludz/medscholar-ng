@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-10-26T13:06:55.368Z",
-  "total": 223,
+  "generatedAt": "2026-10-26T22:43:35.818Z",
+  "total": 227,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 147,
+    "matched": 148,
     "failed": 0
    },
    {
@@ -20,10 +20,10 @@
    },
    {
     "name": "Opportunities for Youth",
-    "ok": false,
-    "scanned": 0,
-    "matched": 0,
-    "failed": 39
+    "ok": true,
+    "scanned": 374,
+    "matched": 143,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-26T13:04:56.488Z"
+   "checkedAt": "2026-10-26T22:40:59.043Z"
   },
   {
    "category": "funding",
@@ -3001,670 +3001,6 @@
    "addedAt": "2026-10-26"
   },
   {
-   "category": "funding",
-   "remote": false,
-   "id": "f-1592720f9291",
-   "title": "Hong Kong PhD Fellowship Scheme 2027–28 at Lingnan University: Fully Funded PhD Opportunity for International Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/01/hong-kong-phd-fellowship-scheme-2027-28-at-lingnan-university-fully-funded-phd-opportunity-for-international-students/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "The Hong Kong PhD Fellowship Scheme (HKPFS) 2027–28 offers an opportunity for outstanding students from around the world to pursue doctoral studies in Hong Kong. Lingnan University is among the participating universities that can...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-01"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-29a1ceeedd74",
-   "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-11-03",
-   "window": "Deadline 2026-11-03",
-   "summary": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-af195a9388ee",
-   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-16"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-0d27e5274006",
-   "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/funded-africa-climate-phd-27/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "Applications are open for 12 fully funded PhD Fellowships in Climate and Development under the Africa Climate Collaborative at the University of Cape Town (UCT) in South Africa. The four-year doctoral training programme is...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-e1eb473de551",
-   "title": "Mastercard Foundation Scholars Program 2027/2028 at Cambridge Fully Funded Master’s Scholarship",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/12/call-for-applications-mastercard-foundation-scholarship-program-at-the-university-of-cambridge-for-2025-2026/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2026-11-18",
-   "window": "Deadline 2026-11-18",
-   "summary": "Key Details: Cambridge Mastercard Foundation Scholarship 2027/2028 Scholarship Mastercard Foundation Scholars Program University University of Cambridge Academic year 2027/2028 Study level Master's degree Duration One-year...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-12"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-2243f539ad48",
-   "title": "Mastercard Foundation Scholars Program at Arizona State University 2027: Fully Funded Innovation and Technology Master’s...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/10/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": "2026-09-27",
-   "window": "Deadline 2026-09-27",
-   "summary": "The Mastercard Foundation Scholars Program at Arizona State University (ASU) is offering fully funded graduate scholarship opportunities for young African professionals seeking to pursue master’s degrees in technology, innovation...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-10"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-3106b7810b93",
-   "title": "Pitch Perfect Africa 2026: CAD $5,000 Innovation Fellowship Opportunity for African Health Entrepreneurs",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/09/pitch-perfect-africa-2026-cad-5000-innovation-fellowship-opportunity-for-african-health-entrepreneurs/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-09-29",
-   "window": "Deadline 2026-09-29",
-   "summary": "Applications are now open for Pitch Perfect Africa 2026 , a competitive pitching opportunity designed to support early-stage entrepreneurs developing innovative solutions to health-related challenges across Africa. Now in its...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-09"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-8d73bbb2d859",
-   "title": "University of Cape Town Mastercard Foundation Scholarship Program 2027 for study in South Africa is open (Fully-funded...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/04/university-of-cape-town-mastercard-foundation-scholars-program-2024-for-study-in-south-africa-is-openfully-funded-bachelors-and-masters/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "medical": "specific",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Key Summary — Mastercard Foundation Scholars Program at UCT 2027 University: University of Cape Town (UCT), South Africa Programme: Mastercard Foundation Scholars Program Intake: 2027 Eligible applicants: Citizens of African...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-04"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dd5914b3479d",
-   "title": "TTS Nigeria Programme 2026–2027: Applications Open for Free Technology and Workforce Development Programme for Young...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/24/tts-nigeria-programme/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Technology Talent Services (TTS) Nigeria Programme is a free technology skills and workforce development initiative designed to equip young Nigerian women with practical, career-focused skills and strengthen their pathways...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-24"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-24a60369c521",
-   "title": "University of Edinburgh Mastercard Foundation Scholarships 2027/28: Fully Funded Online On-Campus Postgraduate...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/21/university-of-edinburgh-mastercard-foundation-scholarships-2026-27-online-and-on-campus-postgraduate/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-11-19",
-   "window": "Deadline 2026-11-19",
-   "summary": "The Mastercard Foundation Scholars Program at the University of Edinburgh is offering fully funded postgraduate scholarships for the 2027/28 academic year. Scholarships are available for selected on-campus Master's programmes and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-4c442f78b3be",
-   "title": "Future of Work Africa (FOWA) Advisory Services 2026: Personalised Career, Scholarship, Fellowship and Postgraduate...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/19/future-of-work-africa-fowa-advisory-services-2026-personalised-career-scholarship-fellowship-and-postgraduate-application-support-for-african-students-and-professionals/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Introduction Making the right academic or career decision can be challenging, particularly when you are navigating scholarships, postgraduate admissions, competitive fellowships, career transitions, job applications, personal...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-19"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-188879d67e34",
-   "title": "Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commonwealth...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "The Commonwealth Master’s Scholarships 2027/28 provide an opportunity for talented and motivated graduates from eligible low- and middle-income Commonwealth countries to pursue full-time taught Master’s degrees at universities in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-18"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-e33641f1bf0a",
-   "title": "Fully Funded Commonwealth Master’s and PhD Scholarships 2027/28 in the UK: Applications Now Open",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/10/commonwealth-scholarships-for-the-university-of-londons-ma-in-refugee-protection-and-forced-migration-studies/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Applications are now open for the Commonwealth Master’s Scholarships and Commonwealth PhD Scholarships for the 2027/28 academic year , offering talented students and researchers from eligible Commonwealth countries an opportunity...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-10"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-8d65ded0b93f",
-   "title": "Erasmus Mundus Scholarship 2027–2029: Up to €33,600 Plus Full Tuition for a Joint Master’s in Public Policy",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/27/erasmus-public-policy-2027/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Applications for the 2027–2029 Erasmus Mundus Master’s Program in Public Policy (Mundus MAPP) are expected to open on 1 September 2026 , offering students from around the world the opportunity to complete an interdisciplinary...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-27"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dadc0e3c2c04",
-   "title": "Erasmus Mundus Joint Masters Scholarships 2026–2027: Study Across Europe with Fully Funded Scholarship Opportunities",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/26/apply-for-an-erasmus-mundus-joint-mastersfully-funded-scholarships-for-students-worldwide/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Erasmus Mundus Joint Masters (EMJM) programme offers an exceptional opportunity for students from around the world to pursue an international master's degree through a consortium of universities located in different countries...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-26"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-42d71eec3685",
-   "title": "Mastercard Foundation Scholarship Program at the African Leadership University (ALU)",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/25/mastercard-foundation-scholars-program-at-the-african-leadership-university-alu/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Mastercard Foundation Scholars Program at the African Leadership University (ALU) provides fully funded scholarships for talented young Africans who demonstrate leadership potential but face financial hardship. The program...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-25"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-1d1db3ddb8b7",
-   "title": "University of Oxford Master of Public Policy Scholarships 2027–28: 1,000+ Funding Opportunities for Future Public...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/08/master-of-public-policy-mpp-blavatnik-school-of-government-university-of-oxford/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2027-05-31",
-   "window": "Deadline 2027-05-31",
-   "summary": "The University of Oxford’s Master of Public Policy (MPP) programme offers a wide range of scholarships and funding opportunities to help students meet the substantial cost of studying at Oxford. For the 2027–28 academic year, the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-08"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-7c324488b21d",
-   "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/nrf-daad-in-country-scholarship-2025-fully-funded-masters-phd-opportunities-in-south-africa-and-germany/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "medical": "specific",
-   "deadline": "2026-11-12",
-   "window": "Deadline 2026-11-12",
-   "summary": "The DAAD In-Country/In-Region Programme for Sub-Saharan Africa 2026–2027 is offering scholarship opportunities for graduates and postgraduate students from Sub-Saharan Africa who wish to pursue selected development-related...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-a47855982805",
-   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-80d2df17229f",
-   "title": "LSE MPhil/PhD Demography (Social/Formal) 2027/28: Fully Detailed Doctoral Research Opportunity in Population Studies in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/lse-mphil-phd-demography-social-formal-2027-28/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2027-05-27",
-   "window": "Deadline 2027-05-27",
-   "summary": "The LSE MPhil/PhD Demography (Social/Formal) 2027/28 is a postgraduate research programme offered by the London School of Economics and Political Science (LSE) in the United Kingdom. The programme is designed for graduates who...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-27270da09477",
-   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-ef621be5aa01",
-   "title": "Apply for the SRHR Applied Research Centre Funding 2026: Up to £12 Million for Global Sexual and Reproductive Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/apply-for-the-srhr-applied-research-centre-funding-2026-up-to-12-million-for-global-sexual-and-reproductive-health-research/",
-   "level": [
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-11-30",
-   "window": "Deadline 2026-11-30",
-   "summary": "Introduction The Global Research and Technology Development (GRTD) Research Commissioning Centre (RCC), co-led by 3ie and the University of Birmingham, has announced an international call for Expressions of Interest (EOIs) to...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-8cb46e723aeb",
-   "title": "MSc in Health Professions Education 2026 at UGHE, Rwanda: Fully Funded Mastercard Foundation Scholars Program",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/11/master-of-science-in-health-professions-education-fully-funded-by-mastercard-foundation-scholars-program/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Africa",
-   "medical": "specific",
-   "deadline": "2026-10-06",
-   "window": "Deadline 2026-10-06",
-   "summary": "The Master of Science in Health Professions Education (MSc-HPE) 2026 at the University of Global Health Equity (UGHE), Rwanda , offers an advanced academic opportunity for young African health professionals who want to become...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-11"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-3c72eaca884a",
-   "title": "Harvard LEAD Fellowship 2027–2028: Fully Funded Global Health Leadership Fellowship for Professionals from Low- and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/harvard-lead-fellowship-2027-2028-fully-funded-global-health-leadership-fellowship-for-professionals-from-low-and-middle-income-countries/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "The 2027–2028 Harvard LEAD Fellowship for Promoting Women in Global Health is now accepting applications for professionals seeking to strengthen their leadership capacity and make a greater impact in global health. Offered by the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-bd3fbbd12bcb",
-   "title": "University of Lincoln Global Leaders Scholarship 2027–2028: 50% Tuition Fee Scholarship for International Students in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/23/university-of-lincoln-global-leaders-scholarship-2027-2028-50-tuition-fee-scholarship-for-international-students-in-the-uk/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2027-06-07",
-   "window": "Deadline 2027-06-07",
-   "summary": "The University of Lincoln Global Leaders Scholarship is an opportunity for outstanding international students who wish to pursue undergraduate or postgraduate taught studies in the United Kingdom. The scholarship recognises...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-23"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-9defecb46d04",
-   "title": "Hertie School Digital Governance Scholarship 2027: Fully Funded Master’s Scholarship Worth €39,500 for International...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/20/hertie-school-digital-governance-scholarship-2027-fully-funded-masters-scholarship-worth-e39500-for-international-students/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Hertie School Digital Governance Scholarship is an excellent funding opportunity for students who want to understand how digitalisation, artificial intelligence, data protection, and emerging technologies are transforming...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-20"
-  },
-  {
-   "category": "volunteer",
-   "remote": true,
-   "id": "f-d74358b66dde",
-   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world's most pressing healthcare challenges. For students and emerging professionals seeking practical...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
-  },
-  {
    "category": "volunteer",
    "remote": false,
    "id": "f-9842d81732ea",
@@ -3714,518 +3050,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-6ca259d9dc04",
-   "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/beit-trust-postgraduate-scholarships-applications-open-for-2025-2026/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "The Beit Trust Scholarships for the 2027/2028 academic year offer an opportunity for eligible students from Zambia, Zimbabwe, and Malawi to pursue postgraduate Master’s studies at selected partner universities in the United...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-a8c73ecdb1f2",
-   "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/kaust-scholarship-2027-in-saudi-arabia-fully-funded-masters-and-phd-scholarship-for-international-students/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2027-01-03",
-   "window": "Deadline 2027-01-03",
-   "summary": "The King Abdullah University of Science and Technology (KAUST) offers fully funded graduate study opportunities for students seeking advanced education and research experience in science, engineering, technology and related...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-76e5768360ba",
-   "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/joint-japan-world-bank-graduate-scholarship-program-2025/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2027-02-26",
-   "window": "Deadline 2027-02-26",
-   "summary": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) 2027 is offering a major opportunity for experienced development professionals from eligible developing countries to pursue a master's degree in a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-ab3b526f51a6",
-   "title": "UCL Child Health Research PhD Studentships 2027/28: Fully Funded Doctoral Research Opportunities at a World-Leading...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/ucl-child-health-research-phd-studentships-2027-28-fully-funded-doctoral-research-opportunities-at-a-world-leading-institution/",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University College London (UCL) Great Ormond Street Institute of Child Health (GOS ICH) has launched its Child Health Research PhD Project Portfolio for the 2027/28 academic year. This prestigious PhD studentship scheme offers...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "category": "training",
-   "remote": true,
-   "id": "f-b89c5dc4c582",
-   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "category": "research",
-   "remote": false,
-   "id": "f-0681551dc8f1",
-   "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/08/charles-h-hood-foundation-child-health-research-awards-2027-200000-grant-for-early-career-researchers/",
-   "level": [],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-11-05",
-   "window": "Deadline 2026-11-05",
-   "summary": "The Charles H. Hood Foundation is now accepting submissions for the Child Health Research Awards Program for the April 2027 funding cycle , providing an important research funding opportunity for early-career investigators...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-08"
-  },
-  {
-   "category": "volunteer",
-   "remote": true,
-   "id": "f-52224b165f39",
-   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-10",
-   "window": "Deadline 2026-11-10",
-   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
-  },
-  {
-   "category": "training",
-   "remote": true,
-   "id": "f-63f3431a4bea",
-   "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "The Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) is inviting qualified public health and biomedical professionals from sub-Saharan Africa to apply for a comprehensive 1.5-year fellowship focused on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-02"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-9bac450c38bf",
-   "title": "PhD Studentships at the University of Leicester: Funded Population Health, Genetics and Healthcare Research...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/phd-studentships-at-the-university-of-leicester-funded-population-health-genetics-and-healthcare-research-opportunities-2027/",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-05",
-   "window": "Deadline 2026-10-05",
-   "summary": "The University of Leicester College of Life Sciences is offering PhD studentships for 2027 entry , providing an opportunity for prospective doctoral researchers to undertake advanced research in Population Health Sciences...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
-  },
-  {
-   "category": "research",
-   "remote": false,
-   "id": "f-02a5c8ad23d3",
-   "title": "Nuffield Medical Fellowships 2026 at the University of Oxford: Fully Funded Medical Research Fellowship for Early-Career...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/28/nuffield-medical-fellowships-2026-at-the-university-of-oxford-fully-funded-medical-research-fellowship-for-early-career-researchers/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University of Oxford has launched the Nuffield Medical Fellowships , a new research fellowship programme designed to support exceptional early-career researchers who are transitioning to independent research careers or who...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-28"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-121f6ce4eac6",
-   "title": "10 Fully Funded PhD Positions in Urban Health at the University of Bonn, Germany – Urban Future Research Training Group...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/27/phd-opportunities/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "medical": "specific",
-   "deadline": "2026-10-19",
-   "window": "Deadline 2026-10-19",
-   "summary": "The University of Bonn and Bonn-Rhein-Sieg University of Applied Sciences are inviting applications for 10 doctoral research positions under the DFG Research Training Group (RTG) “Urban Future – Managing Transformations for Better...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-27"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-08195a5e730d",
-   "title": "NIH Graduate Partnerships Program 2026: Funded Doctoral Research Opportunities for PhD Students in the U.S. and Abroad",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/22/nih-graduate-partnership/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "NIH Graduate Partnerships Program (GPP) offers doctoral students interested in conducting advanced biomedical, behavioral, social science, and health-related research an extensive research training opportunity to undertake all or...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-22"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-0eb19be4cfd1",
-   "title": "CDC Public Health Informatics Fellowship Program 2027: Apply for a Two-Year Paid Fellowship in Public Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/join-the-cdcs-public-health-informatics-fellowship-program-your-gateway-to-advanced-public-health-careers/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-06",
-   "window": "Deadline 2026-11-06",
-   "summary": "The Public Health Informatics Fellowship Program (PHIFP) , offered by the U.S. Centers for Disease Control and Prevention (CDC), is now accepting applications for its Class of 2027 . The program provides an advanced professional...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-cd9a4c0fbc28",
-   "title": "Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University, Canada: Up to CAD $30,000 for Domestic and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/19/dahdaleh-global-health-graduate-scholarship-2027-2028/",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Canada",
-   "medical": "specific",
-   "deadline": "2027-01-08",
-   "window": "Deadline 2027-01-08",
-   "summary": "The Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University in Canada is a competitive graduate research funding opportunity for outstanding domestic and international students pursuing master's or doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-19"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-259a1dacce92",
-   "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships 2027 in the UK: Funding, Eligibility, Application...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2027-01-29",
-   "window": "Deadline 2027-01-29",
-   "summary": "Are you an ambitious graduate looking to pursue a PhD in the United Kingdom and contribute to innovative research that addresses important academic, social, scientific and technological challenges? The Liverpool John Moores...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-15"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-14b53c342e13",
-   "title": "UC Merced PhD in Public Health 2027: Fully Funded Doctoral Program for Domestic and International Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/07/uc-merced-phd-in-public-health-2027/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "The UC Merced PhD in Public Health 2027 offers an advanced doctoral opportunity for students seeking to pursue research, scholarship, and professional careers in public health. Offered by the University of California, Merced (UC...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-07"
-  },
-  {
-   "category": "volunteer",
-   "remote": true,
-   "id": "f-7104afa171c8",
-   "title": "The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and Operations",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-12",
-   "window": "Deadline 2026-10-12",
-   "summary": "The Carter Center Educational Programs offer students and recent graduates opportunities to gain practical professional experience while contributing to initiatives focused on peace, health and organizational operations . The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-30"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-7c836ba79e7e",
-   "title": "USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography and Spatial...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University of Southern California (USC) Dornsife Population, Health and Place PhD program offers an interdisciplinary doctoral training opportunity for students interested in public health, population studies, sociology...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-6c8956cd41c2",
-   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-12-08",
-   "window": "Deadline 2026-12-08",
-   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-916c6d58608d",
-   "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/24/mosaic-3-0-phd-scholarship-programme-in-the-netherlands-e420000-funding-available-for-researchers-from-under-represented-backgrounds/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Netherlands",
-   "medical": "open",
-   "deadline": "2026-11-03",
-   "window": "Deadline 2026-11-03",
-   "summary": "The first application round of the Mosaic 3.0 PhD Scholarship Programme is now open, offering researchers from under-represented migrant and recent asylum backgrounds an opportunity to secure funding for a PhD in the Netherlands...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-24"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-55c540cf2822",
-   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-07",
-   "window": "Deadline 2026-10-07",
-   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-bf67e211eebd",
    "title": "Harvard Environmental Fellows Program 2027: $92,000 Annual Salary for Recent Doctorate Recipients",
    "provider": "Listed on Opportunities for Youth",
@@ -4249,402 +3073,28 @@
    "addedAt": "2026-09-17"
   },
   {
-   "category": "research",
-   "remote": true,
-   "id": "f-07bb9b2b6f62",
-   "title": "ECDC Traineeship Programme 2027: Paid Public Health Traineeships in Stockholm, Sweden",
+   "id": "f-a442f7a0cd1c",
+   "title": "National Geographic Society The Human Thread Grant 2026: Apply for Up to $100,000 in Storytelling Funding for...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/16/ecdc-jobs-and-career-opportunities-2026-work-with-the-european-centre-for-disease-prevention-and-control-in-stockholm/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-05",
-   "window": "Deadline 2026-10-05",
-   "summary": "The European Centre for Disease Prevention and Control (ECDC) Traineeship Programme 2027 offers recent university graduates an opportunity to gain practical professional experience within a European Union agency working to prevent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-16"
-  },
-  {
-   "category": "training",
-   "remote": true,
-   "id": "f-3af02a20bef0",
-   "title": "WE ACT Environmental Health and Justice Leadership Training (EHJLT) 2027: Course Overview, Schedule, Eligibility...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/25/we-act-environmental-health-and-justice-leadership-training-ehjlt-2027-course-overview-schedule-eligibility-benefits-and-registration/",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Are you passionate about environmental justice, community advocacy, public health, and building healthier communities? The Environmental Health and Justice Leadership Training (EHJLT) Course for January–March 2027 , developed by...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-25"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-1ea6bbf42eec",
-   "title": "IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits and How to...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "The IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026 is an opportunity for qualified early- and mid-career scientists in sub-Saharan Africa to strengthen their expertise in infectious-disease modelling, conduct...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-24"
-  },
-  {
+   "url": "https://opportunitiesforyouth.org/2026/10/26/national-geographic-society-the-human-thread-grant-2026-apply-for-up-to-100000-in-storytelling-funding-for-filmmakers-photographers-and-cultural-storytellers/",
    "category": "funding",
-   "remote": false,
-   "id": "f-75b12067f9e8",
-   "title": "DHS Graduate Research Opportunities, and Benefits for Doctoral Students in the United States",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/19/dhs-graduate-research-opportunities-and-benefits-for-doctoral-students-in-the-united-states/",
    "level": [
-    "masters",
-    "phd",
-    "fellowship"
+    "masters"
    ],
    "funding": "unknown",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": "2026-11-13",
-   "window": "Deadline 2026-11-13",
-   "summary": "The DHS Graduate Research Fellowship 2027 is an exciting research opportunity sponsored by the U.S. Department of Homeland Security (DHS) for eligible doctoral students and recent PhD graduates in science, technology, engineering...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-19"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-7b616108d1dd",
-   "title": "229 Erasmus Mundus Joint Master’s Degrees Worldwide: Explore International Master’s Programmes in Europe and Beyond",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/16/applications-open-erasmus-mundus-international-joint-master-in-groundwater-and-global-change-impacts-and-adaptation/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
    "destination": "Varies",
+   "remote": false,
    "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Overview of Erasmus Mundus Joint Master’s Degrees Students seeking to pursue postgraduate education in an international academic environment can explore the 229 Erasmus Mundus Joint Master’s degrees listed on Mastersportal . The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-16"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-6c9f12f858ea",
-   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-3a75fc7e6233",
-   "title": "Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, Norway (2026)",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "The University of Oslo (UiO), Norway, is inviting applications for a three-year PhD fellowship in Spatial Genome Organization and Gene Regulation , focusing on chromatin biology, computational biology, and the molecular mechanisms...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-c5a4c3623e85",
-   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-4831e93b53e2",
-   "title": "Healthy Food Policy Fellowship 2026: Eligibility, Benefits, Application Process, and Deadline",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/healthy-food-policy-fellowship-2026-eligibility-benefits-application-process-and-deadline/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-02",
-   "window": "Deadline 2026-11-02",
-   "summary": "The Healthy Food Policy Fellowship 2026 is an exciting opportunity for aspiring food policy researchers and future public health leaders who want to contribute to healthier food environments through evidence-based public policy...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-2f5304a79d15",
-   "title": "Canada Graduate Research Scholarship – Doctoral Program: $40,000 Per Year for PhD Research in Canada",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/29/canada-graduate-research-scholarship-doctoral-cgrs-d-program-2025-26/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "Canada",
-   "medical": "specific",
-   "deadline": "2026-10-17",
-   "window": "Deadline 2026-10-17",
-   "summary": "The Canada Graduate Research Scholarship – Doctoral (CGRS D) Program provides substantial financial support to outstanding doctoral students conducting research in health, natural sciences and engineering, social sciences and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-29"
-  },
-  {
-   "category": "training",
-   "remote": true,
-   "id": "f-46f93d6ab7dc",
-   "title": "WHO Europe Summer School 2027 in France: Free Public Health Training on Systems Thinking, NCD Prevention and Healthy...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/23/who-europe-summer-school-2027-in-france-free-public-health-training-on-systems-thinking-ncd-prevention-and-healthy-ageing/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-23",
-   "window": "Deadline 2026-11-23",
-   "summary": "The World Health Organization (WHO) Regional Office for Europe is inviting applications for its 2027 Summer School on Systems Thinking and Innovation for the Prevention of Noncommunicable Diseases and a Healthy Ageing Population...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-23"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-64655c816d22",
-   "title": "Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,000 Annual...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe? Trinity College Dublin is offering a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-764c035336f2",
-   "title": "ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The ELLIS PhD Program is inviting applications from talented prospective doctoral researchers interested in machine learning, artificial intelligence (AI), and related interdisciplinary research fields. The programme offers an...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-a0206e79e742",
-   "title": "Bloomberg Fellows Program 2026–2027 at Johns Hopkins: Fully Funded MPH and DrPH Degrees for U.S.-Based Public Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/15/bloomberg-public-health-2026/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "medical": "specific",
    "deadline": "2026-12-01",
    "window": "Deadline 2026-12-01",
-   "summary": "Applications are now open for the Bloomberg Fellows Program at the Johns Hopkins Bloomberg School of Public Health , a major public health leadership and graduate education initiative that provides selected professionals with full...",
+   "summary": "Are you a filmmaker, photographer, journalist, podcaster, multimedia creator, or cultural storyteller with a compelling story about humanity, cultural heritage, religion, or the evolution of traditions? The National Geographic...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 10,
+   "score": 5,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-09-15"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dfa9600df205",
-   "title": "Global Studies University UAE Admissions 2027: MA and PhD Programs, Scholarships, Fees, Eligibility and Deadlines",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/07/global-studies-university-uae-admissions-2027-ma-and-phd-programs-scholarships-fees-eligibility-and-deadlines/",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-27",
-   "window": "Deadline 2026-10-27",
-   "summary": "Applications are open for the Fall 2027 graduate intake at Global Studies University in Sharjah, United Arab Emirates. Prospective students can apply for the two-year Master of Arts in Global African Studies or the five-year...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-07"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-b5948a7d2e1c",
-   "title": "DAAD University Summer Courses Scholarship 2027: Funded 4-Week German Language Programme With Accommodation, €475...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/04/daad-summer-scholarship-2027/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "medical": "specific",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "Applications are open for the DAAD University Summer Courses offered in Germany for Foreign Students and Graduates , an international scholarship programme that enables eligible university students to spend four intensive weeks...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-04"
+   "addedAt": "2026-10-26"
   },
   {
    "id": "f-653569aab2c9",
@@ -4815,6 +3265,30 @@
    "score": 1,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-0b4535e40051",
+   "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-02-28",
+   "window": "Deadline 2027-02-28",
+   "summary": "Application Deadline: 28 February 2027 Applications are now open for the 2027/2028 VLIR-UOS Scholarships for master Programmes (ICP Connect). ICP programmes equip students to become leaders and change agents in The post VLIR-UOS...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-26"
   },
   {
    "id": "f-9a7567ebe8f5",
@@ -5303,6 +3777,33 @@
    "addedAt": "2026-10-19"
   },
   {
+   "id": "f-1592720f9291",
+   "title": "Hong Kong PhD Fellowship Scheme 2027–28 at Lingnan University: Fully Funded PhD Opportunity for International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/01/hong-kong-phd-fellowship-scheme-2027-28-at-lingnan-university-fully-funded-phd-opportunity-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "The Hong Kong PhD Fellowship Scheme (HKPFS) 2027–28 offers an opportunity for outstanding students from around the world to pursue doctoral studies in Hong Kong. Lingnan University is among the participating universities that can...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-01"
+  },
+  {
    "id": "f-471d480766bb",
    "title": "Mastercard Foundation Graduate Scholarship at the University of Toronto 2027-2028",
    "provider": "Listed on Opportunity Desk",
@@ -5517,6 +4018,1604 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
+  },
+  {
+   "id": "f-29a1ceeedd74",
+   "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/george-moore-scholars-programme-2026-scholarships-for-students-and-recent-graduates-to-pursue-a-masters-degree-abroad/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-03",
+   "window": "Deadline 2026-11-03",
+   "summary": "The George Moore Scholars Programme 2026 offers an opportunity for academically talented students and recent graduates from across the island of Ireland to pursue a master’s degree at leading universities in the United States...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-21"
+  },
+  {
+   "id": "f-af195a9388ee",
+   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "f-0d27e5274006",
+   "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/25/funded-africa-climate-phd-27/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "Applications are open for 12 fully funded PhD Fellowships in Climate and Development under the Africa Climate Collaborative at the University of Cape Town (UCT) in South Africa. The four-year doctoral training programme is...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-25"
+  },
+  {
+   "id": "f-e1eb473de551",
+   "title": "Mastercard Foundation Scholars Program 2027/2028 at Cambridge Fully Funded Master’s Scholarship",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/12/call-for-applications-mastercard-foundation-scholarship-program-at-the-university-of-cambridge-for-2025-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-18",
+   "window": "Deadline 2026-11-18",
+   "summary": "Key Details: Cambridge Mastercard Foundation Scholarship 2027/2028 Scholarship Mastercard Foundation Scholars Program University University of Cambridge Academic year 2027/2028 Study level Master's degree Duration One-year...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-12"
+  },
+  {
+   "id": "f-2243f539ad48",
+   "title": "Mastercard Foundation Scholars Program at Arizona State University 2027: Fully Funded Innovation and Technology Master’s...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/10/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-09-27",
+   "window": "Deadline 2026-09-27",
+   "summary": "The Mastercard Foundation Scholars Program at Arizona State University (ASU) is offering fully funded graduate scholarship opportunities for young African professionals seeking to pursue master’s degrees in technology, innovation...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-10"
+  },
+  {
+   "id": "f-3106b7810b93",
+   "title": "Pitch Perfect Africa 2026: CAD $5,000 Innovation Fellowship Opportunity for African Health Entrepreneurs",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/09/pitch-perfect-africa-2026-cad-5000-innovation-fellowship-opportunity-for-african-health-entrepreneurs/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-09-29",
+   "window": "Deadline 2026-09-29",
+   "summary": "Applications are now open for Pitch Perfect Africa 2026 , a competitive pitching opportunity designed to support early-stage entrepreneurs developing innovative solutions to health-related challenges across Africa. Now in its...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-09"
+  },
+  {
+   "id": "f-8d73bbb2d859",
+   "title": "University of Cape Town Mastercard Foundation Scholarship Program 2027 for study in South Africa is open (Fully-funded...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/04/university-of-cape-town-mastercard-foundation-scholars-program-2024-for-study-in-south-africa-is-openfully-funded-bachelors-and-masters/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-09-30",
+   "window": "Deadline 2026-09-30",
+   "summary": "Key Summary — Mastercard Foundation Scholars Program at UCT 2027 University: University of Cape Town (UCT), South Africa Programme: Mastercard Foundation Scholars Program Intake: 2027 Eligible applicants: Citizens of African...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-04"
+  },
+  {
+   "id": "f-dd5914b3479d",
+   "title": "TTS Nigeria Programme 2026–2027: Applications Open for Free Technology and Workforce Development Programme for Young...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/24/tts-nigeria-programme/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Technology Talent Services (TTS) Nigeria Programme is a free technology skills and workforce development initiative designed to equip young Nigerian women with practical, career-focused skills and strengthen their pathways...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-24"
+  },
+  {
+   "id": "f-24a60369c521",
+   "title": "University of Edinburgh Mastercard Foundation Scholarships 2027/28: Fully Funded Online On-Campus Postgraduate...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/21/university-of-edinburgh-mastercard-foundation-scholarships-2026-27-online-and-on-campus-postgraduate/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-19",
+   "window": "Deadline 2026-11-19",
+   "summary": "The Mastercard Foundation Scholars Program at the University of Edinburgh is offering fully funded postgraduate scholarships for the 2027/28 academic year. Scholarships are available for selected on-campus Master's programmes and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-21"
+  },
+  {
+   "id": "f-4c442f78b3be",
+   "title": "Future of Work Africa (FOWA) Advisory Services 2026: Personalised Career, Scholarship, Fellowship and Postgraduate...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/19/future-of-work-africa-fowa-advisory-services-2026-personalised-career-scholarship-fellowship-and-postgraduate-application-support-for-african-students-and-professionals/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Introduction Making the right academic or career decision can be challenging, particularly when you are navigating scholarships, postgraduate admissions, competitive fellowships, career transitions, job applications, personal...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-19"
+  },
+  {
+   "id": "f-188879d67e34",
+   "title": "Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commonwealth...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-10-20",
+   "window": "Deadline 2026-10-20",
+   "summary": "The Commonwealth Master’s Scholarships 2027/28 provide an opportunity for talented and motivated graduates from eligible low- and middle-income Commonwealth countries to pursue full-time taught Master’s degrees at universities in...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-18"
+  },
+  {
+   "id": "f-e33641f1bf0a",
+   "title": "Fully Funded Commonwealth Master’s and PhD Scholarships 2027/28 in the UK: Applications Now Open",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/10/commonwealth-scholarships-for-the-university-of-londons-ma-in-refugee-protection-and-forced-migration-studies/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-20",
+   "window": "Deadline 2026-10-20",
+   "summary": "Applications are now open for the Commonwealth Master’s Scholarships and Commonwealth PhD Scholarships for the 2027/28 academic year , offering talented students and researchers from eligible Commonwealth countries an opportunity...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-10"
+  },
+  {
+   "id": "f-8d65ded0b93f",
+   "title": "Erasmus Mundus Scholarship 2027–2029: Up to €33,600 Plus Full Tuition for a Joint Master’s in Public Policy",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/27/erasmus-public-policy-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Applications for the 2027–2029 Erasmus Mundus Master’s Program in Public Policy (Mundus MAPP) are expected to open on 1 September 2026 , offering students from around the world the opportunity to complete an interdisciplinary...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-27"
+  },
+  {
+   "id": "f-dadc0e3c2c04",
+   "title": "Erasmus Mundus Joint Masters Scholarships 2026–2027: Study Across Europe with Fully Funded Scholarship Opportunities",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/26/apply-for-an-erasmus-mundus-joint-mastersfully-funded-scholarships-for-students-worldwide/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Erasmus Mundus Joint Masters (EMJM) programme offers an exceptional opportunity for students from around the world to pursue an international master's degree through a consortium of universities located in different countries...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-26"
+  },
+  {
+   "id": "f-42d71eec3685",
+   "title": "Mastercard Foundation Scholarship Program at the African Leadership University (ALU)",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/25/mastercard-foundation-scholars-program-at-the-african-leadership-university-alu/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Mastercard Foundation Scholars Program at the African Leadership University (ALU) provides fully funded scholarships for talented young Africans who demonstrate leadership potential but face financial hardship. The program...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-25"
+  },
+  {
+   "id": "f-80d2df17229f",
+   "title": "LSE MPhil/PhD Demography (Social/Formal) 2027/28: Fully Detailed Doctoral Research Opportunity in Population Studies in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/lse-mphil-phd-demography-social-formal-2027-28/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-05-27",
+   "window": "Deadline 2027-05-27",
+   "summary": "The LSE MPhil/PhD Demography (Social/Formal) 2027/28 is a postgraduate research programme offered by the London School of Economics and Political Science (LSE) in the United Kingdom. The programme is designed for graduates who...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "f-1d1db3ddb8b7",
+   "title": "University of Oxford Master of Public Policy Scholarships 2027–28: 1,000+ Funding Opportunities for Future Public...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/master-of-public-policy-mpp-blavatnik-school-of-government-university-of-oxford/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-05-31",
+   "window": "Deadline 2027-05-31",
+   "summary": "The University of Oxford’s Master of Public Policy (MPP) programme offers a wide range of scholarships and funding opportunities to help students meet the substantial cost of studying at Oxford. For the 2027–28 academic year, the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-7c324488b21d",
+   "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/nrf-daad-in-country-scholarship-2025-fully-funded-masters-phd-opportunities-in-south-africa-and-germany/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-12",
+   "window": "Deadline 2026-11-12",
+   "summary": "The DAAD In-Country/In-Region Programme for Sub-Saharan Africa 2026–2027 is offering scholarship opportunities for graduates and postgraduate students from Sub-Saharan Africa who wish to pursue selected development-related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-a47855982805",
+   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "f-590fb0aa0b19",
+   "title": "Besample Dissertation Grant 2026–27: Apply for Cross-Cultural PhD Research Support in 20 Countries",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/besample-dissertation-grant-2026-27-apply-for-cross-cultural-phd-research-support-in-20-countries/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "Introduction: An Opportunity for PhD Researchers to Conduct Cross-Cultural Research Are you a PhD student looking for an opportunity to strengthen your dissertation research, collect data across different countries and cultures...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "f-27270da09477",
+   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "f-ef621be5aa01",
+   "title": "Apply for the SRHR Applied Research Centre Funding 2026: Up to £12 Million for Global Sexual and Reproductive Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/apply-for-the-srhr-applied-research-centre-funding-2026-up-to-12-million-for-global-sexual-and-reproductive-health-research/",
+   "category": "funding",
+   "level": [
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "Introduction The Global Research and Technology Development (GRTD) Research Commissioning Centre (RCC), co-led by 3ie and the University of Birmingham, has announced an international call for Expressions of Interest (EOIs) to...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-8cb46e723aeb",
+   "title": "MSc in Health Professions Education 2026 at UGHE, Rwanda: Fully Funded Mastercard Foundation Scholars Program",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/11/master-of-science-in-health-professions-education-fully-funded-by-mastercard-foundation-scholars-program/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-06",
+   "window": "Deadline 2026-10-06",
+   "summary": "The Master of Science in Health Professions Education (MSc-HPE) 2026 at the University of Global Health Equity (UGHE), Rwanda , offers an advanced academic opportunity for young African health professionals who want to become...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-11"
+  },
+  {
+   "id": "f-3c72eaca884a",
+   "title": "Harvard LEAD Fellowship 2027–2028: Fully Funded Global Health Leadership Fellowship for Professionals from Low- and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/harvard-lead-fellowship-2027-2028-fully-funded-global-health-leadership-fellowship-for-professionals-from-low-and-middle-income-countries/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "The 2027–2028 Harvard LEAD Fellowship for Promoting Women in Global Health is now accepting applications for professionals seeking to strengthen their leadership capacity and make a greater impact in global health. Offered by the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-bd3fbbd12bcb",
+   "title": "University of Lincoln Global Leaders Scholarship 2027–2028: 50% Tuition Fee Scholarship for International Students in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/23/university-of-lincoln-global-leaders-scholarship-2027-2028-50-tuition-fee-scholarship-for-international-students-in-the-uk/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-06-07",
+   "window": "Deadline 2027-06-07",
+   "summary": "The University of Lincoln Global Leaders Scholarship is an opportunity for outstanding international students who wish to pursue undergraduate or postgraduate taught studies in the United Kingdom. The scholarship recognises...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "f-9defecb46d04",
+   "title": "Hertie School Digital Governance Scholarship 2027: Fully Funded Master’s Scholarship Worth €39,500 for International...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/20/hertie-school-digital-governance-scholarship-2027-fully-funded-masters-scholarship-worth-e39500-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Hertie School Digital Governance Scholarship is an excellent funding opportunity for students who want to understand how digitalisation, artificial intelligence, data protection, and emerging technologies are transforming...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-20"
+  },
+  {
+   "id": "f-d74358b66dde",
+   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world's most pressing healthcare challenges. For students and emerging professionals seeking practical...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "f-6ca259d9dc04",
+   "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/21/beit-trust-postgraduate-scholarships-applications-open-for-2025-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "The Beit Trust Scholarships for the 2027/2028 academic year offer an opportunity for eligible students from Zambia, Zimbabwe, and Malawi to pursue postgraduate Master’s studies at selected partner universities in the United...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-21"
+  },
+  {
+   "id": "f-a8c73ecdb1f2",
+   "title": "KAUST Scholarships 2027: Fully Funded Master’s and PhD Programs in Saudi Arabia",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/kaust-scholarship-2027-in-saudi-arabia-fully-funded-masters-and-phd-scholarship-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-03",
+   "window": "Deadline 2027-01-03",
+   "summary": "The King Abdullah University of Science and Technology (KAUST) offers fully funded graduate study opportunities for students seeking advanced education and research experience in science, engineering, technology and related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "f-76e5768360ba",
+   "title": "Joint Japan/World Bank Graduate Scholarship Program 2027: Fully Funded Master’s Scholarships for Developing Country...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/joint-japan-world-bank-graduate-scholarship-program-2025/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-02-26",
+   "window": "Deadline 2027-02-26",
+   "summary": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) 2027 is offering a major opportunity for experienced development professionals from eligible developing countries to pursue a master's degree in a...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-ab3b526f51a6",
+   "title": "UCL Child Health Research PhD Studentships 2027/28: Fully Funded Doctoral Research Opportunities at a World-Leading...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/ucl-child-health-research-phd-studentships-2027-28-fully-funded-doctoral-research-opportunities-at-a-world-leading-institution/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University College London (UCL) Great Ormond Street Institute of Child Health (GOS ICH) has launched its Child Health Research PhD Project Portfolio for the 2027/28 academic year. This prestigious PhD studentship scheme offers...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-b89c5dc4c582",
+   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-0681551dc8f1",
+   "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/charles-h-hood-foundation-child-health-research-awards-2027-200000-grant-for-early-career-researchers/",
+   "category": "research",
+   "level": [],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-05",
+   "window": "Deadline 2026-11-05",
+   "summary": "The Charles H. Hood Foundation is now accepting submissions for the Child Health Research Awards Program for the April 2027 funding cycle , providing an important research funding opportunity for early-career investigators...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-52224b165f39",
+   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-10",
+   "window": "Deadline 2026-11-10",
+   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-63f3431a4bea",
+   "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-21",
+   "window": "Deadline 2026-10-21",
+   "summary": "The Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) is inviting qualified public health and biomedical professionals from sub-Saharan Africa to apply for a comprehensive 1.5-year fellowship focused on...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-02"
+  },
+  {
+   "id": "f-9bac450c38bf",
+   "title": "PhD Studentships at the University of Leicester: Funded Population Health, Genetics and Healthcare Research...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/phd-studentships-at-the-university-of-leicester-funded-population-health-genetics-and-healthcare-research-opportunities-2027/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-05",
+   "window": "Deadline 2026-10-05",
+   "summary": "The University of Leicester College of Life Sciences is offering PhD studentships for 2027 entry , providing an opportunity for prospective doctoral researchers to undertake advanced research in Population Health Sciences...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
+  },
+  {
+   "id": "f-02a5c8ad23d3",
+   "title": "Nuffield Medical Fellowships 2026 at the University of Oxford: Fully Funded Medical Research Fellowship for Early-Career...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/28/nuffield-medical-fellowships-2026-at-the-university-of-oxford-fully-funded-medical-research-fellowship-for-early-career-researchers/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University of Oxford has launched the Nuffield Medical Fellowships , a new research fellowship programme designed to support exceptional early-career researchers who are transitioning to independent research careers or who...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-28"
+  },
+  {
+   "id": "f-121f6ce4eac6",
+   "title": "10 Fully Funded PhD Positions in Urban Health at the University of Bonn, Germany – Urban Future Research Training Group...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/27/phd-opportunities/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-19",
+   "window": "Deadline 2026-10-19",
+   "summary": "The University of Bonn and Bonn-Rhein-Sieg University of Applied Sciences are inviting applications for 10 doctoral research positions under the DFG Research Training Group (RTG) “Urban Future – Managing Transformations for Better...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 8,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-27"
+  },
+  {
+   "id": "f-08195a5e730d",
+   "title": "NIH Graduate Partnerships Program 2026: Funded Doctoral Research Opportunities for PhD Students in the U.S. and Abroad",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/22/nih-graduate-partnership/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "NIH Graduate Partnerships Program (GPP) offers doctoral students interested in conducting advanced biomedical, behavioral, social science, and health-related research an extensive research training opportunity to undertake all or...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-22"
+  },
+  {
+   "id": "f-07bb9b2b6f62",
+   "title": "ECDC Traineeship Programme 2027: Paid Public Health Traineeships in Stockholm, Sweden",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/16/ecdc-jobs-and-career-opportunities-2026-work-with-the-european-centre-for-disease-prevention-and-control-in-stockholm/",
+   "category": "research",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-05",
+   "window": "Deadline 2026-10-05",
+   "summary": "The European Centre for Disease Prevention and Control (ECDC) Traineeship Programme 2027 offers recent university graduates an opportunity to gain practical professional experience within a European Union agency working to prevent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-16"
+  },
+  {
+   "id": "f-0eb19be4cfd1",
+   "title": "CDC Public Health Informatics Fellowship Program 2027: Apply for a Two-Year Paid Fellowship in Public Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/14/join-the-cdcs-public-health-informatics-fellowship-program-your-gateway-to-advanced-public-health-careers/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-06",
+   "window": "Deadline 2026-11-06",
+   "summary": "The Public Health Informatics Fellowship Program (PHIFP) , offered by the U.S. Centers for Disease Control and Prevention (CDC), is now accepting applications for its Class of 2027 . The program provides an advanced professional...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-14"
+  },
+  {
+   "id": "f-cd9a4c0fbc28",
+   "title": "Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University, Canada: Up to CAD $30,000 for Domestic and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/19/dahdaleh-global-health-graduate-scholarship-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Canada",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-08",
+   "window": "Deadline 2027-01-08",
+   "summary": "The Dahdaleh Global Health Graduate Scholarship 2027–2028 at York University in Canada is a competitive graduate research funding opportunity for outstanding domestic and international students pursuing master's or doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-19"
+  },
+  {
+   "id": "f-259a1dacce92",
+   "title": "Liverpool John Moores University Vice-Chancellor’s PhD Scholarships 2027 in the UK: Funding, Eligibility, Application...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/15/liverpool-john-moores-university-vice-chancellors-phd-scholarships-2027-in-the-uk-funding-eligibility-application-process-and-deadline/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-29",
+   "window": "Deadline 2027-01-29",
+   "summary": "Are you an ambitious graduate looking to pursue a PhD in the United Kingdom and contribute to innovative research that addresses important academic, social, scientific and technological challenges? The Liverpool John Moores...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-15"
+  },
+  {
+   "id": "f-14b53c342e13",
+   "title": "UC Merced PhD in Public Health 2027: Fully Funded Doctoral Program for Domestic and International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/uc-merced-phd-in-public-health-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The UC Merced PhD in Public Health 2027 offers an advanced doctoral opportunity for students seeking to pursue research, scholarship, and professional careers in public health. Offered by the University of California, Merced (UC...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-07"
+  },
+  {
+   "id": "f-7104afa171c8",
+   "title": "The Carter Center Educational Programs 2027: Internships and Graduate Assistantships in Peace, Health and Operations",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/30/carter-center-internships/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-12",
+   "window": "Deadline 2026-10-12",
+   "summary": "The Carter Center Educational Programs offer students and recent graduates opportunities to gain practical professional experience while contributing to initiatives focused on peace, health and organizational operations . The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-30"
+  },
+  {
+   "id": "f-7c836ba79e7e",
+   "title": "USC PhD in Population, Health and Place 2027: Fully Funded Doctoral Program in Public Health, Demography and Spatial...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/usc-phd-public-policy/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University of Southern California (USC) Dornsife Population, Health and Place PhD program offers an interdisciplinary doctoral training opportunity for students interested in public health, population studies, sociology...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
+  },
+  {
+   "id": "f-6c8956cd41c2",
+   "title": "University of Cambridge NERC-Funded PhD Studentships 2027: 15 Fully Funded CREATES Doctoral Opportunities in...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/university-of-cambridge-nerc-funded-phd-studentships-2027-15-fully-funded-creates-doctoral-opportunities-in-environmental-science/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-08",
+   "window": "Deadline 2026-12-08",
+   "summary": "The University of Cambridge is offering 15 NERC-funded PhD studentships for students starting in October 2027 through the Cambridge Research Experience and Advanced Training for Environmental Scientists (CREATES) Doctoral...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-916c6d58608d",
+   "title": "Mosaic 3.0 PhD Scholarship Programme in the Netherlands: €420,000 Funding Available for Researchers from...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/24/mosaic-3-0-phd-scholarship-programme-in-the-netherlands-e420000-funding-available-for-researchers-from-under-represented-backgrounds/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Netherlands",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-03",
+   "window": "Deadline 2026-11-03",
+   "summary": "The first application round of the Mosaic 3.0 PhD Scholarship Programme is now open, offering researchers from under-represented migrant and recent asylum backgrounds an opportunity to secure funding for a PhD in the Netherlands...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-55c540cf2822",
+   "title": "GIST Graduate Scholarship 2027 in South Korea: Apply for Master’s, PhD and Integrated MS–PhD Programs with Full Tuition...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/21/gist-scholarship-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-07",
+   "window": "Deadline 2026-10-07",
+   "summary": "Applications are now open for the Gwangju Institute of Science and Technology (GIST) Spring 2027 Graduate Admissions , giving international students the opportunity to pursue advanced study in South Korea through Master of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-21"
+  },
+  {
+   "id": "f-3af02a20bef0",
+   "title": "WE ACT Environmental Health and Justice Leadership Training (EHJLT) 2027: Course Overview, Schedule, Eligibility...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/25/we-act-environmental-health-and-justice-leadership-training-ehjlt-2027-course-overview-schedule-eligibility-benefits-and-registration/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you passionate about environmental justice, community advocacy, public health, and building healthier communities? The Environmental Health and Justice Leadership Training (EHJLT) Course for January–March 2027 , developed by...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-25"
+  },
+  {
+   "id": "f-1ea6bbf42eec",
+   "title": "IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026: Eligibility, Requirements, Benefits and How to...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/24/idm-africa-fellowship-programme-in-infectious-disease-modelling-2026-eligibility-requirements-benefits-and-how-to-apply/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "The IDM-Africa Fellowship Programme in Infectious Disease Modelling 2026 is an opportunity for qualified early- and mid-career scientists in sub-Saharan Africa to strengthen their expertise in infectious-disease modelling, conduct...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-24"
+  },
+  {
+   "id": "f-75b12067f9e8",
+   "title": "DHS Graduate Research Opportunities, and Benefits for Doctoral Students in the United States",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/19/dhs-graduate-research-opportunities-and-benefits-for-doctoral-students-in-the-united-states/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-13",
+   "window": "Deadline 2026-11-13",
+   "summary": "The DHS Graduate Research Fellowship 2027 is an exciting research opportunity sponsored by the U.S. Department of Homeland Security (DHS) for eligible doctoral students and recent PhD graduates in science, technology, engineering...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-19"
+  },
+  {
+   "id": "f-7b616108d1dd",
+   "title": "229 Erasmus Mundus Joint Master’s Degrees Worldwide: Explore International Master’s Programmes in Europe and Beyond",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/applications-open-erasmus-mundus-international-joint-master-in-groundwater-and-global-change-impacts-and-adaptation/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Overview of Erasmus Mundus Joint Master’s Degrees Students seeking to pursue postgraduate education in an international academic environment can explore the 229 Erasmus Mundus Joint Master’s degrees listed on Mastersportal . The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "f-6c9f12f858ea",
+   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-3a75fc7e6233",
+   "title": "Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, Norway (2026)",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-16",
+   "window": "Deadline 2026-10-16",
+   "summary": "The University of Oslo (UiO), Norway, is inviting applications for a three-year PhD fellowship in Spatial Genome Organization and Gene Regulation , focusing on chromatin biology, computational biology, and the molecular mechanisms...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-c5a4c3623e85",
+   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-4831e93b53e2",
+   "title": "Healthy Food Policy Fellowship 2026: Eligibility, Benefits, Application Process, and Deadline",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/healthy-food-policy-fellowship-2026-eligibility-benefits-application-process-and-deadline/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-02",
+   "window": "Deadline 2026-11-02",
+   "summary": "The Healthy Food Policy Fellowship 2026 is an exciting opportunity for aspiring food policy researchers and future public health leaders who want to contribute to healthier food environments through evidence-based public policy...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-2f5304a79d15",
+   "title": "Canada Graduate Research Scholarship – Doctoral Program: $40,000 Per Year for PhD Research in Canada",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/29/canada-graduate-research-scholarship-doctoral-cgrs-d-program-2025-26/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Canada",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-17",
+   "window": "Deadline 2026-10-17",
+   "summary": "The Canada Graduate Research Scholarship – Doctoral (CGRS D) Program provides substantial financial support to outstanding doctoral students conducting research in health, natural sciences and engineering, social sciences and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-29"
+  },
+  {
+   "id": "f-abd408372164",
+   "title": "SMART Scholarship-for-Service Program 2027: Fully Funded STEM Scholarships in the USA with Annual Stipends of Up to...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/smart-scholarship-for-service-program-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The SMART Scholarship-for-Service Program offers a significant opportunity for students pursuing science, technology, engineering, and mathematics (STEM) degrees to receive fully funded education at accredited colleges and...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "f-46f93d6ab7dc",
+   "title": "WHO Europe Summer School 2027 in France: Free Public Health Training on Systems Thinking, NCD Prevention and Healthy...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/23/who-europe-summer-school-2027-in-france-free-public-health-training-on-systems-thinking-ncd-prevention-and-healthy-ageing/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-23",
+   "window": "Deadline 2026-11-23",
+   "summary": "The World Health Organization (WHO) Regional Office for Europe is inviting applications for its 2027 Summer School on Systems Thinking and Innovation for the Prevention of Noncommunicable Diseases and a Healthy Ageing Population...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "f-64655c816d22",
+   "title": "Trinity College Dublin PhD Researcher in Sociology Scholarship 2027: Fully Funded PhD in Ireland with €25,000 Annual...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/trinity-college-dublin-phd-researcher-in-sociology-scholarship-2027-fully-funded-phd-in-ireland-with-e25000-annual-stipend/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "Are you a postgraduate graduate with a background in Sociology, Social Policy, Sociology of Health, or a related social science discipline looking for a fully funded PhD opportunity in Europe? Trinity College Dublin is offering a...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-764c035336f2",
+   "title": "ELLIS PhD Program 2027 in Europe: Application Guide, Research Opportunities, Requirements and Deadline",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/ellis-phd-program-2027-in-europe-application-guide-research-opportunities-requirements-and-deadline/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The ELLIS PhD Program is inviting applications from talented prospective doctoral researchers interested in machine learning, artificial intelligence (AI), and related interdisciplinary research fields. The programme offers an...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-a0206e79e742",
+   "title": "Bloomberg Fellows Program 2026–2027 at Johns Hopkins: Fully Funded MPH and DrPH Degrees for U.S.-Based Public Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/15/bloomberg-public-health-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Applications are now open for the Bloomberg Fellows Program at the Johns Hopkins Bloomberg School of Public Health , a major public health leadership and graduate education initiative that provides selected professionals with full...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 10,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-15"
+  },
+  {
+   "id": "f-dfa9600df205",
+   "title": "Global Studies University UAE Admissions 2027: MA and PhD Programs, Scholarships, Fees, Eligibility and Deadlines",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/07/global-studies-university-uae-admissions-2027-ma-and-phd-programs-scholarships-fees-eligibility-and-deadlines/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-27",
+   "window": "Deadline 2026-10-27",
+   "summary": "Applications are open for the Fall 2027 graduate intake at Global Studies University in Sharjah, United Arab Emirates. Prospective students can apply for the two-year Master of Arts in Global African Studies or the five-year...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-07"
+  },
+  {
+   "id": "f-b5948a7d2e1c",
+   "title": "DAAD University Summer Courses Scholarship 2027: Funded 4-Week German Language Programme With Accommodation, €475...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/04/daad-summer-scholarship-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "Applications are open for the DAAD University Summer Courses offered in Germany for Foreign Students and Graduates , an international scholarship programme that enables eligible university students to spend four intensive weeks...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-04"
   }
  ]
 }
