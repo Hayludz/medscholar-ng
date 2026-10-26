@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-10-25T20:54:57.268Z",
+  "generatedAt": "2026-10-26T04:51:51.481Z",
   "total": 223,
   "curated": 40,
   "sources": [
@@ -21,9 +21,9 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 344,
-    "matched": 139,
-    "failed": 3
+    "scanned": 374,
+    "matched": 146,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-25T20:52:16.374Z"
+   "checkedAt": "2026-10-26T04:48:46.871Z"
   },
   {
    "category": "funding",
@@ -2088,30 +2088,6 @@
   },
   {
    "category": "research",
-   "remote": true,
-   "id": "f-ab008981e917",
-   "title": "Global Mental Health Fellowship Program 2026 Cohort 5: Applications Open for Young Mental Health Changemakers Worldwide",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/21/mental-health-fellowship/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-09-26",
-   "window": "Deadline 2026-09-26",
-   "summary": "Applications are now open for the Global Mental Health Fellowship Program 2026 (Cohort 5) , an international virtual fellowship designed to create a space where young people can explore mental health, share perspectives, build...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-21"
-  },
-  {
-   "category": "research",
    "remote": false,
    "id": "f-f50d3a9904b3",
    "title": "Global Health Emerging Scholars (GHES) Fellowship 2027–28: NIH-Supported Global Health Research Fellowship for U.S. and...",
@@ -2975,6 +2951,54 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-21"
+  },
+  {
+   "category": "volunteer",
+   "remote": false,
+   "id": "f-78363ca830fe",
+   "title": "Pfizer Futures Paid Summer Internship 2027: Undergraduate Internship at a Global Biopharmaceutical Company",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/pfizer-futures-paid-summer-internship-2027-undergraduate-internship-at-a-global-biopharmaceutical-company/",
+   "level": [],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Pfizer Futures program is a paid summer internship opportunity for undergraduate students who want to gain hands-on professional experience at Pfizer , one of the world's leading biopharmaceutical companies. The program is...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-b57d5668d86c",
+   "title": "Fully Funded PhD Scholarship in Early Childhood Education and Care at Macquarie University, Australia",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/road-to-research-scholarship/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Australia",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you passionate about early childhood education, educational equity, inclusion, and improving outcomes for children and families? A fully funded PhD scholarship opportunity linked to an Australian Research Council (ARC) Linkage...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-26"
   },
   {
    "id": "f-653569aab2c9",
@@ -3876,52 +3900,6 @@
    "addedAt": "2026-10-07"
   },
   {
-   "id": "f-af195a9388ee",
-   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-16"
-  },
-  {
-   "id": "f-63f3431a4bea",
-   "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
-   "category": "training",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "The Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) is inviting qualified public health and biomedical professionals from sub-Saharan Africa to apply for a comprehensive 1.5-year fellowship focused on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-02"
-  },
-  {
    "id": "f-29a1ceeedd74",
    "title": "George Moore Scholars Programme 2026: Scholarships for Students and Recent Graduates to Pursue a Master’s Degree Abroad",
    "provider": "Listed on Opportunities for Youth",
@@ -3944,6 +3922,30 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-21"
+  },
+  {
+   "id": "f-af195a9388ee",
+   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-16"
   },
   {
    "id": "f-0d27e5274006",
@@ -4343,28 +4345,6 @@
    "addedAt": "2026-10-05"
   },
   {
-   "id": "f-d74358b66dde",
-   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world's most pressing healthcare challenges. For students and emerging professionals seeking practical...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
-  },
-  {
    "id": "f-80d2df17229f",
    "title": "LSE MPhil/PhD Demography (Social/Formal) 2027/28: Fully Detailed Doctoral Research Opportunity in Population Studies in...",
    "provider": "Listed on Opportunities for Youth",
@@ -4412,30 +4392,6 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-22"
-  },
-  {
-   "id": "f-ab3b526f51a6",
-   "title": "UCL Child Health Research PhD Studentships 2027/28: Fully Funded Doctoral Research Opportunities at a World-Leading...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/ucl-child-health-research-phd-studentships-2027-28-fully-funded-doctoral-research-opportunities-at-a-world-leading-institution/",
-   "category": "funding",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University College London (UCL) Great Ormond Street Institute of Child Health (GOS ICH) has launched its Child Health Research PhD Project Portfolio for the 2027/28 academic year. This prestigious PhD studentship scheme offers...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
   },
   {
    "id": "f-ef621be5aa01",
@@ -4487,50 +4443,6 @@
    "addedAt": "2026-10-11"
   },
   {
-   "id": "f-b89c5dc4c582",
-   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
-   "category": "training",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-15",
-   "window": "Deadline 2026-10-15",
-   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-0681551dc8f1",
-   "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/08/charles-h-hood-foundation-child-health-research-awards-2027-200000-grant-for-early-career-researchers/",
-   "category": "research",
-   "level": [],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-05",
-   "window": "Deadline 2026-11-05",
-   "summary": "The Charles H. Hood Foundation is now accepting submissions for the Child Health Research Awards Program for the April 2027 funding cycle , providing an important research funding opportunity for early-career investigators...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-08"
-  },
-  {
    "id": "f-3c72eaca884a",
    "title": "Harvard LEAD Fellowship 2027–2028: Fully Funded Global Health Leadership Fellowship for Professionals from Low- and...",
    "provider": "Listed on Opportunities for Youth",
@@ -4579,32 +4491,6 @@
    "addedAt": "2026-10-23"
   },
   {
-   "id": "f-6ca259d9dc04",
-   "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/21/beit-trust-postgraduate-scholarships-applications-open-for-2025-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "The Beit Trust Scholarships for the 2027/2028 academic year offer an opportunity for eligible students from Zambia, Zimbabwe, and Malawi to pursue postgraduate Master’s studies at selected partner universities in the United...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-21"
-  },
-  {
    "id": "f-9defecb46d04",
    "title": "Hertie School Digital Governance Scholarship 2027: Fully Funded Master’s Scholarship Worth €39,500 for International...",
    "provider": "Listed on Opportunities for Youth",
@@ -4629,26 +4515,26 @@
    "addedAt": "2026-10-20"
   },
   {
-   "id": "f-78363ca830fe",
-   "title": "Pfizer Futures Paid Summer Internship 2027: Undergraduate Internship at a Global Biopharmaceutical Company",
+   "id": "f-d74358b66dde",
+   "title": "PATH Global Health Strategy Intern 2026: Paid Remote Internship Supporting International Health Development and Funding...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/08/pfizer-futures-paid-summer-internship-2027-undergraduate-internship-at-a-global-biopharmaceutical-company/",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/path-global-health-strategy-intern-2026-paid-remote-internship-supporting-international-health-development-and-funding-strategy/",
    "category": "volunteer",
    "level": [],
    "funding": "full",
-   "destination": "Varies",
-   "remote": false,
+   "destination": "Remote",
+   "remote": true,
    "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Pfizer Futures program is a paid summer internship opportunity for undergraduate students who want to gain hands-on professional experience at Pfizer , one of the world's leading biopharmaceutical companies. The program is...",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "The global health sector depends on strong partnerships, innovative research, and strategic investments to address some of the world's most pressing healthcare challenges. For students and emerging professionals seeking practical...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 5,
+   "score": 6,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-08"
+   "addedAt": "2026-10-22"
   },
   {
    "id": "f-9842d81732ea",
@@ -4698,26 +4584,30 @@
    "addedAt": "2026-10-19"
   },
   {
-   "id": "f-52224b165f39",
-   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "id": "f-6ca259d9dc04",
+   "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
+   "url": "https://opportunitiesforyouth.org/2026/10/21/beit-trust-postgraduate-scholarships-applications-open-for-2025-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
    "medical": "specific",
-   "deadline": "2026-11-10",
-   "window": "Deadline 2026-11-10",
-   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "The Beit Trust Scholarships for the 2027/2028 academic year offer an opportunity for eligible students from Zambia, Zimbabwe, and Malawi to pursue postgraduate Master’s studies at selected partner universities in the United...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 3,
+   "score": 4,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
+   "addedAt": "2026-10-21"
   },
   {
    "id": "f-a8c73ecdb1f2",
@@ -4769,6 +4659,118 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-ab3b526f51a6",
+   "title": "UCL Child Health Research PhD Studentships 2027/28: Fully Funded Doctoral Research Opportunities at a World-Leading...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/ucl-child-health-research-phd-studentships-2027-28-fully-funded-doctoral-research-opportunities-at-a-world-leading-institution/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University College London (UCL) Great Ormond Street Institute of Child Health (GOS ICH) has launched its Child Health Research PhD Project Portfolio for the 2027/28 academic year. This prestigious PhD studentship scheme offers...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-b89c5dc4c582",
+   "title": "TIMERA Fellowship 2026–2029: Apply for Infectious Disease Modelling Training for African Public Health Professionals",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/09/timera-fellowship-2026-2029-apply-for-infectious-disease-modelling-training-for-african-public-health-professionals/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-15",
+   "window": "Deadline 2026-10-15",
+   "summary": "The Training Initiative for Modelling Epidemic Response in Africa (TIMERA) is an African public health capacity-building initiative designed to strengthen the use of mathematical and statistical modelling in the prevention...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-0681551dc8f1",
+   "title": "Charles H. Hood Foundation Child Health Research Awards 2027: $200,000 Grant for Early-Career Researchers",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/08/charles-h-hood-foundation-child-health-research-awards-2027-200000-grant-for-early-career-researchers/",
+   "category": "research",
+   "level": [],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-05",
+   "window": "Deadline 2026-11-05",
+   "summary": "The Charles H. Hood Foundation is now accepting submissions for the Child Health Research Awards Program for the April 2027 funding cycle , providing an important research funding opportunity for early-career investigators...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-08"
+  },
+  {
+   "id": "f-52224b165f39",
+   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-10",
+   "window": "Deadline 2026-11-10",
+   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-63f3431a4bea",
+   "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
+   "category": "training",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-10-21",
+   "window": "Deadline 2026-10-21",
+   "summary": "The Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) is inviting qualified public health and biomedical professionals from sub-Saharan Africa to apply for a comprehensive 1.5-year fellowship focused on...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-02"
   },
   {
    "id": "f-9bac450c38bf",
