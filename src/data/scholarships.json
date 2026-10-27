@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-27T05:09:46.527Z",
-  "total": 226,
+  "generatedAt": "2026-10-27T12:16:14.883Z",
+  "total": 228,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 37,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 374,
-    "matched": 143,
+    "matched": 144,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-27T05:07:02.303Z"
+   "checkedAt": "2026-10-27T12:13:15.653Z"
   },
   {
    "category": "funding",
@@ -3073,17 +3073,17 @@
    "addedAt": "2026-09-17"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-a442f7a0cd1c",
    "title": "National Geographic Society The Human Thread Grant 2026: Apply for Up to $100,000 in Storytelling Funding for...",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/10/26/national-geographic-society-the-human-thread-grant-2026-apply-for-up-to-100000-in-storytelling-funding-for-filmmakers-photographers-and-cultural-storytellers/",
-   "category": "funding",
    "level": [
     "masters"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "open",
    "deadline": "2026-12-01",
    "window": "Deadline 2026-12-01",
@@ -3095,6 +3095,102 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-26"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-af195a9388ee",
+   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-16"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-7c324488b21d",
+   "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/nrf-daad-in-country-scholarship-2025-fully-funded-masters-phd-opportunities-in-south-africa-and-germany/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-11-12",
+   "window": "Deadline 2026-11-12",
+   "summary": "The DAAD In-Country/In-Region Programme for Sub-Saharan Africa 2026–2027 is offering scholarship opportunities for graduates and postgraduate students from Sub-Saharan Africa who wish to pursue selected development-related...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-a47855982805",
+   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "category": "research",
+   "remote": true,
+   "id": "f-0eb19be4cfd1",
+   "title": "CDC Public Health Informatics Fellowship Program 2027: Apply for a Two-Year Paid Fellowship in Public Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/09/14/join-the-cdcs-public-health-informatics-fellowship-program-your-gateway-to-advanced-public-health-careers/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "medical": "specific",
+   "deadline": "2026-11-06",
+   "window": "Deadline 2026-11-06",
+   "summary": "The Public Health Informatics Fellowship Program (PHIFP) , offered by the U.S. Centers for Disease Control and Prevention (CDC), is now accepting applications for its Class of 2027 . The program provides an advanced professional...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-09-14"
   },
   {
    "id": "f-653569aab2c9",
@@ -4044,30 +4140,6 @@
    "addedAt": "2026-10-21"
   },
   {
-   "id": "f-af195a9388ee",
-   "title": "Asian Development Bank–Japan Scholarship Program 2026: Fully Funded Master’s Scholarships at the East-West Center in the...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/16/asian-development-bank-japan-scholarship-program-2026-fully-funded-masters-scholarships-at-the-east-west-center-in-the-usa/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Are you an ambitious graduate from an eligible developing country looking to pursue a master’s degree in the United States but concerned about the cost of international education? The Asian Development Bank–Japan Scholarship...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-16"
-  },
-  {
    "id": "f-0d27e5274006",
    "title": "12 Fully Funded Africa Climate Collaborative PhD Fellowships 2027 at UCT: Climate and Development Doctoral Programme for...",
    "provider": "Listed on Opportunities for Youth",
@@ -4418,54 +4490,6 @@
    "addedAt": "2026-10-08"
   },
   {
-   "id": "f-7c324488b21d",
-   "title": "DAAD In-Country/In-Region Scholarships 2026–2027: Fully Funded Master’s Opportunities for Sub-Saharan African Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/nrf-daad-in-country-scholarship-2025-fully-funded-masters-phd-opportunities-in-south-africa-and-germany/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-12",
-   "window": "Deadline 2026-11-12",
-   "summary": "The DAAD In-Country/In-Region Programme for Sub-Saharan Africa 2026–2027 is offering scholarship opportunities for graduates and postgraduate students from Sub-Saharan Africa who wish to pursue selected development-related...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
-  },
-  {
-   "id": "f-a47855982805",
-   "title": "Erasmus Mundus Joint Master’s in International Humanitarian Action 2027–2029: Scholarships, Eligibility, Study Structure...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/05/erasmus-mundus-joint-masters-in-international-humanitarian-action-2027-2029-scholarships-eligibility-study-structure-and-how-to-apply/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "The Erasmus Mundus Joint Master’s Degree Programme in International Humanitarian Action (NOHA) is a prestigious international postgraduate programme designed for graduates and professionals who want to build advanced academic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-05"
-  },
-  {
    "id": "f-590fb0aa0b19",
    "title": "Besample Dissertation Grant 2026–27: Apply for Cross-Cultural PhD Research Support in 20 Countries",
    "provider": "Listed on Opportunities for Youth",
@@ -4586,6 +4610,31 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-8425fa1bb9d9",
+   "title": "Gates Cambridge Scholarship 2027–2028: Fully Funded Postgraduate Scholarships at the University of Cambridge, UK",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/the-gates-cambridge-scholarship-your-path-to-excellence-fully-funded/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Gates Cambridge Scholarship is one of the world's leading postgraduate scholarship programmes, offering outstanding international students the opportunity to pursue eligible postgraduate degrees at the University of Cambridge...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-27"
   },
   {
    "id": "f-bd3fbbd12bcb",
@@ -4733,6 +4782,30 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-24"
+  },
+  {
+   "id": "f-309abc814abe",
+   "title": "VLIR-UOS ICP Connect Scholarships 2027–2028 in Belgium: Fully Funded Study Opportunities for International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/26/vlir-uos-icp-connect-scholarships-2027-2028-in-belgium-fully-funded-study-opportunities-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The VLIR-UOS ICP Connect Scholarships 2027–2028 offer international students from eligible countries in Africa, Asia, and Latin America the opportunity to pursue selected English-taught bachelor's and master's degree programmes at...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-26"
   },
   {
    "id": "f-ab3b526f51a6",
@@ -4966,30 +5039,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-16"
-  },
-  {
-   "id": "f-0eb19be4cfd1",
-   "title": "CDC Public Health Informatics Fellowship Program 2027: Apply for a Two-Year Paid Fellowship in Public Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/join-the-cdcs-public-health-informatics-fellowship-program-your-gateway-to-advanced-public-health-careers/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-11-06",
-   "window": "Deadline 2026-11-06",
-   "summary": "The Public Health Informatics Fellowship Program (PHIFP) , offered by the U.S. Centers for Disease Control and Prevention (CDC), is now accepting applications for its Class of 2027 . The program provides an advanced professional...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
   },
   {
    "id": "f-cd9a4c0fbc28",
