@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-28T05:46:14.691Z",
-  "total": 234,
+  "generatedAt": "2026-10-28T12:59:07.905Z",
+  "total": 235,
   "curated": 40,
   "sources": [
    {
@@ -15,7 +15,7 @@
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 36,
+    "matched": 37,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T05:43:54.483Z"
+   "checkedAt": "2026-10-28T12:56:36.275Z"
   },
   {
    "category": "funding",
@@ -4840,6 +4840,30 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-04"
+  },
+  {
+   "id": "f-3a57f1aafeb1",
+   "title": "AHRC Doctoral Landscape Scholarship Awards at Birmingham City University 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/28/ahrc-doctoral-landscape-awards-at-birmingham-city-university-2027/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-16",
+   "window": "Deadline 2026-11-16",
+   "summary": "Deadline: November 16, 2026 Applications are open for the AHRC Doctoral Landscape Awards at Birmingham City University 2027. The AHRC Doctoral Landscape Award is a major new funding scheme from the Arts and Humanities Research...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-28"
   },
   {
    "id": "f-384c7b3c2328",
