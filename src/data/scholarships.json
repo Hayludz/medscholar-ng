@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-10-28T12:59:07.905Z",
-  "total": 235,
+  "generatedAt": "2026-10-28T22:38:24.364Z",
+  "total": 236,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 150,
+    "matched": 151,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-28T12:56:36.275Z"
+   "checkedAt": "2026-10-28T22:36:18.211Z"
   },
   {
    "category": "funding",
@@ -4840,6 +4840,31 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-04"
+  },
+  {
+   "id": "f-e89bee48ee92",
+   "title": "SA-CERN Programme Excellence MSc/PhD Bursary Program 2027 for young South Africans.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/sa-cern-programme-excellence-msc-phd-bursary-program-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Applications are now open for the 2027 SA-CERN Programme Excellence MSc/PhD Bursary Program. The SA-CERN programme is a national programme funded by the Department of Science and Innovation and the National...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-28"
   },
   {
    "id": "f-3a57f1aafeb1",
