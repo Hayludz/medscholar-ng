@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29T13:05:32.871Z",
-  "total": 235,
+  "generatedAt": "2026-10-29T22:48:15.021Z",
+  "total": 236,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 151,
+    "matched": 152,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T13:03:10.830Z"
+   "checkedAt": "2026-10-29T22:46:08.898Z"
   },
   {
    "category": "funding",
@@ -4889,6 +4889,30 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-28"
+  },
+  {
+   "id": "f-20af717a97b3",
+   "title": "The Independent Communications Authority of South Africa (ICASA) Graduate Development Programme 2026/2027 for young...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-independent-communications-authority-of-south-africa-icasa-graduate-development-programme-2026-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-04",
+   "window": "Deadline 2026-11-04",
+   "summary": "Application Deadline: November 4, 2026 Applications are now open for the 2026/2027 Independent Communications Authority of South Africa (ICASA) Graduate Development Programme. The Independent Communications Authority of South...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-29"
   },
   {
    "id": "f-384c7b3c2328",
