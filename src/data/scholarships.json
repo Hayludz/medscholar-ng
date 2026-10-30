@@ -1,21 +1,21 @@
 {
  "meta": {
-  "generatedAt": "2026-10-30T12:59:19.289Z",
-  "total": 230,
+  "generatedAt": "2026-10-30T22:23:43.514Z",
+  "total": 232,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 152,
+    "matched": 147,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 34,
+    "matched": 42,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T12:57:03.334Z"
+   "checkedAt": "2026-10-30T22:21:33.047Z"
   },
   {
    "category": "funding",
@@ -4743,6 +4743,30 @@
    "addedAt": "2026-08-11"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-05e6113d493c",
+   "title": "Nordic Africa Institute’s Nordic Scholarship Programme 2027/2028 for early-career researchers (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-10-11",
+   "window": "Deadline 2026-10-11",
+   "summary": "Application Deadline: 11 October 2026 Applications are now open for the 2027/2028 Nordic Africa Institute’s Nordic Scholarship Programme. Through the Nordic Scholarship Programme, NAI aims to contribute to building capacity The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-09-09"
+  },
+  {
    "id": "f-e89bee48ee92",
    "title": "SA-CERN Programme Excellence MSc/PhD Bursary Program 2027 for young South Africans.",
    "provider": "Listed on Opportunities for Africans",
@@ -5034,6 +5058,31 @@
    "addedAt": "2026-10-19"
   },
   {
+   "id": "f-75f7416d564b",
+   "title": "Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/30/tobin-center-economics-pre-doctoral-fellows-program-at-yale-university-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Deadline: On Rolling Basis Applications are open for the Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028. The Tobin Center / Economics Pre-Doctoral Fellows Program at Yale University supports...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-30"
+  },
+  {
    "id": "f-c37468c14964",
    "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP) 2027/2029 for young women (€40,000 in tuition and living...",
    "provider": "Listed on Opportunities for Africans",
@@ -5081,30 +5130,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-14"
-  },
-  {
-   "id": "f-05e6113d493c",
-   "title": "Nordic Africa Institute’s Nordic Scholarship Programme 2027/2028 for early-career researchers (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-11",
-   "window": "Deadline 2026-10-11",
-   "summary": "Application Deadline: 11 October 2026 Applications are now open for the 2027/2028 Nordic Africa Institute’s Nordic Scholarship Programme. Through the Nordic Scholarship Programme, NAI aims to contribute to building capacity The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-09"
   },
   {
    "id": "f-614c3d8ab839",
@@ -5660,6 +5685,30 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-09-28"
+  },
+  {
+   "id": "f-53371778c9ae",
+   "title": "Global Burden of Disease (GBD) Fellowship 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-21",
+   "window": "Deadline 2026-12-21",
+   "summary": "Deadline: December 21, 2026 Applications are open for the Global Burden of Disease (GBD) Fellowship 2027. The GBD Fellowship is an early-career, cohort-based postdoctoral training program at the Institute for Health Metrics and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-30"
   },
   {
    "id": "f-43bab04f0fa8",
