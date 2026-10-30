@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-29T22:48:15.021Z",
-  "total": 236,
+  "generatedAt": "2026-10-30T05:53:09.784Z",
+  "total": 230,
   "curated": 40,
   "sources": [
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-29T22:46:08.898Z"
+   "checkedAt": "2026-10-30T05:50:59.742Z"
   },
   {
    "category": "funding",
@@ -1106,54 +1106,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-01"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-cc5bffbb3dbd",
-   "title": "2026 UNESCO/Japan Young Researchers’ Fellowships Programme for young researchers worldwide (Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/2026-unesco-japan-young-researchers-fellowships-programme-for-young-researchers/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Application Deadline: September 30, 2026 Applications are now open for the 2026 UNESCO/Japan Young Researchers’ Fellowships Programme. Established in 2001 under the Japanese Funds-in-Trust for the Capacity-Building of Human...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-07-16"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-229db09fc7fb",
-   "title": "The African Union Enterprise Africa Network (EAN) Fellowship Programme 2026/2027 for youth- and women-led small...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-african-union-enterprise-africa-network-ean-fellowship-programme-2026-2027/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Application Deadline: 30 September 2026 Applications are now open for the 2026/2027 African Union Enterprise Africa Network (EAN) Fellowship Programme. The Enterprise Africa Network (EAN) Fellowship Programme is an AUC The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-19"
   },
   {
    "category": "funding",
@@ -1841,32 +1793,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-8d8542f7d95c",
-   "title": "African Centre for School Leadership Grants 2026: Apply for Up to $35,000 in School Leadership Research Funding",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/08/acsl-school-leadership-research-grants-2026-funded-opportunities-for-african-researchers/",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "The African Centre for School Leadership (ACSL) , in partnership with the Mastercard Foundation , has announced a new call for applications for its Cohort II School Leadership Research Grants , providing African education...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-08"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-02298939c592",
    "title": "ESRC Studentship Funding 2027: Fully Funded PhD Opportunities in the UK for Social Science Researchers",
    "provider": "Listed on Opportunities for Youth",
@@ -2059,30 +1985,6 @@
    ],
    "kind": "feed",
    "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-22"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-619bfe44808b",
-   "title": "Global Advocacy Champions 2026–2027: WAGGGS Leadership and Advocacy Programme for Young Women",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/22/wagggs-global-advocacy-champions-program-2025-2026-empowering-young-women-to-champion-gender-equalit/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Applications are now open for the World Association of Girl Guides and Girl Scouts (WAGGGS) Global Advocacy Champions 2026–2027 programme , a global leadership and advocacy opportunity designed to equip young Girl Guides and Girl...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-22"
   },
@@ -3390,31 +3292,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-12"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-8d73bbb2d859",
-   "title": "University of Cape Town Mastercard Foundation Scholarship Program 2027 for study in South Africa is open (Fully-funded...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/04/university-of-cape-town-mastercard-foundation-scholars-program-2024-for-study-in-south-africa-is-openfully-funded-bachelors-and-masters/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "South Africa",
-   "medical": "specific",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Key Summary — Mastercard Foundation Scholars Program at UCT 2027 University: University of Cape Town (UCT), South Africa Programme: Mastercard Foundation Scholars Program Intake: 2027 Eligible applicants: Citizens of African...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-04"
   },
   {
    "category": "funding",
@@ -5155,31 +5032,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-19"
-  },
-  {
-   "id": "f-b5eebffe020c",
-   "title": "UNU-WIDER Visiting PhD Fellowship Programme 2027 for Doctoral Students (Fully Funded to Helsinki, Finland).",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/unu-wider-visiting-phd-fellowship-programme-2027-for-doctoral-students/",
-   "category": "funding",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-09-30",
-   "window": "Deadline 2026-09-30",
-   "summary": "Application Deadline: 30 September, 2026 23:59 UTC+3 Applications are now open for the 2027 UNU-WIDER Visiting PhD Fellowship Programme. The Visiting PhD Fellowship Programme gives registered doctoral students the opportunity The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-01"
   },
   {
    "id": "f-c37468c14964",
