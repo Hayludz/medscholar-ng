@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-30T22:23:43.514Z",
-  "total": 232,
+  "generatedAt": "2026-10-31T05:45:09.690Z",
+  "total": 228,
   "curated": 40,
   "sources": [
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-30T22:21:33.047Z"
+   "checkedAt": "2026-10-31T05:42:53.193Z"
   },
   {
    "category": "funding",
@@ -1082,30 +1082,6 @@
    "score": 1,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-02"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-6f66a556e64d",
-   "title": "The KAUST Global Fellowship Program 2027 for Early-Career Researchers (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-kaust-global-fellowship-program-2027/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-01",
-   "window": "Deadline 2026-10-01",
-   "summary": "Application Deadline: 1 October 2026 Applications are now open for the 2027 KAUST Global Fellowship Program. The KAUST Global Fellowship Program attracts and supports outstanding emerging research leaders from around The post The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-01"
   },
   {
    "category": "funding",
@@ -1987,30 +1963,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-22"
-  },
-  {
-   "category": "research",
-   "remote": false,
-   "id": "f-f50d3a9904b3",
-   "title": "Global Health Emerging Scholars (GHES) Fellowship 2027–28: NIH-Supported Global Health Research Fellowship for U.S. and...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/11/stanford-global-health-emerging-scholars-ghes-fellowship/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "medical": "specific",
-   "deadline": "2026-10-01",
-   "window": "Deadline 2026-10-01",
-   "summary": "The Global Health Emerging Scholars (GHES) Fellowship 2027–28 is now accepting applications from emerging health researchers interested in advanced, mentored training in global health research. Supported by the National Institutes...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-11"
   },
   {
    "category": "funding",
@@ -5421,31 +5373,6 @@
    "addedAt": "2026-10-06"
   },
   {
-   "id": "f-e3d9003c8f64",
-   "title": "The University of Toronto Mastercard Foundation Doctor of Public Health Scholarships 2027/2028 for Africa public health...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-university-of-toronto-mastercard-foundation-doctor-of-public-health-scholarships-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Canada",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-01",
-   "window": "Deadline 2026-10-01",
-   "summary": "Application Deadline: October 1, 2026, at 11:59 p.m. EST Applications are now open for the 2026/2027 University of Toronto Mastercard Foundation graduate scholarship. This doctoral scholarship opportunity is open to recent alumni...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-31"
-  },
-  {
    "id": "f-320521f47abd",
    "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
    "provider": "Listed on Opportunities for Africans",
@@ -5542,31 +5469,6 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-09"
-  },
-  {
-   "id": "f-471d480766bb",
-   "title": "Mastercard Foundation Graduate Scholarship at the University of Toronto 2027-2028",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/01/mastercard-foundation-graduate-scholarship-at-the-university-of-toronto-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Canada",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-01",
-   "window": "Deadline 2026-10-01",
-   "summary": "Deadline: October 1, 2026 Applications are open for the Mastercard Foundation Graduate Scholarship at the University of Toronto 2027-2028. This doctoral scholarship opportunity is open to recent alumni and graduating students at...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-01"
   },
   {
    "id": "f-9e25ed6a367c",
