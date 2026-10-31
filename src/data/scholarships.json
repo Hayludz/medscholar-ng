@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31T12:34:21.353Z",
-  "total": 228,
+  "generatedAt": "2026-10-31T21:38:31.419Z",
+  "total": 229,
   "curated": 40,
   "sources": [
    {
@@ -15,7 +15,7 @@
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 42,
+    "matched": 43,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T12:32:12.196Z"
+   "checkedAt": "2026-10-31T21:36:17.921Z"
   },
   {
    "category": "funding",
@@ -4719,6 +4719,30 @@
    "addedAt": "2026-09-09"
   },
   {
+   "category": "research",
+   "remote": false,
+   "id": "f-858e94346225",
+   "title": "Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Deadline: November 15, 2026 Applications are open for the Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028. The LEAD Fellowship, a one-year fellowship designed to advance leadership skills among individuals...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-09"
+  },
+  {
    "id": "f-e89bee48ee92",
    "title": "SA-CERN Programme Excellence MSc/PhD Bursary Program 2027 for young South Africans.",
    "provider": "Listed on Opportunities for Africans",
@@ -5447,28 +5471,28 @@
    "addedAt": "2026-10-19"
   },
   {
-   "id": "f-858e94346225",
-   "title": "Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded)",
+   "id": "f-9bde88c3d9a8",
+   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
    "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/",
-   "category": "research",
+   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
+   "category": "funding",
    "level": [
-    "fellowship"
+    "masters"
    ],
-   "funding": "unknown",
-   "destination": "United States",
+   "funding": "full",
+   "destination": "Varies",
    "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "Deadline: November 15, 2026 Applications are open for the Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028. The LEAD Fellowship, a one-year fellowship designed to advance leadership skills among individuals...",
+   "medical": "open",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 4,
+   "score": 3,
    "source": "Opportunity Desk",
-   "addedAt": "2026-10-09"
+   "addedAt": "2026-10-31"
   },
   {
    "id": "f-9e25ed6a367c",
