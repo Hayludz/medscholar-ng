@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-10-31T21:38:31.419Z",
-  "total": 229,
+  "generatedAt": "2026-11-01T06:08:47.705Z",
+  "total": 224,
   "curated": 40,
   "sources": [
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -648,8 +648,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-10-31T21:36:17.921Z"
+   "checkedAt": "2026-11-01T06:06:49.544Z"
   },
   {
    "category": "funding",
@@ -1325,30 +1325,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-28"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-c46a4ce5b37c",
-   "title": "UNDP Ethiopia Call for Proposals 2026: CSOs and NGOs for the Spotlight Initiative Africa Regional Programme to End...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/undp-call-for-proposals-2026-funding-opportunity-for-csos-and-ngos-to-end-violence-against-women-and-girls-in-africa/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Africa",
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "The United Nations Development Programme (UNDP) Ethiopia has opened a Call for Proposals for Civil Society Organizations (CSOs) and NGOs under the Spotlight Initiative Africa Regional Programme (SIARP) 2.0 to End Violence Against...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
   },
   {
    "category": "funding",
@@ -2114,31 +2090,6 @@
    "addedAt": "2026-10-13"
   },
   {
-   "category": "funding",
-   "remote": false,
-   "id": "f-c0e544817a32",
-   "title": "AfricaLics Visiting PhD Fellowship Programme 2027 for young African PhD Students (Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Application Deadline: 2nd October 2026. Applications are now open for the 2027 AfricaLics Visiting PhD Fellowships. The AfricaLics network invites eligible PhD students enrolled at universities in African countries to The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-15"
-  },
-  {
    "category": "research",
    "remote": false,
    "id": "f-2be4bdce04d2",
@@ -2337,32 +2288,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-11"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-296da6a1ea1d",
-   "title": "AfricaLics PhD Visiting Fellowship Programme 2027: Fully Supported 3-Month Research Fellowship in South Africa for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/15/africalics-phd-visiting-fellowship-programme-2027-fully-supported-3-month-research-fellowship-in-south-africa-for-african-phd-students/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "medical": "specific",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "The AfricaLics PhD Visiting Fellowship Programme (VFP) 2027 Cohort is now inviting applications from eligible PhD students enrolled at universities in African countries for an opportunity to strengthen their research, academic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-15"
   },
   {
    "category": "funding",
@@ -2734,53 +2659,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-28"
-  },
-  {
-   "category": "volunteer",
-   "remote": false,
-   "id": "f-5bc24e01602c",
-   "title": "2027 Weill Cornell Medicine Paid Biostatistics Summer Paid Internship in New York: Applications Now Open",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/paid-biostatistics-summer-internship-2026-weill-cornell-medicine/",
-   "level": [],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Students interested in biostatistics, healthcare data analysis, public health research, and real-world applications of statistics can now apply for the 2027 Weill Cornell Medicine Paid Biostatistics Summer Internship Program in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-a80a111ce318",
-   "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-02",
-   "window": "Deadline 2026-10-02",
-   "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
   },
   {
    "category": "funding",
