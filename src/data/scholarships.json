@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-11-04T06:26:32.373Z",
-  "total": 224,
+  "generatedAt": "2026-11-04T19:48:25.292Z",
+  "total": 225,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 149,
+    "matched": 148,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-04T06:23:59.760Z"
+   "checkedAt": "2026-11-04T19:46:18.558Z"
   },
   {
    "category": "funding",
@@ -4600,6 +4600,30 @@
    "addedAt": "2026-10-28"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-77937369bce2",
+   "title": "Commonwealth Master’s Scholarships 2027/2028 for full-time Master’s study at a UK university (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "medical": "open",
+   "deadline": "2026-10-20",
+   "window": "Deadline 2026-10-20",
+   "summary": "Application Deadline: 20 October, 2026 Applications are now open for the 2027/2028 Commonwealth Master’s Scholarships. The Commonwealth Scholarship Commission in the UK (CSC) provides the UK government scholarship scheme led The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-09-08"
+  },
+  {
    "id": "f-95110985b72f",
    "title": "The HEINEKEN Global Graduate Programme 2027 for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -5012,6 +5036,30 @@
    "addedAt": "2026-08-10"
   },
   {
+   "id": "f-986aec267ec9",
+   "title": "The FirstRand Oxford Blavatnik School of Government Scholarship 2027/2028 for a Master of Public Policy at the...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-firstrand-oxford-blavatnik-school-of-government-scholarship-2027-2028-for-a-master-of-public-policy/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-02-25",
+   "window": "Deadline 2027-02-25",
+   "summary": "Application Deadline: February 25, 2027 Applications are now open for the 2027 FirstRand Oxford Blavatnik School of Government Scholarship. FirstRand Empowerment Foundation (FREF) has entered into a five-year partnership with The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-04"
+  },
+  {
    "id": "f-e395b6675082",
    "title": "The DAAD In-Country/In-Region Masters/PhD Scholarship Programme 2027 for Sub-Saharan African students (Fully Funded)",
    "provider": "Listed on Opportunities for Africans",
@@ -5129,30 +5177,6 @@
    ],
    "kind": "feed",
    "score": 7,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-08"
-  },
-  {
-   "id": "f-77937369bce2",
-   "title": "Commonwealth Master’s Scholarships 2027/2028 for full-time Master’s study at a UK university (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Application Deadline: 20 October, 2026 Applications are now open for the 2027/2028 Commonwealth Master’s Scholarships. The Commonwealth Scholarship Commission in the UK (CSC) provides the UK government scholarship scheme led The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-08"
   },
