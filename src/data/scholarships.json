@@ -1,29 +1,29 @@
 {
  "meta": {
-  "generatedAt": "2026-11-06T06:50:38.804Z",
-  "total": 242,
+  "generatedAt": "2026-11-06T19:29:02.671Z",
+  "total": 246,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 144,
+    "matched": 142,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 37,
-    "failed": 1
+    "scanned": 460,
+    "matched": 34,
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
-    "ok": false,
-    "scanned": 0,
-    "matched": 0,
-    "failed": 39
+    "ok": true,
+    "scanned": 10,
+    "matched": 3,
+    "failed": 38
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-06T06:48:31.317Z"
+   "checkedAt": "2026-11-06T19:25:41.074Z"
   },
   {
    "category": "funding",
@@ -5067,6 +5067,105 @@
    "addedAt": "2026-10-27"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-3a955e7a01f1",
+   "title": "French Government’s Make Our Planet Great Again (MOPGA) Scholarship Program 2027 for early-career Researchers (Funded...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/french-governments-make-our-planet-great-again-mopga-scholarship-program-2027/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "Application Deadline: December 15, 2026 Applications are now open for the 2027 French Government’s Make Our Planet Great Again (MOPGA) Scholarship Program. As a major player in the fight against The post French Government’s Make...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-9c5305804e24",
+   "title": "Humboldt Residency Programme 2027: Fully Funded Six-Week International Residency in Germany for Researchers, Creatives...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/humboldt-residency-programme-2027-fully-funded-six-week-international-residency-in-germany-for-researchers-creatives-and-civil-society-practitioners/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "The Humboldt Residency Programme 2027 is inviting applications from international researchers, Humboldt Foundation alumni, creatives, writers, artists, journalists, civil society practitioners and social entrepreneurs interested...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "f-1b685375cda2",
+   "title": "The United Nations Population Fund (UNFPA) Tanzania Youth Advisory Panel (YAP) Membership 2027–2029: Call for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/the-united-nations-population-fund-unfpa-tanzania-youth-advisory-panel-yap-membership-2027-2029-call-for-applications-for-15-young-tanzanians-to-join-a-voluntary-youth-leadership-programm/",
+   "category": "funding",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "The United Nations Population Fund (UNFPA) Tanzania has opened applications for its Youth Advisory Panel (YAP) Membership for the 2027–2029 term pplYouth Advisory Panel (YAP) Membership for the 2027–2029 term , inviting talented...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "f-84a3ec4e4dda",
+   "title": "Nanyang President’s Graduate Scholarship 2027–2028 in Singapore: Fully Funded PhD Scholarship at NTU for International...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/nanyang-presidents-graduate-scholarship-2027-2028-in-singapore-fully-funded-phd-scholarship-at-ntu-for-international-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-30",
+   "window": "Deadline 2026-12-30",
+   "summary": "The Nanyang President’s Graduate Scholarship (NPGS) 2027–2028 is a prestigious doctoral scholarship offered by Nanyang Technological University (NTU), Singapore , to outstanding graduates and final-year undergraduate students who...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
    "id": "f-95110985b72f",
    "title": "The HEINEKEN Global Graduate Programme 2027 for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -5285,28 +5384,28 @@
    "addedAt": "2026-10-15"
   },
   {
-   "id": "f-3a955e7a01f1",
-   "title": "French Government’s Make Our Planet Great Again (MOPGA) Scholarship Program 2027 for early-career Researchers (Funded...",
+   "id": "f-e13ab263496c",
+   "title": "The Humboldt Residency Programme 2027 for Researchers, Creatives and Civil Society Practitioners (Fully Funded to...",
    "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/french-governments-make-our-planet-great-again-mopga-scholarship-program-2027/",
+   "url": "https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/",
    "category": "funding",
    "level": [
     "fellowship"
    ],
-   "funding": "unknown",
-   "destination": "Varies",
+   "funding": "full",
+   "destination": "Germany",
    "remote": false,
    "medical": "open",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "Application Deadline: December 15, 2026 Applications are now open for the 2027 French Government’s Make Our Planet Great Again (MOPGA) Scholarship Program. As a major player in the fight against The post French Government’s Make...",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Application Deadline: December 14, 2026. Applications are now open for the 2027 Humboldt Residency Programme. The Humboldt Residency Programme brings together a transdisciplinary, international group of twelve participants...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 1,
+   "score": 2,
    "source": "Opportunities for Africans",
-   "addedAt": "2026-10-06"
+   "addedAt": "2026-11-06"
   },
   {
    "id": "f-0b4535e40051",
@@ -5818,6 +5917,31 @@
    "addedAt": "2026-10-31"
   },
   {
+   "id": "f-43bab04f0fa8",
+   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-9e25ed6a367c",
    "title": "AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded)",
    "provider": "Listed on Opportunity Desk",
@@ -5958,31 +6082,6 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-30"
-  },
-  {
-   "id": "f-43bab04f0fa8",
-   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-07"
   }
  ]
 }
