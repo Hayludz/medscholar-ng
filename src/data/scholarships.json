@@ -1,21 +1,21 @@
 {
  "meta": {
-  "generatedAt": "2026-11-09T06:33:51.263Z",
-  "total": 244,
+  "generatedAt": "2026-11-09T22:25:06.732Z",
+  "total": 245,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 142,
+    "matched": 141,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
     "scanned": 470,
-    "matched": 32,
+    "matched": 30,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T06:31:38.212Z"
+   "checkedAt": "2026-11-09T22:22:47.116Z"
   },
   {
    "category": "funding",
@@ -5118,6 +5118,56 @@
    "addedAt": "2026-11-05"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-75f7416d564b",
+   "title": "Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/30/tobin-center-economics-pre-doctoral-fellows-program-at-yale-university-2027-2028/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Deadline: On Rolling Basis Applications are open for the Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028. The Tobin Center / Economics Pre-Doctoral Fellows Program at Yale University supports...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-30"
+  },
+  {
+   "id": "f-5866b572e74e",
+   "title": "2027 African Development Bank Group Shanghai Ocean University Scholarship Bachelor, Master's, and PhD Program (Funded...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/2027-african-development-bank-group-shanghai-ocean-university-scholarship-bachelor-masters-and-phd-program/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "China",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-17",
+   "window": "Deadline 2026-11-17",
+   "summary": "Application Deadline: November 17, 2026 Applications are now open for the 2027 African Development Bank Group Shanghai Ocean University Scholarship. The African Development Bank Group (AfDB) and the Shanghai Ocean The post 2027...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-09"
+  },
+  {
    "id": "f-95110985b72f",
    "title": "The HEINEKEN Global Graduate Programme 2027 for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -5406,31 +5456,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-19"
-  },
-  {
-   "id": "f-75f7416d564b",
-   "title": "Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/30/tobin-center-economics-pre-doctoral-fellows-program-at-yale-university-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Deadline: On Rolling Basis Applications are open for the Tobin Center/Economics Pre-Doctoral Fellows Program at Yale University 2027-2028. The Tobin Center / Economics Pre-Doctoral Fellows Program at Yale University supports...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-30"
   },
   {
    "id": "f-c37468c14964",
