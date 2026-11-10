@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-09T22:25:06.732Z",
-  "total": 245,
+  "generatedAt": "2026-11-10T07:21:43.310Z",
+  "total": 242,
   "curated": 40,
   "sources": [
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-09T22:22:47.116Z"
+   "checkedAt": "2026-11-10T07:19:27.696Z"
   },
   {
    "category": "funding",
@@ -1203,30 +1203,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-01"
-  },
-  {
-   "category": "research",
-   "remote": true,
-   "id": "f-7fd761c93b7a",
-   "title": "IIE Scholar Rescue Fund 2026: Fully Supported Fellowships for Threatened Scholars Worldwide",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/17/iie-scholar-rescue-fund-2025-fellowship-for-threatened-scholars-deadline-july-27-2025/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-10-11",
-   "window": "Deadline 2026-10-11",
-   "summary": "The Institute of International Education Scholar Rescue Fund (IIE-SRF) provides fellowship support to professors, researchers, and public intellectuals whose lives, academic careers, or ability to continue their work are...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-17"
   },
   {
    "category": "research",
@@ -1572,32 +1548,6 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-20"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-378305587f57",
-   "title": "Nordic Scholarship Programme 2027: Funded One-Month Africa Research Stay at the Nordic Africa Institute in Sweden",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/09/nordic-scholarship-programme-2026-at-the-nordic-africa-institute-apply-now/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Sweden",
-   "medical": "specific",
-   "deadline": "2026-10-11",
-   "window": "Deadline 2026-10-11",
-   "summary": "Applications are open for the Nordic Scholarship Programme 2027, a funded research opportunity offered by the Nordic Africa Institute in Uppsala, Sweden. The programme gives eligible students and researchers working on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-09"
   },
   {
    "category": "funding",
@@ -3572,30 +3522,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-08-11"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-05e6113d493c",
-   "title": "Nordic Africa Institute’s Nordic Scholarship Programme 2027/2028 for early-career researchers (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-11",
-   "window": "Deadline 2026-10-11",
-   "summary": "Application Deadline: 11 October 2026 Applications are now open for the 2027/2028 Nordic Africa Institute’s Nordic Scholarship Programme. Through the Nordic Scholarship Programme, NAI aims to contribute to building capacity The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-09"
   },
   {
    "category": "research",
