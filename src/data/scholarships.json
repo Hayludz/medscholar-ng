@@ -1,22 +1,22 @@
 {
  "meta": {
-  "generatedAt": "2026-11-11T19:39:17.294Z",
-  "total": 244,
+  "generatedAt": "2026-11-12T07:18:21.551Z",
+  "total": 245,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 144,
+    "matched": 145,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 450,
-    "matched": 37,
-    "failed": 3
+    "scanned": 30,
+    "matched": 1,
+    "failed": 45
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-11T19:37:02.676Z"
+   "checkedAt": "2026-11-12T07:12:17.235Z"
   },
   {
    "category": "funding",
@@ -5047,18 +5047,18 @@
    "addedAt": "2026-09-08"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-5866b572e74e",
    "title": "2027 African Development Bank Group Shanghai Ocean University Scholarship Bachelor, Master's, and PhD Program (Funded...",
    "provider": "Listed on Opportunities for Africans",
    "url": "https://www.opportunitiesforafricans.com/2027-african-development-bank-group-shanghai-ocean-university-scholarship-bachelor-masters-and-phd-program/",
-   "category": "funding",
    "level": [
     "masters",
     "phd"
    ],
    "funding": "unknown",
    "destination": "China",
-   "remote": false,
    "medical": "open",
    "deadline": "2026-11-17",
    "window": "Deadline 2026-11-17",
@@ -5072,17 +5072,17 @@
    "addedAt": "2026-11-09"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-17bbdf05d9da",
    "title": "African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027",
    "provider": "Listed on Opportunity Desk",
    "url": "https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/",
-   "category": "funding",
    "level": [
     "masters"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "open",
    "deadline": "2026-11-17",
    "window": "Deadline 2026-11-17",
@@ -5094,6 +5094,197 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-11-11"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9bde88c3d9a8",
+   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-31"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-43bab04f0fa8",
+   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9e25ed6a367c",
+   "title": "AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Germany",
+   "medical": "open",
+   "deadline": "2026-10-16",
+   "window": "Deadline 2026-10-16",
+   "summary": "Deadline: October 16, 2026 Applications are open for the AGNES Intra-Africa Mobility Grants for Junior Researchers 2026. This grant is generously funded by the German Ministry for Economic Cooperation and Development (BMZ) and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-17"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-fd967fe7e905",
+   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-2d0cf33f047c",
+   "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-25",
+   "window": "Deadline 2026-10-25",
+   "summary": "Deadline: October 25, 2026 Applications are open for the University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027. The Master of Science in Health Professions Education (MSc in...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
+  },
+  {
+   "category": "volunteer",
+   "remote": false,
+   "id": "f-81dc0204545d",
+   "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO President, the Office of the President works to guide PATH’s strategic approach internally and at...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "category": "research",
+   "remote": false,
+   "id": "f-466ebefa2bd8",
+   "title": "Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/28/fellowship-in-outbreak-readiness-for-global-health-protection-2026/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-10-21",
+   "window": "Deadline 2026-10-21",
+   "summary": "Deadline: October 21, 2026 Applications are open for the Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026. The \"Fellowship in Outbreak Readiness for Global Health Protection\" (FOR-GHP) is funded by the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-28"
+  },
+  {
+   "category": "research",
+   "remote": false,
+   "id": "f-53371778c9ae",
+   "title": "Global Burden of Disease (GBD) Fellowship 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2026-12-21",
+   "window": "Deadline 2026-12-21",
+   "summary": "Deadline: December 21, 2026 Applications are open for the Global Burden of Disease (GBD) Fellowship 2027. The GBD Fellowship is an early-career, cohort-based postdoctoral training program at the Institute for Health Metrics and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-30"
   },
   {
    "id": "f-e25fd7d80cf1",
@@ -5410,6 +5601,30 @@
    "addedAt": "2026-10-19"
   },
   {
+   "id": "f-308d14ca7956",
+   "title": "Global Youth Mental Health Research Fellowship 2027",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "Deadline: November 30, 2026 Applications are open for the Global Youth Mental Health Research Fellowship 2027. This fellowship is aimed at identifying emerging leaders in child and adolescent mental health in Pakistan. It provides...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-11-11"
+  },
+  {
    "id": "f-c37468c14964",
    "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP) 2027/2029 for young women (€40,000 in tuition and living...",
    "provider": "Listed on Opportunities for Africans",
@@ -5505,6 +5720,30 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-08-10"
+  },
+  {
+   "id": "f-ac47e2adb8f0",
+   "title": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship 2027/2028 for Study in France (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/nnpc-ltd-totalenergies-international-masters-degree-scholarship-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-01-31",
+   "window": "Deadline 2027-01-31",
+   "summary": "Application Deadline: 31 January 2027 Applications are now open for the 2027/2028 NNPC Limited / TotalEnergies International Scholarship. NNPC Limited/TotalEnergies and its corporate partners sponsor young Nigerian scholars to...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-11"
   },
   {
    "id": "f-3f13ae5bb339",
@@ -5820,221 +6059,6 @@
    "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-19"
-  },
-  {
-   "id": "f-9bde88c3d9a8",
-   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-14",
-   "window": "Deadline 2026-12-14",
-   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-31"
-  },
-  {
-   "id": "f-43bab04f0fa8",
-   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-9e25ed6a367c",
-   "title": "AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the AGNES Intra-Africa Mobility Grants for Junior Researchers 2026. This grant is generously funded by the German Ministry for Economic Cooperation and Development (BMZ) and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-17"
-  },
-  {
-   "id": "f-fd967fe7e905",
-   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
-  },
-  {
-   "id": "f-2d0cf33f047c",
-   "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Deadline: October 25, 2026 Applications are open for the University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027. The Master of Science in Health Professions Education (MSc in...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-81dc0204545d",
-   "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "Deadline: October 31, 2026 Applications are open for the PATH Global Health Strategy Internship 2026. Under the direction of the CEO President, the Office of the President works to guide PATH’s strategic approach internally and at...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-23"
-  },
-  {
-   "id": "f-466ebefa2bd8",
-   "title": "Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/28/fellowship-in-outbreak-readiness-for-global-health-protection-2026/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "Deadline: October 21, 2026 Applications are open for the Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026. The \"Fellowship in Outbreak Readiness for Global Health Protection\" (FOR-GHP) is funded by the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-28"
-  },
-  {
-   "id": "f-308d14ca7956",
-   "title": "Global Youth Mental Health Research Fellowship 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-30",
-   "window": "Deadline 2026-11-30",
-   "summary": "Deadline: November 30, 2026 Applications are open for the Global Youth Mental Health Research Fellowship 2027. This fellowship is aimed at identifying emerging leaders in child and adolescent mental health in Pakistan. It provides...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-11-11"
-  },
-  {
-   "id": "f-53371778c9ae",
-   "title": "Global Burden of Disease (GBD) Fellowship 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-21",
-   "window": "Deadline 2026-12-21",
-   "summary": "Deadline: December 21, 2026 Applications are open for the Global Burden of Disease (GBD) Fellowship 2027. The GBD Fellowship is an early-career, cohort-based postdoctoral training program at the Institute for Health Metrics and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-30"
   }
  ]
 }
