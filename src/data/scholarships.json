@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-14T06:27:17.119Z",
+  "generatedAt": "2026-11-14T18:07:31.779Z",
   "total": 260,
   "curated": 40,
   "sources": [
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 460,
-    "matched": 36,
-    "failed": 2
+    "scanned": 380,
+    "matched": 28,
+    "failed": 10
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 375,
-    "matched": 150,
+    "matched": 145,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T06:24:41.151Z"
+   "checkedAt": "2026-11-14T18:03:19.526Z"
   },
   {
    "category": "funding",
@@ -3860,6 +3860,54 @@
    "addedAt": "2026-10-15"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-66832e1d9098",
+   "title": "EU Youth Sounding Board Cameroon 2026–2028: European Union Opens Applications for 25 Young Cameroonians to Join Its...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/12/eu-youth-sounding-board-cameroon-2026-2028-european-union-opens-applications-for-25-young-cameroonians-to-join-its-youth-advisory-board/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-11-21",
+   "window": "Deadline 2026-11-21",
+   "summary": "The European Union Delegation to Cameroon (EUD) has opened a national call for applications for the second cohort of the EU Youth Sounding Board Cameroon (YSB-CAM) , inviting young Cameroonians to participate in discussions on...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-12"
+  },
+  {
+   "category": "research",
+   "remote": false,
+   "id": "f-1bf2d1e118a2",
+   "title": "Harvard University Pollman Fellowship in Real Estate and Urban Development 2027–2028: Receive at Least $55,000 Plus...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/02/harvard-university-pollman-fellowship-in-real-estate-and-urban-development-2027-2028-receive-at-least-55000-plus-medical-benefits/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Pollman Fellowship in Real Estate and Urban Development at Harvard University offers an exceptional research and academic opportunity for outstanding postdoctoral scholars interested in real estate, urban planning, economic...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-02"
+  },
+  {
    "id": "f-a634ab709ab4",
    "title": "UCD Iseult Honohan Doctoral Scholarship 2027 in Ireland: Fully Funded PhD Opportunity with €25,000 Annual Stipend for EU...",
    "provider": "Listed on Opportunities for Youth",
@@ -3883,30 +3931,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-13"
-  },
-  {
-   "id": "f-66832e1d9098",
-   "title": "EU Youth Sounding Board Cameroon 2026–2028: European Union Opens Applications for 25 Young Cameroonians to Join Its...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/12/eu-youth-sounding-board-cameroon-2026-2028-european-union-opens-applications-for-25-young-cameroonians-to-join-its-youth-advisory-board/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-11-21",
-   "window": "Deadline 2026-11-21",
-   "summary": "The European Union Delegation to Cameroon (EUD) has opened a national call for applications for the second cohort of the EU Youth Sounding Board Cameroon (YSB-CAM) , inviting young Cameroonians to participate in discussions on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 1,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-12"
   },
   {
    "id": "f-e25fd7d80cf1",
@@ -4874,6 +4898,32 @@
    "addedAt": "2026-10-30"
   },
   {
+   "id": "f-a5667b8cec83",
+   "title": "CRG International PhD Programme 2027: Fully Funded Four-Year PhD Positions in Biomedical Sciences and Genomics in Spain",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/04/crg-international-phd-programme-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-22",
+   "window": "Deadline 2026-11-22",
+   "summary": "The CRG International PhD Programme 2027 is inviting applications from outstanding and motivated graduates from around the world interested in pursuing doctoral research at the Centre for Genomic Regulation (CRG) in Barcelona...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-04"
+  },
+  {
    "id": "f-ca1e54e8c6dc",
    "title": "Female Science Talents Intensive Track 2027: Fully Funded Berlin Gatherings, International Mentorship and Career...",
    "provider": "Listed on Opportunities for Youth",
@@ -4897,30 +4947,6 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-03"
-  },
-  {
-   "id": "f-1bf2d1e118a2",
-   "title": "Harvard University Pollman Fellowship in Real Estate and Urban Development 2027–2028: Receive at Least $55,000 Plus...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/02/harvard-university-pollman-fellowship-in-real-estate-and-urban-development-2027-2028-receive-at-least-55000-plus-medical-benefits/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Pollman Fellowship in Real Estate and Urban Development at Harvard University offers an exceptional research and academic opportunity for outstanding postdoctoral scholars interested in real estate, urban planning, economic...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-02"
   },
   {
    "id": "f-04837d984d87",
@@ -5949,32 +5975,6 @@
    "score": 1,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-05"
-  },
-  {
-   "id": "f-a5667b8cec83",
-   "title": "CRG International PhD Programme 2027: Fully Funded Four-Year PhD Positions in Biomedical Sciences and Genomics in Spain",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/04/crg-international-phd-programme-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-22",
-   "window": "Deadline 2026-11-22",
-   "summary": "The CRG International PhD Programme 2027 is inviting applications from outstanding and motivated graduates from around the world interested in pursuing doctoral research at the Centre for Genomic Regulation (CRG) in Barcelona...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-04"
   },
   {
    "id": "f-5d83fd242aca",
