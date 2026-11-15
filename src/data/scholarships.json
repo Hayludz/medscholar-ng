@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-14T22:27:44.201Z",
-  "total": 260,
+  "generatedAt": "2026-11-15T06:36:02.238Z",
+  "total": 254,
   "curated": 40,
   "sources": [
    {
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 36,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 375,
-    "matched": 144,
-    "failed": 0
+    "scanned": 365,
+    "matched": 143,
+    "failed": 1
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "csc-china",
@@ -417,8 +417,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-14T22:25:02.854Z"
+   "checkedAt": "2026-11-15T06:33:36.522Z"
   },
   {
    "category": "funding",
@@ -1082,31 +1082,6 @@
    "score": 1,
    "source": "Opportunities for Africans",
    "addedAt": "2026-09-02"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-daefa16137bf",
-   "title": "AGNES-BAYER Science Foundation Research Grant 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/24/agnes-bayer-science-foundation-research-grant-2026/",
-   "level": [
-    "phd",
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the AGNES-BAYER Science Foundation Research Grant 2026. The AGNES-BAYER Science Foundation Research Grant for Biodiversity Conservation Sustainable Agriculture in sub-Saharan...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-24"
   },
   {
    "category": "funding",
@@ -1301,30 +1276,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-08-26"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-76f29b515d9c",
-   "title": "Leon Levy Scholarships in Neuroscience 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/03/leon-levy-scholarships-in-neuroscience-2027/",
-   "level": [
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the Leon Levy Scholarships in Neuroscience 2027. The Leon Levy Scholarships in Neuroscience (LLSN) program aims to promote groundbreaking neuroscience research in the five...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-03"
   },
   {
    "category": "funding",
@@ -2242,32 +2193,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-13f1604dbe2b",
-   "title": "AGNES Intra-Africa Mobility Grants 2026: Up to €3,000 for Doctoral Researchers in Sub-Saharan Africa",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/20/agnes-intra-africa-mobility-grants-2026-up-to-e3000-for-doctoral-researchers-in-sub-saharan-africa/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "The AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 are now open to eligible doctoral researchers from sub-Saharan Africa seeking financial support to undertake a short research stay at a university or research...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-20"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-29bb426b90c6",
    "title": "Daejin University Scholarships in South Korea 2027 for East African Students: Undergraduate and Master’s Opportunities",
    "provider": "Listed on Opportunities for Youth",
@@ -2361,30 +2286,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-e69a2e67c4d4",
-   "title": "UNDP Africa Pan-African MineTech Exploration Technology Pre-Incubation Programme 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/13/undp-africa-pan-african-minetech-exploration-technology-pre-incubation-programme-2027/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the UNDP Africa Pan-African MineTech Exploration Technology Pre-Incubation Programme 2027. The timbuktoo MineTech Hub, together with the United Nations Development Programme and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-13"
   },
   {
    "category": "funding",
@@ -3908,6 +3809,30 @@
    "addedAt": "2026-11-02"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-dd5914b3479d",
+   "title": "TTS Nigeria Programme 2026–2027: Applications Open for Free Technology and Workforce Development Programme for Young...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/08/24/tts-nigeria-programme/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Technology Talent Services (TTS) Nigeria Programme is a free technology skills and workforce development initiative designed to equip young Nigerian women with practical, career-focused skills and strengthen their pathways...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-08-24"
+  },
+  {
    "id": "f-a634ab709ab4",
    "title": "UCD Iseult Honohan Doctoral Scholarship 2027 in Ireland: Fully Funded PhD Opportunity with €25,000 Annual Stipend for EU...",
    "provider": "Listed on Opportunities for Youth",
@@ -4487,30 +4412,6 @@
    "addedAt": "2026-10-12"
   },
   {
-   "id": "f-06ea29247152",
-   "title": "2026 AGNES Intra-Africa Mobility Grants for Junior Researchers",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/2026-agnes-intra-africa-mobility-grants-for-junior-researchers/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Application Deadline: October 16, 2026 Applications are now open for the 2026 AGNES Intra-Africa Mobility Grants for Junior Researchers. AGNES is operating two Intra-Africa Mobility Grants for Junior Researchers for The post 2026...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-16"
-  },
-  {
    "id": "f-3e45bbce0192",
    "title": "BMW Group South Africa 2027 Graduate Programme for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -4730,30 +4631,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-9e25ed6a367c",
-   "title": "AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "Deadline: October 16, 2026 Applications are open for the AGNES Intra-Africa Mobility Grants for Junior Researchers 2026. This grant is generously funded by the German Ministry for Economic Cooperation and Development (BMZ) and...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-17"
   },
   {
    "id": "f-fd967fe7e905",
@@ -4998,6 +4875,30 @@
    "addedAt": "2026-09-28"
   },
   {
+   "id": "f-8757d622e209",
+   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-22",
+   "window": "Deadline 2026-11-22",
+   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-28"
+  },
+  {
    "id": "f-42d71eec3685",
    "title": "Mastercard Foundation Scholarship Program at the African Leadership University (ALU)",
    "provider": "Listed on Opportunities for Youth",
@@ -5045,30 +4946,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-12"
-  },
-  {
-   "id": "f-dd5914b3479d",
-   "title": "TTS Nigeria Programme 2026–2027: Applications Open for Free Technology and Workforce Development Programme for Young...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/24/tts-nigeria-programme/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Technology Talent Services (TTS) Nigeria Programme is a free technology skills and workforce development initiative designed to equip young Nigerian women with practical, career-focused skills and strengthen their pathways...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-24"
   },
   {
    "id": "f-1d1db3ddb8b7",
@@ -5195,6 +5072,31 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-08-26"
+  },
+  {
+   "id": "f-d3ffdf2deb48",
+   "title": "9 Scholarship Opportunities for Refugees in 2026–2027: Undergraduate, Master’s and PhD Funding in Africa, Europe, North...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/15/9-scholarship-opportunities-for-refugees-in-2026-2027-undergraduate-masters-and-phd-funding-in-africa-europe-north-america-and-latin-america/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-11-16",
+   "window": "Deadline 2026-11-16",
+   "summary": "Refugee students seeking access to higher education have several scholarship opportunities to consider for the 2026–2027 academic period. A new list shared by the Local Engagement Refugee Research Network (LERRN) highlights higher...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-15"
   },
   {
    "id": "f-97b89a0839a2",
@@ -5418,54 +5320,6 @@
    "addedAt": "2026-10-30"
   },
   {
-   "id": "f-27270da09477",
-   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
-  },
-  {
-   "id": "f-8757d622e209",
-   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-22",
-   "window": "Deadline 2026-11-22",
-   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-28"
-  },
-  {
    "id": "f-8425fa1bb9d9",
    "title": "Gates Cambridge Scholarship 2027–2028: Fully Funded Postgraduate Scholarships at the University of Cambridge, UK",
    "provider": "Listed on Opportunities for Youth",
@@ -5489,6 +5343,30 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-27"
+  },
+  {
+   "id": "f-27270da09477",
+   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-22"
   },
   {
    "id": "f-046a1093576c",
@@ -6094,32 +5972,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-13"
-  },
-  {
-   "id": "f-3a75fc7e6233",
-   "title": "Fully Funded PhD Fellowship in Spatial Genome Organization and Gene Regulation at the University of Oslo, Norway (2026)",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/09/fully-funded-phd-fellowship-in-spatial-genome-organization-and-gene-regulation-at-the-university-of-oslo-norway-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-16",
-   "window": "Deadline 2026-10-16",
-   "summary": "The University of Oslo (UiO), Norway, is inviting applications for a three-year PhD fellowship in Spatial Genome Organization and Gene Regulation , focusing on chromatin biology, computational biology, and the molecular mechanisms...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-09"
   },
   {
    "id": "f-cb09acba032c",
