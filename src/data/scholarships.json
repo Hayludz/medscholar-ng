@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-15T06:36:02.238Z",
-  "total": 254,
+  "generatedAt": "2026-11-15T18:54:54.790Z",
+  "total": 255,
   "curated": 40,
   "sources": [
    {
@@ -21,9 +21,9 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 365,
-    "matched": 143,
-    "failed": 1
+    "scanned": 375,
+    "matched": 144,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-15T06:33:36.522Z"
+   "checkedAt": "2026-11-15T18:52:05.121Z"
   },
   {
    "category": "funding",
@@ -3833,6 +3833,31 @@
    "addedAt": "2026-08-24"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-6dcb92bca021",
+   "title": "NTU Nanyang Business School PhD Scholarship 2027 in Singapore: Application Process, Eligibility, Funding and Deadline",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/29/ntu-nanyang-business-school-phd-scholarship-2027-in-singapore-application-process-eligibility-funding-and-deadline/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2027-01-31",
+   "window": "Deadline 2027-01-31",
+   "summary": "The Nanyang Business School PhD Programme 2027 at Nanyang Technological University (NTU), Singapore, offers an excellent opportunity for aspiring researchers to pursue doctoral studies in business and related academic disciplines...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-29"
+  },
+  {
    "id": "f-a634ab709ab4",
    "title": "UCD Iseult Honohan Doctoral Scholarship 2027 in Ireland: Fully Funded PhD Opportunity with €25,000 Annual Stipend for EU...",
    "provider": "Listed on Opportunities for Youth",
@@ -4875,30 +4900,6 @@
    "addedAt": "2026-09-28"
   },
   {
-   "id": "f-8757d622e209",
-   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-22",
-   "window": "Deadline 2026-11-22",
-   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-28"
-  },
-  {
    "id": "f-42d71eec3685",
    "title": "Mastercard Foundation Scholarship Program at the African Leadership University (ALU)",
    "provider": "Listed on Opportunities for Youth",
@@ -5174,29 +5175,28 @@
    "addedAt": "2026-11-05"
   },
   {
-   "id": "f-6dcb92bca021",
-   "title": "NTU Nanyang Business School PhD Scholarship 2027 in Singapore: Application Process, Eligibility, Funding and Deadline",
+   "id": "f-3eecfb67a763",
+   "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/29/ntu-nanyang-business-school-phd-scholarship-2027-in-singapore-application-process-eligibility-funding-and-deadline/",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
    "category": "funding",
    "level": [
-    "masters",
-    "phd"
+    "masters"
    ],
    "funding": "full",
    "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": "2027-01-31",
-   "window": "Deadline 2027-01-31",
-   "summary": "The Nanyang Business School PhD Programme 2027 at Nanyang Technological University (NTU), Singapore, offers an excellent opportunity for aspiring researchers to pursue doctoral studies in business and related academic disciplines...",
+   "deadline": "2027-01-17",
+   "window": "Deadline 2027-01-17",
+   "summary": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics...",
    "tags": [
-    "Open to Africans"
+    "Check eligibility"
    ],
    "kind": "feed",
-   "score": 4,
+   "score": 3,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-29"
+   "addedAt": "2026-11-14"
   },
   {
    "id": "f-5962f7532512",
@@ -5320,6 +5320,54 @@
    "addedAt": "2026-10-30"
   },
   {
+   "id": "f-27270da09477",
+   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-31",
+   "window": "Deadline 2026-10-31",
+   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "f-8757d622e209",
+   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-22",
+   "window": "Deadline 2026-11-22",
+   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-28"
+  },
+  {
    "id": "f-8425fa1bb9d9",
    "title": "Gates Cambridge Scholarship 2027–2028: Fully Funded Postgraduate Scholarships at the University of Cambridge, UK",
    "provider": "Listed on Opportunities for Youth",
@@ -5343,30 +5391,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-27"
-  },
-  {
-   "id": "f-27270da09477",
-   "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/22/bioprevail-x-cepi-biosecurity-innovation-challenge-2026-apply-for-up-to-us50000-in-seed-funding-and-a-six-month-global-accelerator/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-31",
-   "window": "Deadline 2026-10-31",
-   "summary": "Introduction: A Global Opportunity to Strengthen Laboratory Biosafety and Biosecurity Organisations, research teams, startups, laboratories, and innovators worldwide have an opportunity to develop practical solutions that...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-22"
   },
   {
    "id": "f-046a1093576c",
