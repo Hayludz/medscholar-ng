@@ -1,29 +1,29 @@
 {
  "meta": {
-  "generatedAt": "2026-11-17T07:58:44.879Z",
-  "total": 256,
+  "generatedAt": "2026-11-17T20:58:59.368Z",
+  "total": 260,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 152,
+    "matched": 156,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 35,
-    "failed": 1
+    "scanned": 460,
+    "matched": 33,
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 365,
-    "matched": 130,
-    "failed": 1
+    "scanned": 375,
+    "matched": 139,
+    "failed": 0
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-17T07:56:10.314Z"
+   "checkedAt": "2026-11-17T20:56:23.891Z"
   },
   {
    "category": "funding",
@@ -3902,6 +3902,79 @@
    "addedAt": "2026-10-06"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9a7567ebe8f5",
+   "title": "The Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program for Global South Scholars (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-joint-ictp-ccg-catalyst-facility-academic-writing-residency-program-for-global-south-scholars/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Application Deadline: November 15, 2026 Applications are now open for the Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program. A residency supporting researchers from developing countries to complete a nearly The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-19"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-5962f7532512",
+   "title": "R. Howard Dobbs Foundation Winter 2027 Grantmaking Cycle: Applications Open for Nonprofit Organisations Supporting...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/12/r-howard-dobbs-foundation-winter-2027-grantmaking-cycle-applications-open-for-nonprofit-organisations-supporting-health-education-and-enustainability-in-georgia/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": "2026-12-11",
+   "window": "Deadline 2026-12-11",
+   "summary": "The R. Howard Dobbs Foundation Winter 2027 Grantmaking Cycle is now accepting applications from mission-driven organisations working to strengthen families, communities, and the environment across the state of Georgia, United...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-12"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9c5305804e24",
+   "title": "Humboldt Residency Programme 2027: Fully Funded Six-Week International Residency in Germany for Researchers, Creatives...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/humboldt-residency-programme-2027-fully-funded-six-week-international-residency-in-germany-for-researchers-creatives-and-civil-society-practitioners/",
+   "level": [
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "medical": "specific",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "The Humboldt Residency Programme 2027 is inviting applications from international researchers, Humboldt Foundation alumni, creatives, writers, artists, journalists, civil society practitioners and social entrepreneurs interested...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
    "id": "f-c6a2bfead4c6",
    "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan)",
    "provider": "Listed on Opportunities for Africans",
@@ -4166,30 +4239,6 @@
    "addedAt": "2026-10-26"
   },
   {
-   "id": "f-9a7567ebe8f5",
-   "title": "The Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program for Global South Scholars (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-joint-ictp-ccg-catalyst-facility-academic-writing-residency-program-for-global-south-scholars/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "Application Deadline: November 15, 2026 Applications are now open for the Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program. A residency supporting researchers from developing countries to complete a nearly The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-19"
-  },
-  {
    "id": "f-c37468c14964",
    "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP) 2027/2029 for young women (€40,000 in tuition and living...",
    "provider": "Listed on Opportunities for Africans",
@@ -4237,6 +4286,30 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-14"
+  },
+  {
+   "id": "f-dd6304fb7df5",
+   "title": "Harvard Global Health Institute LEAD Fellowship Program 2027/2028 for Promoting Women in Global Health. (Fully Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/harvard-global-health-institute-lead-fellowship-program-2027-2028/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-15",
+   "window": "Deadline 2026-11-15",
+   "summary": "Application Deadline: November 15, 2026. Applications are now open for the 2027/2028 Harvard Global Health Institute LEAD Fellowship Program. The LEAD Fellowship, a one-year fellowship designed to advance leadership skills The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-09"
   },
   {
    "id": "f-614c3d8ab839",
@@ -4456,6 +4529,30 @@
    "addedAt": "2026-10-12"
   },
   {
+   "id": "f-613aa00130b2",
+   "title": "The East Africa Biodesign Fellowship 2027/2028 Health Innovation Fellowship for African Innovators (Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-east-africa-biodesign-fellowship-2027-2028-health-innovation-fellowship/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-13",
+   "window": "Deadline 2026-12-13",
+   "summary": "Application Deadline: December 13, 2026 Applications are now open for the Applications are now open for the East Africa Biodesign Fellowship 2027–2028, a 10-month professional training programme designed to equip African The post...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 5,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-17"
+  },
+  {
    "id": "f-3e45bbce0192",
    "title": "BMW Group South Africa 2027 Graduate Programme for young South African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -4526,30 +4623,6 @@
    "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-20"
-  },
-  {
-   "id": "f-dd6304fb7df5",
-   "title": "Harvard Global Health Institute LEAD Fellowship Program 2027/2028 for Promoting Women in Global Health. (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/harvard-global-health-institute-lead-fellowship-program-2027-2028/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-15",
-   "window": "Deadline 2026-11-15",
-   "summary": "Application Deadline: November 15, 2026. Applications are now open for the 2027/2028 Harvard Global Health Institute LEAD Fellowship Program. The LEAD Fellowship, a one-year fellowship designed to advance leadership skills The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-09"
   },
   {
    "id": "f-320521f47abd",
@@ -4626,6 +4699,31 @@
    "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-19"
+  },
+  {
+   "id": "f-2966c7128902",
+   "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master's Scholarships in Public Health.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-31",
+   "window": "Deadline 2026-12-31",
+   "summary": "Application Deadline: December 31st, 2026 Applications are now open for the 2026/2027 West African Health Organisation (WAHO) Doctoral and Master's Scholarships. The West African Health Organisation (WAHO), in collaboration with...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-17"
   },
   {
    "id": "f-9bde88c3d9a8",
@@ -4868,28 +4966,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-02"
-  },
-  {
-   "id": "f-0b7404244c43",
-   "title": "Strengthening Global Health Systems: Free Online Course by the University of Leeds on Health Policy, Healthcare Access...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/01/strengthening-global-health-systems-free-online-course-by-the-university-of-leeds-on-health-policy-healthcare-access-and-universal-health-coverage/",
-   "category": "training",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Professionals, graduates, students, and individuals interested in global health, public health policy, healthcare management, and international development have an opportunity to strengthen their knowledge through the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-01"
   },
   {
    "id": "f-02a5c8ad23d3",
@@ -5240,30 +5316,6 @@
    "addedAt": "2026-11-13"
   },
   {
-   "id": "f-5962f7532512",
-   "title": "R. Howard Dobbs Foundation Winter 2027 Grantmaking Cycle: Applications Open for Nonprofit Organisations Supporting...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/12/r-howard-dobbs-foundation-winter-2027-grantmaking-cycle-applications-open-for-nonprofit-organisations-supporting-health-education-and-enustainability-in-georgia/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-11",
-   "window": "Deadline 2026-12-11",
-   "summary": "The R. Howard Dobbs Foundation Winter 2027 Grantmaking Cycle is now accepting applications from mission-driven organisations working to strengthen families, communities, and the environment across the state of Georgia, United...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-12"
-  },
-  {
    "id": "f-99b244a0e486",
    "title": "World Cancer Research Fund International Regular Grants 2026–2027: Apply for Cancer Research Funding of Up to £500,000",
    "provider": "Listed on Opportunities for Youth",
@@ -5361,6 +5413,30 @@
    "addedAt": "2026-10-22"
   },
   {
+   "id": "f-a210403b5402",
+   "title": "CitizensNYC Community Leaders Grants 2027: Apply for Up to $5,000 in Funding for Community Development Projects in New...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/citizensnyc-community-leaders-grants-2027-apply-for-up-to-5000-in-funding-for-community-development-projects-in-new-york-city/",
+   "category": "funding",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-02-01",
+   "window": "Deadline 2027-02-01",
+   "summary": "The CitizensNYC Community Leaders Grants 2027 programme is now accepting applications from New York City residents and grassroots community groups seeking financial support for initiatives that improve neighborhood life, encourage...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-17"
+  },
+  {
    "id": "f-1b685375cda2",
    "title": "The United Nations Population Fund (UNFPA) Tanzania Youth Advisory Panel (YAP) Membership 2027–2029: Call for...",
    "provider": "Listed on Opportunities for Youth",
@@ -5456,6 +5532,28 @@
    "addedAt": "2026-11-12"
   },
   {
+   "id": "f-9b95ead6ca23",
+   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-27",
+   "window": "Deadline 2026-11-27",
+   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-17"
+  },
+  {
    "id": "f-6ca259d9dc04",
    "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
    "provider": "Listed on Opportunities for Youth",
@@ -5528,28 +5626,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-10"
-  },
-  {
-   "id": "f-94b94ac50b21",
-   "title": "CDC Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course 2026–2028: Free Online Training with...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/cdc-using-data-to-improve-child-and-adolescent-mental-health-camh-mini-course-2026-2028-free-online-training-with-continuing-education-credits/",
-   "category": "training",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2028-07-30",
-   "window": "Deadline 2028-07-30",
-   "summary": "The Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course is a free, web-based professional development opportunity designed to help public health professionals and other relevant practitioners understand how...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
   },
   {
    "id": "f-8ef9d3ff6442",
@@ -5918,31 +5994,6 @@
    "addedAt": "2026-11-15"
   },
   {
-   "id": "f-5d83fd242aca",
-   "title": "Stanford University Zaentz Fellowship 2027–2028: Full Tuition Master's Fellowship for International Students Interested...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/stanford-university-zaentz-fellowship-2027-2028-full-tuition-masters-fellowship-for-international-students-interested-in-early-childhood-education/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-07",
-   "window": "Deadline 2027-01-07",
-   "summary": "The Stanford Center on Early Childhood is inviting prospective master's students to apply for the Zaentz (Master's) Fellows Program for the 2027–2028 academic year. The fellowship provides full tuition support for eligible...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
-  },
-  {
    "id": "f-281440f90d62",
    "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
    "provider": "Listed on Opportunities for Youth",
@@ -5969,29 +6020,73 @@
    "addedAt": "2026-11-09"
   },
   {
-   "id": "f-9c5305804e24",
-   "title": "Humboldt Residency Programme 2027: Fully Funded Six-Week International Residency in Germany for Researchers, Creatives...",
+   "id": "f-5d83fd242aca",
+   "title": "Stanford University Zaentz Fellowship 2027–2028: Full Tuition Master's Fellowship for International Students Interested...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/05/humboldt-residency-programme-2027-fully-funded-six-week-international-residency-in-germany-for-researchers-creatives-and-civil-society-practitioners/",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/stanford-university-zaentz-fellowship-2027-2028-full-tuition-masters-fellowship-for-international-students-interested-in-early-childhood-education/",
    "category": "funding",
    "level": [
-    "phd",
+    "masters",
     "fellowship"
    ],
    "funding": "full",
-   "destination": "Germany",
+   "destination": "United States",
    "remote": false,
    "medical": "specific",
-   "deadline": "2026-12-14",
-   "window": "Deadline 2026-12-14",
-   "summary": "The Humboldt Residency Programme 2027 is inviting applications from international researchers, Humboldt Foundation alumni, creatives, writers, artists, journalists, civil society practitioners and social entrepreneurs interested...",
+   "deadline": "2027-01-07",
+   "window": "Deadline 2027-01-07",
+   "summary": "The Stanford Center on Early Childhood is inviting prospective master's students to apply for the Zaentz (Master's) Fellows Program for the 2027–2028 academic year. The fellowship provides full tuition support for eligible...",
    "tags": [
-    "Check eligibility"
+    "Open to Africans"
    ],
    "kind": "feed",
-   "score": 3,
+   "score": 4,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-11-05"
+   "addedAt": "2026-11-09"
+  },
+  {
+   "id": "f-94b94ac50b21",
+   "title": "CDC Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course 2026–2028: Free Online Training with...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/cdc-using-data-to-improve-child-and-adolescent-mental-health-camh-mini-course-2026-2028-free-online-training-with-continuing-education-credits/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2028-07-30",
+   "window": "Deadline 2028-07-30",
+   "summary": "The Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course is a free, web-based professional development opportunity designed to help public health professionals and other relevant practitioners understand how...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-09"
+  },
+  {
+   "id": "f-0b7404244c43",
+   "title": "Strengthening Global Health Systems: Free Online Course by the University of Leeds on Health Policy, Healthcare Access...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/01/strengthening-global-health-systems-free-online-course-by-the-university-of-leeds-on-health-policy-healthcare-access-and-universal-health-coverage/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Professionals, graduates, students, and individuals interested in global health, public health policy, healthcare management, and international development have an opportunity to strengthen their knowledge through the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-01"
   },
   {
    "id": "f-7b616108d1dd",
