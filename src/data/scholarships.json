@@ -1,15 +1,15 @@
 {
  "meta": {
-  "generatedAt": "2026-11-16T22:06:10.821Z",
+  "generatedAt": "2026-11-17T07:58:44.879Z",
   "total": 256,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
-    "scanned": 470,
-    "matched": 145,
-    "failed": 1
+    "scanned": 480,
+    "matched": 152,
+    "failed": 0
    },
    {
     "name": "Opportunity Desk",
@@ -21,9 +21,9 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 375,
-    "matched": 135,
-    "failed": 0
+    "scanned": 365,
+    "matched": 130,
+    "failed": 1
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-16T22:03:24.892Z"
+   "checkedAt": "2026-11-17T07:56:10.314Z"
   },
   {
    "category": "funding",
@@ -2655,32 +2655,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-4c442f78b3be",
-   "title": "Future of Work Africa (FOWA) Advisory Services 2026: Personalised Career, Scholarship, Fellowship and Postgraduate...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/19/future-of-work-africa-fowa-advisory-services-2026-personalised-career-scholarship-fellowship-and-postgraduate-application-support-for-african-students-and-professionals/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Introduction Making the right academic or career decision can be challenging, particularly when you are navigating scholarships, postgraduate admissions, competitive fellowships, career transitions, job applications, personal...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-19"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-e06097b71f62",
    "title": "AHRC Doctoral Landscape Awards at Birmingham City University 2027: Fully Funded PhD Scholarships in Arts and Humanities...",
    "provider": "Listed on Opportunities for Youth",
@@ -3880,17 +3854,17 @@
    "addedAt": "2026-11-10"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-83c585eae540",
    "title": "French-African Foundation Young Leaders Programme 2027: Applications Open for Emerging African and French Leaders",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/11/16/french-african-foundation-young-leaders-programme-2027-applications-open-for-emerging-african-and-french-leaders/",
-   "category": "funding",
    "level": [
     "fellowship"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "open",
    "deadline": null,
    "window": "Deadline not stated in the listing. Open the link to confirm.",
@@ -3902,6 +3876,54 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-16"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-72982b672cc1",
+   "title": "ECOWAS Bank for Investment and Development (EBID) Young Professionals Programme 2027 for West African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/ecowas-bank-for-investment-and-development-ebid-young-professionals-programme-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-10-30",
+   "window": "Deadline 2026-10-30",
+   "summary": "Application Deadline: October 30, 2026 Applications are open for the 2026 ECOWAS Bank for Investment and Development (EBID) Young Professionals Programme. The programme invites high-calibre graduates from West Africa and The post...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "f-c6a2bfead4c6",
+   "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-02-28",
+   "window": "Deadline 2027-02-28",
+   "summary": "Application Deadline: February 28, 2027, 9:00 AM (UTC/GMT +9 hours) Applications are now open for the 2027 UNIQLO Global Management Program. Global Management Program (GMP) is a 6-day intensive program The post The UNIQLO Global...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-17"
   },
   {
    "id": "f-e25fd7d80cf1",
@@ -4094,30 +4116,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-08"
-  },
-  {
-   "id": "f-72982b672cc1",
-   "title": "ECOWAS Bank for Investment and Development (EBID) Young Professionals Programme 2027 for West African graduates.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/ecowas-bank-for-investment-and-development-ebid-young-professionals-programme-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-30",
-   "window": "Deadline 2026-10-30",
-   "summary": "Application Deadline: October 30, 2026 Applications are open for the 2026 ECOWAS Bank for Investment and Development (EBID) Young Professionals Programme. The programme invites high-calibre graduates from West Africa and The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-06"
   },
   {
    "id": "f-e13ab263496c",
@@ -4872,6 +4870,28 @@
    "addedAt": "2026-11-02"
   },
   {
+   "id": "f-0b7404244c43",
+   "title": "Strengthening Global Health Systems: Free Online Course by the University of Leeds on Health Policy, Healthcare Access...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/01/strengthening-global-health-systems-free-online-course-by-the-university-of-leeds-on-health-policy-healthcare-access-and-universal-health-coverage/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Professionals, graduates, students, and individuals interested in global health, public health policy, healthcare management, and international development have an opportunity to strengthen their knowledge through the...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-01"
+  },
+  {
    "id": "f-02a5c8ad23d3",
    "title": "Nuffield Medical Fellowships 2026 at the University of Oxford: Fully Funded Medical Research Fellowship for Early-Career...",
    "provider": "Listed on Opportunities for Youth",
@@ -5510,6 +5530,28 @@
    "addedAt": "2026-11-10"
   },
   {
+   "id": "f-94b94ac50b21",
+   "title": "CDC Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course 2026–2028: Free Online Training with...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/cdc-using-data-to-improve-child-and-adolescent-mental-health-camh-mini-course-2026-2028-free-online-training-with-continuing-education-credits/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2028-07-30",
+   "window": "Deadline 2028-07-30",
+   "summary": "The Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course is a free, web-based professional development opportunity designed to help public health professionals and other relevant practitioners understand how...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-09"
+  },
+  {
    "id": "f-8ef9d3ff6442",
    "title": "Oxford University Weidenfeld-Hoffmann Full Scholarship and Leadership Programme(Fully-funded)",
    "provider": "Listed on Opportunities for Youth",
@@ -5876,6 +5918,31 @@
    "addedAt": "2026-11-15"
   },
   {
+   "id": "f-5d83fd242aca",
+   "title": "Stanford University Zaentz Fellowship 2027–2028: Full Tuition Master's Fellowship for International Students Interested...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/stanford-university-zaentz-fellowship-2027-2028-full-tuition-masters-fellowship-for-international-students-interested-in-early-childhood-education/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-07",
+   "window": "Deadline 2027-01-07",
+   "summary": "The Stanford Center on Early Childhood is inviting prospective master's students to apply for the Zaentz (Master's) Fellows Program for the 2027–2028 academic year. The fellowship provides full tuition support for eligible...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-09"
+  },
+  {
    "id": "f-281440f90d62",
    "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
    "provider": "Listed on Opportunities for Youth",
@@ -5925,75 +5992,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-05"
-  },
-  {
-   "id": "f-5d83fd242aca",
-   "title": "Stanford University Zaentz Fellowship 2027–2028: Full Tuition Master's Fellowship for International Students Interested...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/stanford-university-zaentz-fellowship-2027-2028-full-tuition-masters-fellowship-for-international-students-interested-in-early-childhood-education/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-07",
-   "window": "Deadline 2027-01-07",
-   "summary": "The Stanford Center on Early Childhood is inviting prospective master's students to apply for the Zaentz (Master's) Fellows Program for the 2027–2028 academic year. The fellowship provides full tuition support for eligible...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
-  },
-  {
-   "id": "f-94b94ac50b21",
-   "title": "CDC Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course 2026–2028: Free Online Training with...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/cdc-using-data-to-improve-child-and-adolescent-mental-health-camh-mini-course-2026-2028-free-online-training-with-continuing-education-credits/",
-   "category": "training",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2028-07-30",
-   "window": "Deadline 2028-07-30",
-   "summary": "The Using Data to Improve Child and Adolescent Mental Health (CAMH) Mini-Course is a free, web-based professional development opportunity designed to help public health professionals and other relevant practitioners understand how...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
-  },
-  {
-   "id": "f-0b7404244c43",
-   "title": "Strengthening Global Health Systems: Free Online Course by the University of Leeds on Health Policy, Healthcare Access...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/01/strengthening-global-health-systems-free-online-course-by-the-university-of-leeds-on-health-policy-healthcare-access-and-universal-health-coverage/",
-   "category": "training",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Professionals, graduates, students, and individuals interested in global health, public health policy, healthcare management, and international development have an opportunity to strengthen their knowledge through the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-01"
   },
   {
    "id": "f-7b616108d1dd",
