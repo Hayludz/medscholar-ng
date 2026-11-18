@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-18T07:32:10.076Z",
-  "total": 259,
+  "generatedAt": "2026-11-18T20:34:52.666Z",
+  "total": 260,
   "curated": 40,
   "sources": [
    {
@@ -14,23 +14,23 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 33,
-    "failed": 1
+    "scanned": 450,
+    "matched": 31,
+    "failed": 3
    },
    {
     "name": "Opportunities for Youth",
-    "ok": false,
-    "scanned": 0,
-    "matched": 0,
-    "failed": 39
+    "ok": true,
+    "scanned": 20,
+    "matched": 3,
+    "failed": 37
    },
    {
     "name": "Funds for NGOs",
-    "ok": false,
-    "scanned": 0,
+    "ok": true,
+    "scanned": 25,
     "matched": 0,
-    "failed": 1
+    "failed": 0
    }
   ]
  },
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T07:29:57.827Z"
+   "checkedAt": "2026-11-18T20:32:04.711Z"
   },
   {
    "category": "funding",
@@ -4302,30 +4302,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-3eecfb67a763",
-   "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2027-01-17",
-   "window": "Deadline 2027-01-17",
-   "summary": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-14"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-a634ab709ab4",
    "title": "UCD Iseult Honohan Doctoral Scholarship 2027 in Ireland: Fully Funded PhD Opportunity with €25,000 Annual Stipend for EU...",
    "provider": "Listed on Opportunities for Youth",
@@ -4563,28 +4539,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-12"
-  },
-  {
-   "category": "volunteer",
-   "remote": true,
-   "id": "f-9b95ead6ca23",
-   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2026-11-27",
-   "window": "Deadline 2026-11-27",
-   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-17"
   },
   {
    "category": "funding",
@@ -5174,33 +5128,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-cb09acba032c",
-   "title": "BRIDGE Proof of Concept Funding 2026: Apply for Up to CHF 130,000 to Turn Research into Innovative Products and Services...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/11/bridge-proof-of-concept-funding-2026-apply-for-up-to-chf-130000-to-turn-research-into-innovative-products-and-services-in-switzerland/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "unknown",
-   "destination": "Switzerland",
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Early-career researchers with promising research findings and ambitions to develop practical innovations have an opportunity to secure substantial project funding through the BRIDGE Proof of Concept programme in Switzerland . The...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-11"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-c44ffd4a4792",
    "title": "2027 University College Cork (UCC) Futures Scholars Programme: Fully Funded PhD Scholarships in Ireland for...",
    "provider": "Listed on Opportunities for Youth",
@@ -5449,6 +5376,30 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-09"
+  },
+  {
+   "id": "f-ca59225973ef",
+   "title": "The Oxford Saïd Future Leaders Scholarships 2027 for young professionals.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-oxford-said-future-leaders-scholarships-2027-for-young-professionals/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Ongoing The Oxford Saïd Future Leaders Scholarships are prestigious awards to honour the achievements and support the ambitions of our brightest and best MBA students, who will go The post The Oxford Saïd...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-18"
   },
   {
    "id": "f-c6a2bfead4c6",
@@ -6226,6 +6177,30 @@
    "addedAt": "2026-10-31"
   },
   {
+   "id": "f-fd967fe7e905",
+   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
+  },
+  {
    "id": "f-43bab04f0fa8",
    "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
    "provider": "Listed on Opportunity Desk",
@@ -6249,30 +6224,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-fd967fe7e905",
-   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
   },
   {
    "id": "f-2d0cf33f047c",
@@ -6391,6 +6342,79 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-30"
+  },
+  {
+   "id": "f-9b95ead6ca23",
+   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-27",
+   "window": "Deadline 2026-11-27",
+   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-17"
+  },
+  {
+   "id": "f-3eecfb67a763",
+   "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-17",
+   "window": "Deadline 2027-01-17",
+   "summary": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-14"
+  },
+  {
+   "id": "f-cb09acba032c",
+   "title": "BRIDGE Proof of Concept Funding 2026: Apply for Up to CHF 130,000 to Turn Research into Innovative Products and Services...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/11/bridge-proof-of-concept-funding-2026-apply-for-up-to-chf-130000-to-turn-research-into-innovative-products-and-services-in-switzerland/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Switzerland",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Early-career researchers with promising research findings and ambitions to develop practical innovations have an opportunity to secure substantial project funding through the BRIDGE Proof of Concept programme in Switzerland . The...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-11"
   }
  ]
 }
