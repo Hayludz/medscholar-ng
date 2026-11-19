@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-18T20:34:52.666Z",
-  "total": 260,
+  "generatedAt": "2026-11-19T07:30:56.211Z",
+  "total": 255,
   "curated": 40,
   "sources": [
    {
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 450,
-    "matched": 31,
-    "failed": 3
+    "scanned": 460,
+    "matched": 33,
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 20,
-    "matched": 3,
-    "failed": 37
+    "scanned": 30,
+    "matched": 8,
+    "failed": 36
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-18T20:32:04.711Z"
+   "checkedAt": "2026-11-19T07:27:37.060Z"
   },
   {
    "category": "funding",
@@ -1742,31 +1742,6 @@
    "score": 1,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-12"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-2e4e437633d6",
-   "title": "Royal Holloway University of London Announces 10 Funded PhD Studentships for 2027 Through the Social Purpose Centre for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/22/royal-holloway-university-of-london-announces-10-funded-phd-studentships-for-2027-through-the-social-purpose-centre-for-doctoral-training/",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Royal Holloway, University of London is inviting applications for 10 funded PhD studentships through its Social Purpose Centre for Doctoral Training (CDT) , offering doctoral researchers the opportunity to undertake research...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-22"
   },
   {
    "category": "funding",
@@ -3197,30 +3172,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-77937369bce2",
-   "title": "Commonwealth Master’s Scholarships 2027/2028 for full-time Master’s study at a UK university (Fully Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Application Deadline: 20 October, 2026 Applications are now open for the 2027/2028 Commonwealth Master’s Scholarships. The Commonwealth Scholarship Commission in the UK (CSC) provides the UK government scholarship scheme led The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-08"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-e56a9c126259",
    "title": "MINARET Doctoral Network 2027: 15 Fully Funded PhD Positions in Europe with MSCA Funding",
    "provider": "Listed on Opportunities for Youth",
@@ -3512,30 +3463,6 @@
    "score": 5,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-30"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-a0b5efd0aa1a",
-   "title": "Commonwealth PhD Scholarships 2027/2028 for full-time doctoral study at a UK university (Fully Funded).",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/commonwealth-phd-scholarships-2027-2028/",
-   "level": [
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Application Deadline: 20 October, 2026 Applications are now open for the 2027/2028 Commonwealth PhD Scholarships. The Commonwealth Scholarship Commission in the UK (CSC) provides the UK government scholarship scheme led The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-08"
   },
   {
    "category": "funding",
@@ -3952,32 +3879,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-a5667b8cec83",
-   "title": "CRG International PhD Programme 2027: Fully Funded Four-Year PhD Positions in Biomedical Sciences and Genomics in Spain",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/04/crg-international-phd-programme-2027/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-11-22",
-   "window": "Deadline 2026-11-22",
-   "summary": "The CRG International PhD Programme 2027 is inviting applications from outstanding and motivated graduates from around the world interested in pursuing doctoral research at the Centre for Genomic Regulation (CRG) in Barcelona...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-04"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-04837d984d87",
    "title": "KU Leuven PhD Scholarship 2026 in Human Rights Law, Belgium: Fully Funded Doctoral Research Opportunity for Law...",
    "provider": "Listed on Opportunities for Youth",
@@ -4097,57 +3998,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-08"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-188879d67e34",
-   "title": "Commonwealth Master’s Scholarships 2027/28: Fully Funded UK Scholarships for Students from Developing Commonwealth...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/18/40-fully-funded-commonwealth-masters-scholarships-for-small-island-developing-states-sids/",
-   "level": [
-    "masters",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "open",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "The Commonwealth Master’s Scholarships 2027/28 provide an opportunity for talented and motivated graduates from eligible low- and middle-income Commonwealth countries to pursue full-time taught Master’s degrees at universities in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-18"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-e33641f1bf0a",
-   "title": "Fully Funded Commonwealth Master’s and PhD Scholarships 2027/28 in the UK: Applications Now Open",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/10/commonwealth-scholarships-for-the-university-of-londons-ma-in-refugee-protection-and-forced-migration-studies/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2026-10-20",
-   "window": "Deadline 2026-10-20",
-   "summary": "Applications are now open for the Commonwealth Master’s Scholarships and Commonwealth PhD Scholarships for the 2027/28 academic year , offering talented students and researchers from eligible Commonwealth countries an opportunity...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-10"
   },
   {
    "category": "funding",
@@ -4593,30 +4443,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-827c99a85e67",
-   "title": "EMPHNET Scholarships 2026: 30% Tuition Fee Scholarships for Two Master's Degrees in Public Health and Epidemiology",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/10/emphnet-scholarships-2026-30-tuition-fee-scholarships-for-two-masters-degrees-in-public-health-and-epidemiology/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-28",
-   "window": "Deadline 2026-10-28",
-   "summary": "The Eastern Mediterranean Public Health Network (EMPHNET) is offering scholarship opportunities covering 30% of tuition fees for eligible students from low- and lower-middle-income countries who wish to pursue postgraduate studies...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-10"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-8ef9d3ff6442",
    "title": "Oxford University Weidenfeld-Hoffmann Full Scholarship and Leadership Programme(Fully-funded)",
    "provider": "Listed on Opportunities for Youth",
@@ -4983,32 +4809,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-281440f90d62",
-   "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/frank-knox-memorial-fellowships-2027-at-harvard-university-fully-funded-masters-scholarships-for-uk-canadian-australian-and-new-zealand-student/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "medical": "specific",
-   "deadline": "2027-02-01",
-   "window": "Deadline 2027-02-01",
-   "summary": "Applications are now open for the 2027 Frank Knox Memorial Fellowships at Harvard University, offering eligible students from the United Kingdom, Canada, Australia and New Zealand an opportunity to pursue postgraduate studies at...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-5d83fd242aca",
    "title": "Stanford University Zaentz Fellowship 2027–2028: Full Tuition Master's Fellowship for International Students Interested...",
    "provider": "Listed on Opportunities for Youth",
@@ -5128,33 +4928,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-c44ffd4a4792",
-   "title": "2027 University College Cork (UCC) Futures Scholars Programme: Fully Funded PhD Scholarships in Ireland for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/07/2027-university-college-cork-ucc-futures-scholars-programme-fully-funded-phd-scholarships-in-ireland-for-international-students-e25000-annual-stipend/",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-12-11",
-   "window": "Deadline 2026-12-11",
-   "summary": "Overview of the UCC Futures Scholars Programme 2027 The UCC Futures Scholars Programme (GoI) is the flagship institutional doctoral scholarship programme of University College Cork, Ireland. Supported through the Research Ireland...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-07"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-ea2a31a94d4b",
    "title": "University of Notre Dame Fully Funded PhD in Sustainable Development 2027: Full Tuition, 12-Month Stipend and Research...",
    "provider": "Listed on Opportunities for Youth",
@@ -5176,28 +4949,6 @@
    ],
    "kind": "feed",
    "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-05"
-  },
-  {
-   "category": "volunteer",
-   "remote": true,
-   "id": "f-0817d39ee28d",
-   "title": "UCLA Public Health Scholars Training Program 2027: $4,000 Stipend, Free Campus Housing and an 8-Week Public Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/05/ucla-public-health-scholars-training-program-2027-4000-stipend-free-campus-housing-and-an-8-week-public-health-internship-in-the-usa/",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "medical": "specific",
-   "deadline": "2027-01-31",
-   "window": "Deadline 2027-01-31",
-   "summary": "The UCLA Public Health Scholars Training Program 2027 is offering undergraduate students and eligible recent college graduates an opportunity to gain practical experience in public health through an intensive eight-week summer...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-05"
   },
@@ -6177,30 +5928,6 @@
    "addedAt": "2026-10-31"
   },
   {
-   "id": "f-fd967fe7e905",
-   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-16"
-  },
-  {
    "id": "f-43bab04f0fa8",
    "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
    "provider": "Listed on Opportunity Desk",
@@ -6224,6 +5951,30 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
+  },
+  {
+   "id": "f-fd967fe7e905",
+   "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. Mastercard Foundation Scholars Program at Arizona State University 2027-2028 (Fully-funded)The Mastercard Foundation Scholars Program at Arizona State University offers 30 graduate study opportunities for African students...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-09-16"
   },
   {
    "id": "f-2d0cf33f047c",
@@ -6415,6 +6166,131 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-11"
+  },
+  {
+   "id": "f-827c99a85e67",
+   "title": "EMPHNET Scholarships 2026: 30% Tuition Fee Scholarships for Two Master's Degrees in Public Health and Epidemiology",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/10/emphnet-scholarships-2026-30-tuition-fee-scholarships-for-two-masters-degrees-in-public-health-and-epidemiology/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-10-28",
+   "window": "Deadline 2026-10-28",
+   "summary": "The Eastern Mediterranean Public Health Network (EMPHNET) is offering scholarship opportunities covering 30% of tuition fees for eligible students from low- and lower-middle-income countries who wish to pursue postgraduate studies...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "f-281440f90d62",
+   "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/frank-knox-memorial-fellowships-2027-at-harvard-university-fully-funded-masters-scholarships-for-uk-canadian-australian-and-new-zealand-student/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-02-01",
+   "window": "Deadline 2027-02-01",
+   "summary": "Applications are now open for the 2027 Frank Knox Memorial Fellowships at Harvard University, offering eligible students from the United Kingdom, Canada, Australia and New Zealand an opportunity to pursue postgraduate studies at...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-09"
+  },
+  {
+   "id": "f-c44ffd4a4792",
+   "title": "2027 University College Cork (UCC) Futures Scholars Programme: Fully Funded PhD Scholarships in Ireland for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/07/2027-university-college-cork-ucc-futures-scholars-programme-fully-funded-phd-scholarships-in-ireland-for-international-students-e25000-annual-stipend/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-11",
+   "window": "Deadline 2026-12-11",
+   "summary": "Overview of the UCC Futures Scholars Programme 2027 The UCC Futures Scholars Programme (GoI) is the flagship institutional doctoral scholarship programme of University College Cork, Ireland. Supported through the Research Ireland...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-07"
+  },
+  {
+   "id": "f-0817d39ee28d",
+   "title": "UCLA Public Health Scholars Training Program 2027: $4,000 Stipend, Free Campus Housing and an 8-Week Public Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/ucla-public-health-scholars-training-program-2027-4000-stipend-free-campus-housing-and-an-8-week-public-health-internship-in-the-usa/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2027-01-31",
+   "window": "Deadline 2027-01-31",
+   "summary": "The UCLA Public Health Scholars Training Program 2027 is offering undergraduate students and eligible recent college graduates an opportunity to gain practical experience in public health through an intensive eight-week summer...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "f-a5667b8cec83",
+   "title": "CRG International PhD Programme 2027: Fully Funded Four-Year PhD Positions in Biomedical Sciences and Genomics in Spain",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/04/crg-international-phd-programme-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-22",
+   "window": "Deadline 2026-11-22",
+   "summary": "The CRG International PhD Programme 2027 is inviting applications from outstanding and motivated graduates from around the world interested in pursuing doctoral research at the Centre for Genomic Regulation (CRG) in Barcelona...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-04"
   }
  ]
 }
