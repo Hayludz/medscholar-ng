@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-19T20:41:23.342Z",
-  "total": 256,
+  "generatedAt": "2026-11-20T07:21:21.931Z",
+  "total": 253,
   "curated": 40,
   "sources": [
    {
@@ -14,9 +14,9 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 32,
-    "failed": 1
+    "scanned": 310,
+    "matched": 18,
+    "failed": 17
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-19T20:38:19.088Z"
+   "checkedAt": "2026-11-20T07:17:31.901Z"
   },
   {
    "category": "funding",
@@ -1473,30 +1473,6 @@
    ],
    "kind": "feed",
    "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-20"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-90ccb99f6ef8",
-   "title": "Cardiff University PhD Studentships and Projects 2026 100 Doctoral Scholarship Opportunities",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/20/cardiff-university-phd-studentships-and-projects-2026-100-doctoral-opportunities/",
-   "level": [
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "Cardiff University is offering a wide range of PhD research studentships and projects across multiple academic disciplines for prospective doctoral researchers. The university's current PhD listings feature 100 doctoral...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-20"
   },
@@ -3998,6 +3974,55 @@
    "addedAt": "2026-11-04"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-9bde88c3d9a8",
+   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-31"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-43bab04f0fa8",
+   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "South Africa",
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-af20f7f2a4b9",
    "title": "Erase Indifference Challenge 2026: Apply for €90,000 in Awards for Innovative Projects Combating Discrimination, Hate...",
    "provider": "Listed on Opportunities for Youth",
@@ -4749,55 +4774,6 @@
    "addedAt": "2026-11-17"
   },
   {
-   "id": "f-9bde88c3d9a8",
-   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-14",
-   "window": "Deadline 2026-12-14",
-   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-31"
-  },
-  {
-   "id": "f-43bab04f0fa8",
-   "title": "27 Scholarship Opportunities Closing in October - October 7, 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "1. France-South Africa Scholarship Programme 2026The France–South Africa Scholarship Programme supports eligible students intending to undertake a master’s degree or PhD at a French university or higher education institution. The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-07"
-  },
-  {
    "id": "f-fd967fe7e905",
    "title": "30 Masters, Ph.D and Other Scholarship Opportunities Currently Open - September 16, 2026",
    "provider": "Listed on Opportunity Desk",
@@ -4844,30 +4820,6 @@
    "score": 6,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-07"
-  },
-  {
-   "id": "f-466ebefa2bd8",
-   "title": "Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/09/28/fellowship-in-outbreak-readiness-for-global-health-protection-2026/",
-   "category": "research",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "unknown",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "Deadline: October 21, 2026 Applications are open for the Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026. The \"Fellowship in Outbreak Readiness for Global Health Protection\" (FOR-GHP) is funded by the...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-09-28"
   },
   {
    "id": "f-308d14ca7956",
@@ -5715,28 +5667,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-06"
-  },
-  {
-   "id": "f-63f3431a4bea",
-   "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
-   "category": "training",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-10-21",
-   "window": "Deadline 2026-10-21",
-   "summary": "The Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) is inviting qualified public health and biomedical professionals from sub-Saharan Africa to apply for a comprehensive 1.5-year fellowship focused on...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-02"
   },
   {
    "id": "f-2e8ce66ff317",
