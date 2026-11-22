@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-21T19:19:26.734Z",
-  "total": 256,
+  "generatedAt": "2026-11-22T06:52:30.279Z",
+  "total": 253,
   "curated": 40,
   "sources": [
    {
@@ -14,9 +14,9 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 32,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -648,8 +648,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-21T19:16:26.864Z"
+   "checkedAt": "2026-11-22T06:49:58.308Z"
   },
   {
    "category": "funding",
@@ -1352,30 +1352,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-29"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dd85107948a3",
-   "title": "Emerging Leaders Programme 2026–2027: Leadership Development Opportunity for Mid-Level Executives Across Africa",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/03/emerging-leaders-programme-2026-2027-leadership-development-opportunity-for-mid-level-executives-across-africa/",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-23",
-   "window": "Deadline 2026-10-23",
-   "summary": "Are you a mid-level professional looking to strengthen your leadership capabilities, develop greater self-awareness, build resilience, and learn how to mobilise people to create meaningful change? The UONGOZI Institute Emerging...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-03"
   },
   {
    "category": "funding",
@@ -1969,31 +1945,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-18"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-7f3b9ed9cb65",
-   "title": "The European University Institute Jean Monnet Fellowships 2027 for PhD Scholars (€ 2,850 per month grant and Fully...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/",
-   "level": [
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": "2026-10-23",
-   "window": "Deadline 2026-10-23",
-   "summary": "Application Deadline: 23 October 2026 (14:00 CEST). Applications are now open for the 2027 European University Institute Jean Monnet Fellowships. The Robert Schuman Centre for Advanced Studies offers one-year Jean The post The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-09-16"
   },
   {
    "category": "funding",
@@ -3608,30 +3559,6 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-02"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dd5914b3479d",
-   "title": "TTS Nigeria Programme 2026–2027: Applications Open for Free Technology and Workforce Development Programme for Young...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/24/tts-nigeria-programme/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Technology Talent Services (TTS) Nigeria Programme is a free technology skills and workforce development initiative designed to equip young Nigerian women with practical, career-focused skills and strengthen their pathways...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-24"
   },
   {
    "category": "funding",
