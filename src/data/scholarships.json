@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-22T19:44:07.977Z",
-  "total": 253,
+  "generatedAt": "2026-11-23T07:43:18.595Z",
+  "total": 254,
   "curated": 40,
   "sources": [
    {
@@ -27,10 +27,10 @@
    },
    {
     "name": "Funds for NGOs",
-    "ok": false,
-    "scanned": 0,
+    "ok": true,
+    "scanned": 25,
     "matched": 0,
-    "failed": 1
+    "failed": 0
    }
   ]
  },
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-22T19:41:36.166Z"
+   "checkedAt": "2026-11-23T07:40:12.547Z"
   },
   {
    "category": "funding",
@@ -3969,6 +3969,30 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-12"
+  },
+  {
+   "id": "f-c2694d8207a2",
+   "title": "Johan Huizinga Fellowship 2027–2028 in the Netherlands Fully Funded Research Fellowship Offering Up to €45,000 Stipend",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/23/johan-huizinga-fellowship-2027-2028-in-the-netherlands-fully-funded-research-fellowship-offering-up-to-e45000-stipend/",
+   "category": "research",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2027-02-04",
+   "window": "Deadline 2027-02-04",
+   "summary": "The Johan Huizinga Fellowship 2027–2028 at the Rijksmuseum in Amsterdam, Netherlands, is an excellent opportunity for early-career scholars, MA graduates, PhD students, and postdoctoral researchers interested in conducting...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-23"
   },
   {
    "id": "f-c6a2bfead4c6",
