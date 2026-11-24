@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-23T23:58:00.496Z",
-  "total": 255,
+  "generatedAt": "2026-11-24T10:00:41.243Z",
+  "total": 248,
   "curated": 40,
   "sources": [
    {
@@ -14,15 +14,15 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
-    "matched": 32,
-    "failed": 1
+    "scanned": 430,
+    "matched": 28,
+    "failed": 5
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 375,
-    "matched": 123,
+    "matched": 122,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-23T23:54:41.545Z"
+   "checkedAt": "2026-11-24T09:55:50.599Z"
   },
   {
    "category": "funding",
@@ -1232,30 +1232,6 @@
   {
    "category": "funding",
    "remote": false,
-   "id": "f-a8f3c1bb9434",
-   "title": "The Sanlam Group Graduate Programme 2027 for young South African graduates.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-sanlam-group-graduate-programme-2027-for-young-south-african-graduates/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 Sanlam Group Graduate Programme. The Sanlam Group is looking for exceptional young talent eager to make a difference. The 24-month The post The Sanlam Group...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-26"
-  },
-  {
-   "category": "funding",
-   "remote": false,
    "id": "f-5a758443668f",
    "title": "Brunel University of London and China Scholarship Council PhD Scholarship 2027/28 Fully Funded PhD in the UK",
    "provider": "Listed on Opportunities for Youth",
@@ -1378,30 +1354,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-03"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-ff7d86ce6705",
-   "title": "ActHIVate Fund Grants 2026–2028: €2 Million Funding for MSM and Trans-Led Organisations Advancing HIV Services, Advocacy...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/14/acthivate-fund-grants-2026-2028-e2-million-funding-for-msm-and-trans-led-organisations-advancing-hiv-services-advocacy-and-inclusive-healthcare/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Aidsfonds has announced the upcoming launch of the ActHIVate Fund Request for Proposals , a new funding opportunity designed to strengthen community-led HIV responses for men who have sex with men (MSM) and trans communities in...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 10,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-14"
   },
   {
    "category": "funding",
@@ -4187,30 +4139,6 @@
    "addedAt": "2026-10-21"
   },
   {
-   "id": "f-291b86cf8cdd",
-   "title": "The Afrinvest Analyst Programme (TAAP) 2027 for Young Nigerian Graduates (24-Month Programme)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-afrinvest-analyst-programme-taap-2027-for-young-nigerian-graduates-24-month-programme/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Application Deadline: October 25, 2026 Applications are now open for the 2027 Afrinvest Analyst Programme. Afrinvest is seeking enthusiastic and self-motivated Analysts to join our comprehensive training program. This role The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 5,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-14"
-  },
-  {
    "id": "f-e13ab263496c",
    "title": "The Humboldt Residency Programme 2027 for Researchers, Creatives and Civil Society Practitioners (Fully Funded to...",
    "provider": "Listed on Opportunities for Africans",
@@ -4306,30 +4234,6 @@
    "score": 3,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-27"
-  },
-  {
-   "id": "f-8b299d0fd2c3",
-   "title": "The University of Global Health Equity (UGHE) Mastercard Foundation Scholars Program 2027 for African healthcare...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Application Deadline: 25 October 2026 Applications are now open for the 2027 University of Global Health Equity (UGHE) Mastercard Foundation Scholars Program. The Master of Science in Health Professions Education The post The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 8,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-06"
   },
   {
    "id": "f-950251a13334",
@@ -4673,30 +4577,6 @@
    "addedAt": "2026-11-13"
   },
   {
-   "id": "f-0f2b41eae2da",
-   "title": "The Refugee-Led Research Hub (RLRH) Graduate Horizons Mentorship and Scholarship Programme for African refugee and...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-refugee-led-research-hub-rlrh-graduate-horizons-mentorship-and-scholarship-programme/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Application Deadline: 25th October, 2026 5 pm BST (UK time) Applications are now open for the 2026 RLRH’s Graduate Horizons Mentorship and Scholarship Programme. Are you an African learner with The post The Refugee-Led Research...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-19"
-  },
-  {
    "id": "f-2966c7128902",
    "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master's Scholarships in Public Health.",
    "provider": "Listed on Opportunities for Africans",
@@ -4722,30 +4602,6 @@
    "addedAt": "2026-11-17"
   },
   {
-   "id": "f-9bde88c3d9a8",
-   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-14",
-   "window": "Deadline 2026-12-14",
-   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-31"
-  },
-  {
    "id": "f-5a071a68ba4d",
    "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
    "provider": "Listed on Opportunity Desk",
@@ -4768,6 +4624,30 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-11-21"
+  },
+  {
+   "id": "f-9bde88c3d9a8",
+   "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-10-31"
   },
   {
    "id": "f-43bab04f0fa8",
@@ -4817,30 +4697,6 @@
    "score": 3,
    "source": "Opportunity Desk",
    "addedAt": "2026-09-16"
-  },
-  {
-   "id": "f-2d0cf33f047c",
-   "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-25",
-   "window": "Deadline 2026-10-25",
-   "summary": "Deadline: October 25, 2026 Applications are open for the University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027. The Master of Science in Health Professions Education (MSc in...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-10-07"
   },
   {
    "id": "f-308d14ca7956",
@@ -5086,32 +4942,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-08-27"
-  },
-  {
-   "id": "f-dadc0e3c2c04",
-   "title": "Erasmus Mundus Joint Masters Scholarships 2026–2027: Study Across Europe with Fully Funded Scholarship Opportunities",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/08/26/apply-for-an-erasmus-mundus-joint-mastersfully-funded-scholarships-for-students-worldwide/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Erasmus Mundus Joint Masters (EMJM) programme offers an exceptional opportunity for students from around the world to pursue an international master's degree through a consortium of universities located in different countries...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-08-26"
   },
   {
    "id": "f-d3ffdf2deb48",
@@ -5696,6 +5526,31 @@
    "addedAt": "2026-10-08"
   },
   {
+   "id": "f-14b53c342e13",
+   "title": "UC Merced PhD in Public Health 2027: Fully Funded Doctoral Program for Domestic and International Students",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/07/uc-merced-phd-in-public-health-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-15",
+   "window": "Deadline 2026-12-15",
+   "summary": "The UC Merced PhD in Public Health 2027 offers an advanced doctoral opportunity for students seeking to pursue research, scholarship, and professional careers in public health. Offered by the University of California, Merced (UC...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-07"
+  },
+  {
    "id": "f-52224b165f39",
    "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
    "provider": "Listed on Opportunities for Youth",
@@ -5821,31 +5676,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-13"
-  },
-  {
-   "id": "f-14b53c342e13",
-   "title": "UC Merced PhD in Public Health 2027: Fully Funded Doctoral Program for Domestic and International Students",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/07/uc-merced-phd-in-public-health-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-15",
-   "window": "Deadline 2026-12-15",
-   "summary": "The UC Merced PhD in Public Health 2027 offers an advanced doctoral opportunity for students seeking to pursue research, scholarship, and professional careers in public health. Offered by the University of California, Merced (UC...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-07"
   },
   {
    "id": "f-9cd05c6e0917",
