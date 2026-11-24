@@ -1,28 +1,28 @@
 {
  "meta": {
-  "generatedAt": "2026-11-24T10:00:41.243Z",
-  "total": 248,
+  "generatedAt": "2026-11-24T22:30:00.221Z",
+  "total": 249,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 153,
+    "matched": 150,
     "failed": 0
    },
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 430,
-    "matched": 28,
-    "failed": 5
+    "scanned": 470,
+    "matched": 31,
+    "failed": 1
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 375,
-    "matched": 122,
+    "scanned": 376,
+    "matched": 119,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T09:55:50.599Z"
+   "checkedAt": "2026-11-24T22:27:13.763Z"
   },
   {
    "category": "funding",
@@ -3947,17 +3947,17 @@
    "addedAt": "2026-11-23"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-e0fbca24c97b",
    "title": "The Liveability Challenge 2027: Global Call for Innovative Sustainability Solutions with S$5.5 Million in Catalytic...",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/11/23/the-liveability-challenge-2027-global-call-for-innovative-sustainability-solutions-with-s5-5-million-in-catalytic-funding-and-support/",
-   "category": "funding",
    "level": [
     "masters"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "specific",
    "deadline": "2027-02-12",
    "window": "Deadline 2027-02-12",
@@ -3969,6 +3969,54 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-23"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-be4118a77508",
+   "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters Ph.D. Study in France (Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "medical": "open",
+   "deadline": "2027-01-06",
+   "window": "Deadline 2027-01-06",
+   "summary": "Application Deadline: January 6, 2027 Applications are now open for the 2027 French Government Eiffel Excellence Scholarship Programme. The France Excellence Eiffel scholarship program is a tool developed by the The post The...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-10-14"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-950251a13334",
+   "title": "The Mastercard Foundation AfOx Scholarship Programme 2027/2028 for young Africans ( Funded MBA study at the University...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-mastercard-foundation-afox-scholarship-programme-2027-2028/",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "medical": "open",
+   "deadline": "2027-01-06",
+   "window": "Deadline 2027-01-06",
+   "summary": "Application Deadline: 6 January 2027 Applications are now open for the 2027/2028 Mastercard Foundation AfOx Scholarship Programme. The University of Oxford and the Mastercard Foundation have established an innovative and The post...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-08-10"
   },
   {
    "id": "f-c6a2bfead4c6",
@@ -4188,30 +4236,6 @@
    "addedAt": "2026-09-02"
   },
   {
-   "id": "f-be4118a77508",
-   "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters Ph.D. Study in France (Funded)",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2027-01-06",
-   "window": "Deadline 2027-01-06",
-   "summary": "Application Deadline: January 6, 2027 Applications are now open for the 2027 French Government Eiffel Excellence Scholarship Programme. The France Excellence Eiffel scholarship program is a tool developed by the The post The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-14"
-  },
-  {
    "id": "f-614c3d8ab839",
    "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
    "provider": "Listed on Opportunities for Africans",
@@ -4236,30 +4260,6 @@
    "addedAt": "2026-10-27"
   },
   {
-   "id": "f-950251a13334",
-   "title": "The Mastercard Foundation AfOx Scholarship Programme 2027/2028 for young Africans ( Funded MBA study at the University...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-mastercard-foundation-afox-scholarship-programme-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2027-01-06",
-   "window": "Deadline 2027-01-06",
-   "summary": "Application Deadline: 6 January 2027 Applications are now open for the 2027/2028 Mastercard Foundation AfOx Scholarship Programme. The University of Oxford and the Mastercard Foundation have established an innovative and The post...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-10"
-  },
-  {
    "id": "f-ac47e2adb8f0",
    "title": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship 2027/2028 for Study in France (Fully Funded)",
    "provider": "Listed on Opportunities for Africans",
@@ -4282,6 +4282,30 @@
    "score": 6,
    "source": "Opportunities for Africans",
    "addedAt": "2026-11-11"
+  },
+  {
+   "id": "f-7fe7c097b9b8",
+   "title": "The ANSO-CAS-TWAS/UNESCO PhD Scholarship 2027 for students/scholars from developing countries.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-anso-cas-twas-unesco-phd-scholarship-2027/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "China",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2027-02-28",
+   "window": "Deadline 2027-02-28",
+   "summary": "Application Deadline: 28 February 2027 Applications are now open for the 2027 ANSO-CAS-TWAS/UNESCO PhD Scholarship. According to an agreement between the Alliance of International Science Organizations (ANSO), the Chinese Academy...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-24"
   },
   {
    "id": "f-9862e3be92cd",
@@ -4602,30 +4626,6 @@
    "addedAt": "2026-11-17"
   },
   {
-   "id": "f-5a071a68ba4d",
-   "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
-   "provider": "Listed on Opportunity Desk",
-   "url": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-31",
-   "window": "Deadline 2026-12-31",
-   "summary": "Deadline: December 31, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028. The Mastercard Foundation Scholars Program at the University of Cambridge enables talented...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunity Desk",
-   "addedAt": "2026-11-21"
-  },
-  {
    "id": "f-9bde88c3d9a8",
    "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
    "provider": "Listed on Opportunity Desk",
@@ -4648,6 +4648,30 @@
    "score": 3,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-31"
+  },
+  {
+   "id": "f-5a071a68ba4d",
+   "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
+   "provider": "Listed on Opportunity Desk",
+   "url": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "open",
+   "deadline": "2026-12-31",
+   "window": "Deadline 2026-12-31",
+   "summary": "Deadline: December 31, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028. The Mastercard Foundation Scholars Program at the University of Cambridge enables talented...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunity Desk",
+   "addedAt": "2026-11-21"
   },
   {
    "id": "f-43bab04f0fa8",
@@ -5141,6 +5165,31 @@
    "addedAt": "2026-10-30"
   },
   {
+   "id": "f-8425fa1bb9d9",
+   "title": "Gates Cambridge Scholarship 2027–2028: Fully Funded Postgraduate Scholarships at the University of Cambridge, UK",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/27/the-gates-cambridge-scholarship-your-path-to-excellence-fully-funded/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The Gates Cambridge Scholarship is one of the world's leading postgraduate scholarship programmes, offering outstanding international students the opportunity to pursue eligible postgraduate degrees at the University of Cambridge...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-27"
+  },
+  {
    "id": "f-27270da09477",
    "title": "BioPREVAIL × CEPI Biosecurity Innovation Challenge 2026: Apply for Up to US$50,000 in Seed Funding and a Six-Month...",
    "provider": "Listed on Opportunities for Youth",
@@ -5235,31 +5284,6 @@
    "score": 4,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-28"
-  },
-  {
-   "id": "f-8425fa1bb9d9",
-   "title": "Gates Cambridge Scholarship 2027–2028: Fully Funded Postgraduate Scholarships at the University of Cambridge, UK",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/27/the-gates-cambridge-scholarship-your-path-to-excellence-fully-funded/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The Gates Cambridge Scholarship is one of the world's leading postgraduate scholarship programmes, offering outstanding international students the opportunity to pursue eligible postgraduate degrees at the University of Cambridge...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-27"
   },
   {
    "id": "f-9b95ead6ca23",
