@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-11-25T08:39:05.150Z",
-  "total": 249,
+  "generatedAt": "2026-11-25T21:45:35.501Z",
+  "total": 252,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 150,
+    "matched": 149,
     "failed": 0
    },
    {
@@ -21,16 +21,16 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 376,
-    "matched": 129,
+    "scanned": 377,
+    "matched": 128,
     "failed": 0
    },
    {
     "name": "Funds for NGOs",
-    "ok": true,
-    "scanned": 25,
+    "ok": false,
+    "scanned": 0,
     "matched": 0,
-    "failed": 0
+    "failed": 1
    }
   ]
  },
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "australia-awards-africa",
@@ -340,8 +340,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T08:36:14.276Z"
+   "checkedAt": "2026-11-25T21:42:56.882Z"
   },
   {
    "category": "funding",
@@ -4021,18 +4021,18 @@
    "addedAt": "2026-11-20"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-860ae97bc55d",
    "title": "IGC Expression of Interest 2026: Submit Your Research Ideas for Upcoming International Growth Centre Funding...",
    "provider": "Listed on Opportunities for Youth",
    "url": "https://opportunitiesforyouth.org/2026/11/25/igc-expression-of-interest-2026-submit-your-research-ideas-for-upcoming-international-growth-centre-funding-opportunities-2027/",
-   "category": "funding",
    "level": [
     "phd",
     "research"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "open",
    "deadline": null,
    "window": "Deadline not stated in the listing. Open the link to confirm.",
@@ -4043,6 +4043,130 @@
    "kind": "feed",
    "score": 2,
    "source": "Opportunities for Youth",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-e13ab263496c",
+   "title": "The Humboldt Residency Programme 2027 for Researchers, Creatives and Civil Society Practitioners (Fully Funded to...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Germany",
+   "medical": "open",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "Application Deadline: December 14, 2026. Applications are now open for the 2027 Humboldt Residency Programme. The Humboldt Residency Programme brings together a transdisciplinary, international group of twelve participants...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-06"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-c5a4c3623e85",
+   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-6c9f12f858ea",
+   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
+   "level": [
+    "masters",
+    "phd"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "f-2ad83935416b",
+   "title": "Ghent University Doctoral Scholarships 2027 for Candidates from the Global South to Study in Belgium (Funded)",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/ghent-university-doctoral-scholarships-2027-for-candidates-from-the-global-south/",
+   "category": "funding",
+   "level": [
+    "phd"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Applications are now open for the 2027 Ghent University Doctoral Scholarships. With support from its “Special Research Fund” (BOF) Ghent University grants annually 15 PhD “sandwich” scholarships to The post...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "f-a03f851f19ef",
+   "title": "The SAP Young Professionals Program 2027 for young African graduates.",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-sap-young-professionals-program-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 SAP Young Professionals Program. The SAP Young Professionals Program is a free initiative delivered by the Digital Skills Center of The post The SAP Young...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Africans",
    "addedAt": "2026-11-25"
   },
   {
@@ -4212,30 +4336,6 @@
    "score": 2,
    "source": "Opportunities for Africans",
    "addedAt": "2026-10-21"
-  },
-  {
-   "id": "f-e13ab263496c",
-   "title": "The Humboldt Residency Programme 2027 for Researchers, Creatives and Civil Society Practitioners (Fully Funded to...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/",
-   "category": "funding",
-   "level": [
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Germany",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-12-14",
-   "window": "Deadline 2026-12-14",
-   "summary": "Application Deadline: December 14, 2026. Applications are now open for the 2027 Humboldt Residency Programme. The Humboldt Residency Programme brings together a transdisciplinary, international group of twelve participants...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-11-06"
   },
   {
    "id": "f-c37468c14964",
@@ -5701,33 +5801,6 @@
    "addedAt": "2026-10-15"
   },
   {
-   "id": "f-c5a4c3623e85",
-   "title": "Graduate Assistantships at the University of Washington 2027: Fully Funded Graduate Study in the USA",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/graduate-assistantships-at-the-university-of-washington-2027-fully-funded-graduate-study-in-the-usa/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Are you planning to pursue a master's degree or PhD in the United States and looking for an opportunity to reduce your educational expenses while earning a regular salary? The Graduate Assistantships at the University of...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
-  },
-  {
    "id": "f-9cd05c6e0917",
    "title": "2027–2028 CEGA Fellowship Program at UC Berkeley: Research Fellowship for East and West African Social Scientists",
    "provider": "Listed on Opportunities for Youth",
@@ -5750,6 +5823,28 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-15"
+  },
+  {
+   "id": "f-512543da5ac4",
+   "title": "WHO Academy Offers 400+ Free Online Courses for Health Workers Worldwide in More Than 20 Languages",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/25/who-academy-offers-400-free-online-courses-for-health-workers-worldwide-in-more-than-20-languages/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Introduction Health professionals and healthcare workers around the world now have an opportunity to strengthen their professional knowledge, improve their skills, and access quality learning resources through the World Health...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-25"
   },
   {
    "id": "f-5d83fd242aca",
@@ -5844,31 +5939,6 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-16"
-  },
-  {
-   "id": "f-6c9f12f858ea",
-   "title": "France Excellence Eiffel Scholarship 2027: Study in France with Monthly Funding of Up to €2,100 for Master’s and PhD...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/13/applications-open-france-excellence-eiffel-scholarship-program-2026/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The France Excellence Eiffel Scholarship Programme is an international scholarship initiative developed by the French Ministry for Europe and Foreign Affairs to help French higher education institutions attract outstanding...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-13"
   },
   {
    "id": "f-cb09acba032c",
