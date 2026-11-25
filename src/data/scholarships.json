@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-24T22:30:00.221Z",
+  "generatedAt": "2026-11-25T08:39:05.150Z",
   "total": 249,
   "curated": 40,
   "sources": [
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 376,
-    "matched": 119,
+    "matched": 129,
     "failed": 0
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "daad-epos",
@@ -161,7 +161,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-24T22:27:13.763Z"
+   "checkedAt": "2026-11-25T08:36:14.276Z"
   },
   {
    "category": "funding",
@@ -1204,30 +1204,6 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-28"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-4aa96609ca6c",
-   "title": "KPMG Supply Chain Management Consulting Graduate Programme 2027 for young South African graduates.",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/kpmg-supply-chain-management-consulting-graduate-programme-2027/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "South Africa",
-   "medical": "open",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "Application Deadline: Unspecified Applications are now open for the 2027 KPMG Supply Chain Management Consulting Graduate Programme. KPMG's Management Consulting Graduate Programme offers graduates the opportunity to build a...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-08-27"
   },
   {
    "category": "funding",
@@ -2116,30 +2092,6 @@
    "score": 2,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-21"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-4258b5c41684",
-   "title": "Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027–2028: CHF 25,000 Annual Scholarship for Afghan Women to...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/25/maria-rosario-lazzati-niada-scholarship-for-afghan-women-2027-2028-chf-25000-annual-scholarship-for-afghan-women-to-study-a-masters-in-geneva/",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Switzerland",
-   "medical": "open",
-   "deadline": "2026-10-26",
-   "window": "Deadline 2026-10-26",
-   "summary": "The Maria Rosario Lazzati Niada Scholarship for Afghan Women is now accepting applications for the 2027–2028 academic year , offering an important postgraduate study opportunity for talented Afghan women who hold a university...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 2,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-25"
   },
   {
    "category": "funding",
@@ -4019,6 +3971,81 @@
    "addedAt": "2026-08-10"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-281440f90d62",
+   "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/09/frank-knox-memorial-fellowships-2027-at-harvard-university-fully-funded-masters-scholarships-for-uk-canadian-australian-and-new-zealand-student/",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "United Kingdom",
+   "medical": "specific",
+   "deadline": "2027-02-01",
+   "window": "Deadline 2027-02-01",
+   "summary": "Applications are now open for the 2027 Frank Knox Memorial Fellowships at Harvard University, offering eligible students from the United Kingdom, Canada, Australia and New Zealand an opportunity to pursue postgraduate studies at...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-09"
+  },
+  {
+   "category": "funding",
+   "remote": false,
+   "id": "f-2130216b8086",
+   "title": "Afield Nature Communities Fund 2026: Apply for Up to £60,000 to Lead a Two-Year Community-Led Nature Project in London",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/20/afield-nature-communities-fund-2026-apply-for-up-to-60000-to-lead-a-two-year-community-led-nature-project-in-london/",
+   "level": [
+    "fellowship"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "medical": "specific",
+   "deadline": "2026-12-02",
+   "window": "Deadline 2026-12-02",
+   "summary": "The Afield Nature Communities Fund 2026 is offering an exciting funding opportunity for individuals with creative ideas to transform local environments and strengthen the relationship between people and nature in London. Through...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 1,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-20"
+  },
+  {
+   "id": "f-860ae97bc55d",
+   "title": "IGC Expression of Interest 2026: Submit Your Research Ideas for Upcoming International Growth Centre Funding...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/25/igc-expression-of-interest-2026-submit-your-research-ideas-for-upcoming-international-growth-centre-funding-opportunities-2027/",
+   "category": "funding",
+   "level": [
+    "phd",
+    "research"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "open",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The International Growth Centre (IGC) has announced a new Expression of Interest (EOI) opportunity for researchers interested in collaborating on high-quality research projects addressing economic development, public policy...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-25"
+  },
+  {
    "id": "f-c6a2bfead4c6",
    "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan)",
    "provider": "Listed on Opportunities for Africans",
@@ -4501,30 +4528,6 @@
    "addedAt": "2026-10-22"
   },
   {
-   "id": "f-ec5426c96117",
-   "title": "The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 for young...",
-   "provider": "Listed on Opportunities for Africans",
-   "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "open",
-   "deadline": "2026-10-26",
-   "window": "Deadline 2026-10-26",
-   "summary": "Application Deadline: 26 October 2026, 5pm Applications are now open for the 2027/2028 University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program. Scholars will pursue a one year The post The...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Africans",
-   "addedAt": "2026-10-20"
-  },
-  {
    "id": "f-bef57a7f961b",
    "title": "Deloitte Nigeria’s 2026 Africa Consulting Services (ACS) Academy for young Nigerian graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -4795,32 +4798,6 @@
    "addedAt": "2026-11-14"
   },
   {
-   "id": "f-281440f90d62",
-   "title": "Frank Knox Memorial Fellowships 2027 at Harvard University: Fully Funded Master’s Scholarships for UK, Canadian...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/09/frank-knox-memorial-fellowships-2027-at-harvard-university-fully-funded-masters-scholarships-for-uk-canadian-australian-and-new-zealand-student/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "United Kingdom",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-02-01",
-   "window": "Deadline 2027-02-01",
-   "summary": "Applications are now open for the 2027 Frank Knox Memorial Fellowships at Harvard University, offering eligible students from the United Kingdom, Canada, Australia and New Zealand an opportunity to pursue postgraduate studies at...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-09"
-  },
-  {
    "id": "f-04837d984d87",
    "title": "KU Leuven PhD Scholarship 2026 in Human Rights Law, Belgium: Fully Funded Doctoral Research Opportunity for Law...",
    "provider": "Listed on Opportunities for Youth",
@@ -4868,6 +4845,30 @@
    "score": 5,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-28"
+  },
+  {
+   "id": "f-8757d622e209",
+   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-22",
+   "window": "Deadline 2026-11-22",
+   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-28"
   },
   {
    "id": "f-42d71eec3685",
@@ -5068,28 +5069,77 @@
    "addedAt": "2026-11-05"
   },
   {
-   "id": "f-2130216b8086",
-   "title": "Afield Nature Communities Fund 2026: Apply for Up to £60,000 to Lead a Two-Year Community-Led Nature Project in London",
+   "id": "f-0db2b9297e92",
+   "title": "NipCA Fellowship Programs 2027 at University of Tsukuba, Japan Fully Funded Master's Scholarships for Central Asian and...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/20/afield-nature-communities-fund-2026-apply-for-up-to-60000-to-lead-a-two-year-community-led-nature-project-in-london/",
+   "url": "https://opportunitiesforyouth.org/2026/11/25/nipca-fellowship-programs-2027-at-university-of-tsukuba-japan-fully-funded-masters-scholarships-for-central-asian-and-eurasian-students/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-15",
+   "window": "Deadline 2027-01-15",
+   "summary": "The Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA Project) at the University of Tsukuba, Japan, is inviting applications for its 2027 NipCA Fellowship Programs. These competitive fellowship...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "f-5c260952edad",
+   "title": "Master of Global Challenges 2027 in the Netherlands with Scholarships of Up to €6,200 for East African Professionals",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/25/master-of-global-challenges-2027-in-the-netherlands-with-scholarships-of-up-to-e6200-for-east-african-professionals/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Netherlands",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-11-30",
+   "window": "Deadline 2026-11-30",
+   "summary": "The Master of Global Challenges 2027 offers an exciting opportunity for professionals working in international development to advance their academic qualifications, strengthen their leadership capabilities and develop practical...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "f-f08067822d65",
+   "title": "Nestlé MILE 2027: Apply for Nestlé’s 3-Day Leadership Immersion and Learning Experience in the Philippines – Unlock...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/25/nestle-mile-2027-apply-for-nestles-3-day-leadership-immersion-and-learning-experience-in-the-philippines-unlock-career-opportunities-with-a-global-company/",
    "category": "funding",
    "level": [
     "fellowship"
    ],
    "funding": "unknown",
-   "destination": "United Kingdom",
+   "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": "2026-12-02",
-   "window": "Deadline 2026-12-02",
-   "summary": "The Afield Nature Communities Fund 2026 is offering an exciting funding opportunity for individuals with creative ideas to transform local environments and strengthen the relationship between people and nature in London. Through...",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "is inviting applications for the Nestlé Management Immersion & Learning Experience (MILE) 2027, an intensive three-day leadership development bootcamp designed for high-potential penultimate-year and graduating students who aspire...",
    "tags": [
     "Check eligibility"
    ],
    "kind": "feed",
    "score": 1,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-11-20"
+   "addedAt": "2026-11-25"
   },
   {
    "id": "f-99b244a0e486",
@@ -5260,30 +5310,6 @@
    "score": 1,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-05"
-  },
-  {
-   "id": "f-8757d622e209",
-   "title": "Mastercard Foundation and Arizona State University 2027 Innovation and Technology Scholarship: Fully Funded Master’s...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/28/asu-and-mastercard-foundation-scholars-program-announce-remote-africa-based-coordinator-position/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "full",
-   "destination": "Africa",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-11-22",
-   "window": "Deadline 2026-11-22",
-   "summary": "Are you a young African professional looking for a fully funded master’s degree in technology, business analytics, computer science, engineering, or user experience? The 2027 Innovation and Technology Scholarship Application...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-28"
   },
   {
    "id": "f-9b95ead6ca23",
@@ -5997,32 +6023,6 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-04"
-  },
-  {
-   "id": "f-0a925c1c9b93",
-   "title": "Mastercard Foundation Scholarships 2026–2027: Fully Funded Opportunities at Top Universities in Africa, Europe, North...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/28/mastercard-foundation-scholarships-2026-2027-fully-funded-opportunities-at-top-universities-in-africa-europe-north-america-and-beyond/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-26",
-   "window": "Deadline 2026-10-26",
-   "summary": "The Mastercard Foundation Scholars Program offers educational and professional development opportunities to talented young people who face significant financial, social, or economic barriers to accessing higher education. Through...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-10-28"
   },
   {
    "id": "f-fb276a089aa9",
