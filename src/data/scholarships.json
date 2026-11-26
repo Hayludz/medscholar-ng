@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generatedAt": "2026-11-25T21:45:35.501Z",
-  "total": 252,
+  "generatedAt": "2026-11-26T08:22:33.509Z",
+  "total": 254,
   "curated": 40,
   "sources": [
    {
@@ -21,16 +21,16 @@
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 377,
-    "matched": 128,
-    "failed": 0
+    "scanned": 368,
+    "matched": 138,
+    "failed": 1
    },
    {
     "name": "Funds for NGOs",
-    "ok": false,
-    "scanned": 0,
+    "ok": true,
+    "scanned": 25,
     "matched": 0,
-    "failed": 1
+    "failed": 0
    }
   ]
  },
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "australia-awards-africa",
@@ -340,8 +340,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "linkStatus": "unreachable",
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-25T21:42:56.882Z"
+   "checkedAt": "2026-11-26T08:19:30.663Z"
   },
   {
    "category": "funding",
@@ -2827,32 +2827,6 @@
    "score": 10,
    "source": "Opportunities for Youth",
    "addedAt": "2026-09-15"
-  },
-  {
-   "category": "funding",
-   "remote": false,
-   "id": "f-dfa9600df205",
-   "title": "Global Studies University UAE Admissions 2027: MA and PhD Programs, Scholarships, Fees, Eligibility and Deadlines",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/09/07/global-studies-university-uae-admissions-2027-ma-and-phd-programs-scholarships-fees-eligibility-and-deadlines/",
-   "level": [
-    "masters",
-    "phd",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "medical": "specific",
-   "deadline": "2026-10-27",
-   "window": "Deadline 2026-10-27",
-   "summary": "Applications are open for the Fall 2027 graduate intake at Global Studies University in Sharjah, United Arab Emirates. Prospective students can apply for the two-year Master of Arts in Global African Studies or the five-year...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-09-07"
   },
   {
    "category": "funding",
@@ -5069,6 +5043,33 @@
    "addedAt": "2026-08-27"
   },
   {
+   "id": "f-2044668b3e08",
+   "title": "INTERACT-Africa Scholarships 2026/2027: Fully Funded Postgraduate Research Opportunities in Kenya, Uganda, Tanzania and...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/26/interact-africa-scholarships-2026-2027-fully-funded-postgraduate-research-opportunities-in-kenya-uganda-tanzania-and-ethiopia-apply-for-msc-and-phd-mobility-grants-worth-up-to-e1230-per/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Africa",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-01",
+   "window": "Deadline 2027-01-01",
+   "summary": "African postgraduate students seeking international academic exposure, advanced research opportunities and financial support for their studies have a new opportunity through the INTERACT-Africa Project. The project has announced...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-26"
+  },
+  {
    "id": "f-d3ffdf2deb48",
    "title": "9 Scholarship Opportunities for Refugees in 2026–2027: Undergraduate, Master’s and PhD Funding in Africa, Europe, North...",
    "provider": "Listed on Opportunities for Youth",
@@ -5167,6 +5168,30 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-05"
+  },
+  {
+   "id": "f-1f502747de82",
+   "title": "University of York NatWest Life Sciences Accelerator 2027 – Free 12-Week Programme in the UK for Global Life Sciences...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/26/university-of-york-natwest-life-sciences-accelerator-2027-free-12-week-programme-in-the-uk-for-global-life-sciences-businesses/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "United Kingdom",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-14",
+   "window": "Deadline 2026-12-14",
+   "summary": "The University of York and NatWest Life Sciences Accelerator 2027 is a free, 12-week business accelerator programme designed to support life sciences entrepreneurs, founders, startups and established businesses looking to...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 2,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-26"
   },
   {
    "id": "f-0db2b9297e92",
@@ -5823,6 +5848,28 @@
    "score": 6,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-15"
+  },
+  {
+   "id": "f-f4f2f059227d",
+   "title": "WHO Academy Free Online Courses 2026 – Enroll in Free WHO Training Courses and Gain Global Health Skills",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/26/who-academy-free-online-courses-2026-enroll-in-free-who-training-courses-and-gain-global-health-skills/",
+   "category": "training",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The World Health Organization (WHO) Academy provides an opportunity for learners and health professionals worldwide to develop their knowledge, strengthen their professional skills, and access high-quality educational resources...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-26"
   },
   {
    "id": "f-512543da5ac4",
