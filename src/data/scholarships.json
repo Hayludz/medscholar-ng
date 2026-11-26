@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generatedAt": "2026-11-26T08:22:33.509Z",
-  "total": 254,
+  "generatedAt": "2026-11-26T21:35:53.242Z",
+  "total": 258,
   "curated": 40,
   "sources": [
    {
     "name": "Opportunities for Africans",
     "ok": true,
     "scanned": 480,
-    "matched": 149,
+    "matched": 151,
     "failed": 0
    },
    {
@@ -22,7 +22,7 @@
     "name": "Opportunities for Youth",
     "ok": true,
     "scanned": 368,
-    "matched": 138,
+    "matched": 145,
     "failed": 1
    },
    {
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "linkStatus": "ok",
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T08:19:30.663Z"
+   "checkedAt": "2026-11-26T21:33:11.761Z"
   },
   {
    "category": "funding",
@@ -4096,17 +4096,17 @@
    "addedAt": "2026-10-13"
   },
   {
+   "category": "funding",
+   "remote": false,
    "id": "f-2ad83935416b",
    "title": "Ghent University Doctoral Scholarships 2027 for Candidates from the Global South to Study in Belgium (Funded)",
    "provider": "Listed on Opportunities for Africans",
    "url": "https://www.opportunitiesforafricans.com/ghent-university-doctoral-scholarships-2027-for-candidates-from-the-global-south/",
-   "category": "funding",
    "level": [
     "phd"
    ],
    "funding": "unknown",
    "destination": "Varies",
-   "remote": false,
    "medical": "specific",
    "deadline": null,
    "window": "Deadline not stated in the listing. Open the link to confirm.",
@@ -4703,6 +4703,30 @@
    "addedAt": "2026-11-17"
   },
   {
+   "id": "f-f989bca30c62",
+   "title": "The International Agency for Research on Cancer (IARC) Summer School 2027 for researchers and health professionals...",
+   "provider": "Listed on Opportunities for Africans",
+   "url": "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-10",
+   "window": "Deadline 2027-01-10",
+   "summary": "Application Deadline: 10 January 2027 (12:00 midday CET). Applications are now open for the 2027 International Agency for Research on Cancer (IARC) Summer School. The IARC Summer School is designed The post The International...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Africans",
+   "addedAt": "2026-11-26"
+  },
+  {
    "id": "f-9bde88c3d9a8",
    "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
    "provider": "Listed on Opportunity Desk",
@@ -4846,6 +4870,28 @@
    "score": 4,
    "source": "Opportunity Desk",
    "addedAt": "2026-10-30"
+  },
+  {
+   "id": "f-9b95ead6ca23",
+   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-27",
+   "window": "Deadline 2026-11-27",
+   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-17"
   },
   {
    "id": "f-3eecfb67a763",
@@ -5170,6 +5216,30 @@
    "addedAt": "2026-11-05"
   },
   {
+   "id": "f-b48080505597",
+   "title": "Commonwealth Fund Grants: Funding Opportunities to Advance Equitable, High-Quality Health Care",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/26/commonwealth-fund-grants-funding-opportunities-to-advance-equitable-high-quality-health-care/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "unknown",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "Introduction The Commonwealth Fund supports work aimed at improving health care access, quality and efficiency, with a particular focus on achieving equitable outcomes for people facing barriers to care. Through its grantmaking...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-26"
+  },
+  {
    "id": "f-1f502747de82",
    "title": "University of York NatWest Life Sciences Accelerator 2027 – Free 12-Week Programme in the UK for Global Life Sciences...",
    "provider": "Listed on Opportunities for Youth",
@@ -5437,26 +5507,28 @@
    "addedAt": "2026-11-05"
   },
   {
-   "id": "f-9b95ead6ca23",
-   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "id": "f-59c0919e1852",
+   "title": "Erasmus Mundus Joint Master in Marine Biotechnology 2027/2028: Scholarships, Tuition Waivers and International Study...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
-   "category": "volunteer",
-   "level": [],
+   "url": "https://opportunitiesforyouth.org/2026/11/26/erasmus-mundus-joint-master-in-marine-biotechnology-2027-2028-scholarships-tuition-waivers-and-international-study-opportunities/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
    "funding": "full",
-   "destination": "Remote",
-   "remote": true,
+   "destination": "Varies",
+   "remote": false,
    "medical": "specific",
-   "deadline": "2026-11-27",
-   "window": "Deadline 2026-11-27",
-   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
+   "deadline": "2027-01-31",
+   "window": "Deadline 2027-01-31",
+   "summary": "The Joint Master Programme in Marine Biotechnology (JMPMB) is an international postgraduate study opportunity designed for graduates who want to develop advanced knowledge and professional skills in marine biotechnology, also...",
    "tags": [
-    "Open to Africans"
+    "Check eligibility"
    ],
    "kind": "feed",
    "score": 3,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-11-17"
+   "addedAt": "2026-11-26"
   },
   {
    "id": "f-6ca259d9dc04",
@@ -5824,6 +5896,28 @@
    "score": 3,
    "source": "Opportunities for Youth",
    "addedAt": "2026-10-15"
+  },
+  {
+   "id": "f-e15a409851ea",
+   "title": "2027 Infectious Disease Sciences Summer Scholar Internship: 8-Week Research, Clinical Shadowing and Mentorship Program",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/26/2027-infectious-disease-sciences-summer-scholar-internship-8-week-research-clinical-shadowing-and-mentorship-program/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2027-01-08",
+   "window": "Deadline 2027-01-08",
+   "summary": "Applications are now open for the 2027 Infectious Disease Sciences Summer Scholar Internship , an eight-week summer internship designed for students interested in infectious diseases, biomedical research, clinical sciences, and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-26"
   },
   {
    "id": "f-9cd05c6e0917",
