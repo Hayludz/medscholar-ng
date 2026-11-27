@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generatedAt": "2026-11-26T21:35:53.242Z",
+  "generatedAt": "2026-11-27T08:38:37.606Z",
   "total": 258,
   "curated": 40,
   "sources": [
@@ -14,16 +14,16 @@
    {
     "name": "Opportunity Desk",
     "ok": true,
-    "scanned": 470,
+    "scanned": 460,
     "matched": 31,
-    "failed": 1
+    "failed": 2
    },
    {
     "name": "Opportunities for Youth",
     "ok": true,
-    "scanned": 368,
-    "matched": 145,
-    "failed": 1
+    "scanned": 358,
+    "matched": 143,
+    "failed": 2
    },
    {
     "name": "Funds for NGOs",
@@ -59,7 +59,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "commonwealth-masters",
@@ -84,7 +84,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "commonwealth-phd",
@@ -109,7 +109,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "mastercard-foundation-scholars",
@@ -135,7 +135,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "daad-epos",
@@ -160,8 +160,8 @@
    "kind": "curated",
    "source": "Official page",
    "addedAt": "2026-10-03",
-   "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "linkStatus": "blocked",
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "fulbright-foreign-student",
@@ -187,7 +187,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "gates-cambridge",
@@ -213,7 +213,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "clarendon-oxford",
@@ -239,7 +239,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "rotary-peace",
@@ -265,7 +265,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "jjwbgsp",
@@ -290,7 +290,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "si-global-professionals",
@@ -316,7 +316,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "australia-awards-africa",
@@ -341,7 +341,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "erasmus-mundus",
@@ -366,7 +366,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "turkiye-burslari",
@@ -392,7 +392,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "csc-china",
@@ -418,7 +418,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "mandela-rhodes",
@@ -444,7 +444,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "lstm-nigeria",
@@ -470,7 +470,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "edctp-fellowships",
@@ -497,7 +497,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "fleming-fellowship",
@@ -523,7 +523,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "tdr-training",
@@ -550,7 +550,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "nlng-postgrad",
@@ -575,7 +575,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "id": "tetfund-postgrad",
@@ -601,7 +601,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -625,7 +625,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -649,7 +649,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -673,7 +673,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -697,7 +697,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -721,7 +721,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -745,7 +745,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -771,7 +771,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -794,7 +794,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "blocked",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -818,7 +818,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -841,7 +841,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "unreachable",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -865,7 +865,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -889,7 +889,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -913,7 +913,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -937,7 +937,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -961,7 +961,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -985,7 +985,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -1009,7 +1009,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "deadline": null,
@@ -1033,7 +1033,7 @@
    "source": "Official page",
    "addedAt": "2026-10-03",
    "linkStatus": "ok",
-   "checkedAt": "2026-11-26T21:33:11.761Z"
+   "checkedAt": "2026-11-27T08:35:32.663Z"
   },
   {
    "category": "funding",
@@ -4120,6 +4120,30 @@
    "addedAt": "2026-11-25"
   },
   {
+   "category": "funding",
+   "remote": false,
+   "id": "f-3eecfb67a763",
+   "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "medical": "specific",
+   "deadline": "2027-01-17",
+   "window": "Deadline 2027-01-17",
+   "summary": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics...",
+   "tags": [
+    "Check eligibility"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-14"
+  },
+  {
    "id": "f-a03f851f19ef",
    "title": "The SAP Young Professionals Program 2027 for young African graduates.",
    "provider": "Listed on Opportunities for Africans",
@@ -4872,50 +4896,29 @@
    "addedAt": "2026-10-30"
   },
   {
-   "id": "f-9b95ead6ca23",
-   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "id": "f-d77e2ca3f70b",
+   "title": "VBC Summer School 2027 in Vienna, Austria: Fully Funded 9-Week and 3-Month Research Programs for Bachelor’s and Master’s...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2026-11-27",
-   "window": "Deadline 2026-11-27",
-   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-17"
-  },
-  {
-   "id": "f-3eecfb67a763",
-   "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
+   "url": "https://opportunitiesforyouth.org/2026/11/20/vbc-summer-school-2027-in-vienna-austria-fully-funded-9-week-and-3-month-research-programs-for-bachelors-and-masters-students/",
    "category": "funding",
    "level": [
-    "masters"
+    "masters",
+    "phd"
    ],
    "funding": "full",
    "destination": "Varies",
    "remote": false,
    "medical": "specific",
-   "deadline": "2027-01-17",
-   "window": "Deadline 2027-01-17",
-   "summary": "The AFS Global STEM Academies 2027 is an international, fully funded study abroad scholarship program offering young people an exceptional opportunity to develop their knowledge of Science, Technology, Engineering, and Mathematics...",
+   "deadline": "2027-01-11",
+   "window": "Deadline 2027-01-11",
+   "summary": "The Vienna BioCenter (VBC) Summer School 2027 is now accepting applications from Bachelor’s and Master’s students interested in gaining hands-on research experience in a leading European life-sciences research environment. The...",
    "tags": [
     "Check eligibility"
    ],
    "kind": "feed",
    "score": 3,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-11-14"
+   "addedAt": "2026-11-20"
   },
   {
    "id": "f-04837d984d87",
@@ -4941,6 +4944,28 @@
    "score": 7,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-02"
+  },
+  {
+   "id": "f-52224b165f39",
+   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "unknown",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-10",
+   "window": "Deadline 2026-11-10",
+   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-10-06"
   },
   {
    "id": "f-02a5c8ad23d3",
@@ -5337,6 +5362,33 @@
    "addedAt": "2026-11-25"
   },
   {
+   "id": "f-c44ffd4a4792",
+   "title": "2027 University College Cork (UCC) Futures Scholars Programme: Fully Funded PhD Scholarships in Ireland for...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/07/2027-university-college-cork-ucc-futures-scholars-programme-fully-funded-phd-scholarships-in-ireland-for-international-students-e25000-annual-stipend/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2026-12-11",
+   "window": "Deadline 2026-12-11",
+   "summary": "Overview of the UCC Futures Scholars Programme 2027 The UCC Futures Scholars Programme (GoI) is the flagship institutional doctoral scholarship programme of University College Cork, Ireland. Supported through the Research Ireland...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 4,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-07"
+  },
+  {
    "id": "f-99b244a0e486",
    "title": "World Cancer Research Fund International Regular Grants 2026–2027: Apply for Cancer Research Funding of Up to £500,000",
    "provider": "Listed on Opportunities for Youth",
@@ -5531,6 +5583,50 @@
    "addedAt": "2026-11-26"
   },
   {
+   "id": "f-9b95ead6ca23",
+   "title": "UNDP Internship 2026 in Italy: Programme Management and Operations Support Internship in Rome",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/17/undp-internship-2026-in-italy-programme-management-and-operations-support-internship-in-rome/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2026-11-27",
+   "window": "Deadline 2026-11-27",
+   "summary": "The United Nations Development Programme (UNDP) Internship Programme 2026 is offering an opportunity for eligible university students and recent graduates to gain practical professional experience through its Programme Management...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-17"
+  },
+  {
+   "id": "f-0817d39ee28d",
+   "title": "UCLA Public Health Scholars Training Program 2027: $4,000 Stipend, Free Campus Housing and an 8-Week Public Health...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/05/ucla-public-health-scholars-training-program-2027-4000-stipend-free-campus-housing-and-an-8-week-public-health-internship-in-the-usa/",
+   "category": "volunteer",
+   "level": [],
+   "funding": "full",
+   "destination": "Remote",
+   "remote": true,
+   "medical": "specific",
+   "deadline": "2027-01-31",
+   "window": "Deadline 2027-01-31",
+   "summary": "The UCLA Public Health Scholars Training Program 2027 is offering undergraduate students and eligible recent college graduates an opportunity to gain practical experience in public health through an intensive eight-week summer...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 6,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-05"
+  },
+  {
    "id": "f-6ca259d9dc04",
    "title": "Beit Trust Scholarships 2027/2028: Fully Funded Postgraduate Master’s Scholarships at Top Universities in the UK and...",
    "provider": "Listed on Opportunities for Youth",
@@ -5557,6 +5653,30 @@
    "addedAt": "2026-10-21"
   },
   {
+   "id": "f-b638f1f120a1",
+   "title": "Queen Elizabeth Commonwealth Scholarships 2027 – Fully Funded Master’s Scholarships in 8 Commonwealth Countries Apply...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/27/queen-elizabeth-commonwealth-scholarships-2027-fully-funded-masters-scholarships-in-8-commonwealth-countries-apply-now/",
+   "category": "funding",
+   "level": [
+    "masters"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": "2027-01-13",
+   "window": "Deadline 2027-01-13",
+   "summary": "The Queen Elizabeth Commonwealth Scholarships (QECS) 2027 offer an outstanding opportunity for international students to pursue a fully funded two-year master's degree at selected universities in low- and middle-income...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 3,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-27"
+  },
+  {
    "id": "f-d03092f9265e",
    "title": "UCL Global Mental Health MSc 2027: One-Year Master’s Degree in London for UK and International Students",
    "provider": "Listed on Opportunities for Youth",
@@ -5579,30 +5699,6 @@
    "score": 10,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-11"
-  },
-  {
-   "id": "f-827c99a85e67",
-   "title": "EMPHNET Scholarships 2026: 30% Tuition Fee Scholarships for Two Master's Degrees in Public Health and Epidemiology",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/10/emphnet-scholarships-2026-30-tuition-fee-scholarships-for-two-masters-degrees-in-public-health-and-epidemiology/",
-   "category": "funding",
-   "level": [
-    "masters"
-   ],
-   "funding": "unknown",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-10-28",
-   "window": "Deadline 2026-10-28",
-   "summary": "The Eastern Mediterranean Public Health Network (EMPHNET) is offering scholarship opportunities covering 30% of tuition fees for eligible students from low- and lower-middle-income countries who wish to pursue postgraduate studies...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-10"
   },
   {
    "id": "f-8ef9d3ff6442",
@@ -5798,26 +5894,57 @@
    "addedAt": "2026-10-07"
   },
   {
-   "id": "f-52224b165f39",
-   "title": "Bayer Foundation Scientific Fellowships 2027: Up to €10,000 for International Research, Internships and Scientific...",
+   "id": "f-ea2a31a94d4b",
+   "title": "University of Notre Dame Fully Funded PhD in Sustainable Development 2027: Full Tuition, 12-Month Stipend and Research...",
    "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/10/06/2025-bayer-fellowship-program-fully-funded-international-research-training-opportunity-for-students-educators-and-professionals/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "unknown",
-   "destination": "Remote",
-   "remote": true,
+   "url": "https://opportunitiesforyouth.org/2026/11/05/notre-dame-funded-phd-2027/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship",
+    "research"
+   ],
+   "funding": "full",
+   "destination": "United States",
+   "remote": false,
    "medical": "specific",
-   "deadline": "2026-11-10",
-   "window": "Deadline 2026-11-10",
-   "summary": "The fellowship program is designed to support promising students who want to gain international research experience, develop new scientific skills, work with researchers in another country and strengthen their academic and...",
+   "deadline": "2026-12-01",
+   "window": "Deadline 2026-12-01",
+   "summary": "Applications are now open for the University of Notre Dame Ph.D. in Sustainable Development for Fall 2027 , a fully funded, interdisciplinary doctoral programme designed for scholars seeking to address major global challenges...",
    "tags": [
     "Open to Africans"
    ],
    "kind": "feed",
-   "score": 3,
+   "score": 4,
    "source": "Opportunities for Youth",
-   "addedAt": "2026-10-06"
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "f-21daaac29650",
+   "title": "University of Nebraska at Omaha PhD in Public Administration 2027: Admission Requirements, Fully Funded Graduate...",
+   "provider": "Listed on Opportunities for Youth",
+   "url": "https://opportunitiesforyouth.org/2026/11/04/university-of-nebraska-at-omaha-phd-in-public-administration-2027-admission-requirements-fully-funded-graduate-assistantships-scholarships-and-application-deadlines/",
+   "category": "funding",
+   "level": [
+    "masters",
+    "phd",
+    "fellowship"
+   ],
+   "funding": "full",
+   "destination": "Varies",
+   "remote": false,
+   "medical": "specific",
+   "deadline": null,
+   "window": "Deadline not stated in the listing. Open the link to confirm.",
+   "summary": "The University of Nebraska at Omaha (UNO) invites prospective doctoral students to explore its Doctor of Philosophy (PhD) in Public Administration programme through the School of Public Administration. The programme is designed...",
+   "tags": [
+    "Open to Africans"
+   ],
+   "kind": "feed",
+   "score": 7,
+   "source": "Opportunities for Youth",
+   "addedAt": "2026-11-04"
   },
   {
    "id": "f-2e8ce66ff317",
@@ -6107,133 +6234,6 @@
    "score": 2,
    "source": "Opportunities for Youth",
    "addedAt": "2026-11-11"
-  },
-  {
-   "id": "f-c44ffd4a4792",
-   "title": "2027 University College Cork (UCC) Futures Scholars Programme: Fully Funded PhD Scholarships in Ireland for...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/07/2027-university-college-cork-ucc-futures-scholars-programme-fully-funded-phd-scholarships-in-ireland-for-international-students-e25000-annual-stipend/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-11",
-   "window": "Deadline 2026-12-11",
-   "summary": "Overview of the UCC Futures Scholars Programme 2027 The UCC Futures Scholars Programme (GoI) is the flagship institutional doctoral scholarship programme of University College Cork, Ireland. Supported through the Research Ireland...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-07"
-  },
-  {
-   "id": "f-ea2a31a94d4b",
-   "title": "University of Notre Dame Fully Funded PhD in Sustainable Development 2027: Full Tuition, 12-Month Stipend and Research...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/05/notre-dame-funded-phd-2027/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship",
-    "research"
-   ],
-   "funding": "full",
-   "destination": "United States",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2026-12-01",
-   "window": "Deadline 2026-12-01",
-   "summary": "Applications are now open for the University of Notre Dame Ph.D. in Sustainable Development for Fall 2027 , a fully funded, interdisciplinary doctoral programme designed for scholars seeking to address major global challenges...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 4,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-05"
-  },
-  {
-   "id": "f-d77e2ca3f70b",
-   "title": "VBC Summer School 2027 in Vienna, Austria: Fully Funded 9-Week and 3-Month Research Programs for Bachelor’s and Master’s...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/20/vbc-summer-school-2027-in-vienna-austria-fully-funded-9-week-and-3-month-research-programs-for-bachelors-and-masters-students/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": "2027-01-11",
-   "window": "Deadline 2027-01-11",
-   "summary": "The Vienna BioCenter (VBC) Summer School 2027 is now accepting applications from Bachelor’s and Master’s students interested in gaining hands-on research experience in a leading European life-sciences research environment. The...",
-   "tags": [
-    "Check eligibility"
-   ],
-   "kind": "feed",
-   "score": 3,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-20"
-  },
-  {
-   "id": "f-0817d39ee28d",
-   "title": "UCLA Public Health Scholars Training Program 2027: $4,000 Stipend, Free Campus Housing and an 8-Week Public Health...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/05/ucla-public-health-scholars-training-program-2027-4000-stipend-free-campus-housing-and-an-8-week-public-health-internship-in-the-usa/",
-   "category": "volunteer",
-   "level": [],
-   "funding": "full",
-   "destination": "Remote",
-   "remote": true,
-   "medical": "specific",
-   "deadline": "2027-01-31",
-   "window": "Deadline 2027-01-31",
-   "summary": "The UCLA Public Health Scholars Training Program 2027 is offering undergraduate students and eligible recent college graduates an opportunity to gain practical experience in public health through an intensive eight-week summer...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 6,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-05"
-  },
-  {
-   "id": "f-21daaac29650",
-   "title": "University of Nebraska at Omaha PhD in Public Administration 2027: Admission Requirements, Fully Funded Graduate...",
-   "provider": "Listed on Opportunities for Youth",
-   "url": "https://opportunitiesforyouth.org/2026/11/04/university-of-nebraska-at-omaha-phd-in-public-administration-2027-admission-requirements-fully-funded-graduate-assistantships-scholarships-and-application-deadlines/",
-   "category": "funding",
-   "level": [
-    "masters",
-    "phd",
-    "fellowship"
-   ],
-   "funding": "full",
-   "destination": "Varies",
-   "remote": false,
-   "medical": "specific",
-   "deadline": null,
-   "window": "Deadline not stated in the listing. Open the link to confirm.",
-   "summary": "The University of Nebraska at Omaha (UNO) invites prospective doctoral students to explore its Doctor of Philosophy (PhD) in Public Administration programme through the School of Public Administration. The programme is designed...",
-   "tags": [
-    "Open to Africans"
-   ],
-   "kind": "feed",
-   "score": 7,
-   "source": "Opportunities for Youth",
-   "addedAt": "2026-11-04"
   },
   {
    "id": "f-fb276a089aa9",
